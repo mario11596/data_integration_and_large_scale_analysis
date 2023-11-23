@@ -5,7 +5,7 @@ import pandas as pd
 import phonenumbers as phn
 from phonenumbers import geocoder
 from phonenumbers import PhoneNumber
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder, TargetEncoder
 
 #TODO no address also dropped?, 
 #     first phone area good enought?
@@ -253,21 +253,21 @@ def city_feature_encoding(outputname):
     data_file = pd.read_csv(filepath_or_buffer=outputname, delimiter=',', low_memory=False)
 
     encoder = TargetEncoder()
-    encoder.fit(X=data_file['CITY'], y=data_file['PHONEAREACODE'])
+    encoder.fit(X=data_file[['CITY']], y=data_file['PHONEAREACODE'])
     data_file['CITY_ENCODING'] = encoder.transform(data_file['CITY'])
     data_file.to_csv(outputname, index=False, sep=',')
 
 def cleaning_feature_encoding(outputname : str):
-    filter_columns_file(outputname)
-    state_feature_encoding(outputname)
+    #filter_columns_file(outputname)
+    #state_feature_encoding(outputname)
     city_feature_encoding(outputname)
 
     return
 
 def main():
-    with open("data/yelp.csv", "+r") as yelp_csv:
-        clean_address(yelp_csv, "yelp_loc_cleaned")
-        cleaning_feature_encoding("yelp_loc_cleaned.csv")
+   # with open("data/yelp.csv", "+r") as yelp_csv:
+  #      clean_address(yelp_csv, "yelp_loc_cleaned")
+    cleaning_feature_encoding("data/yelp_loc_cleaned.csv")
         
     #with open("data/zomato.csv", "+r") as zomato_csv:
     #    clean_address(zomato_csv, "zomato_loc_cleaned")
