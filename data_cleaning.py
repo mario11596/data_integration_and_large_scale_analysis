@@ -5,6 +5,7 @@ import pandas as pd
 import phonenumbers as phn
 from phonenumbers import geocoder
 from phonenumbers import PhoneNumber
+from sklearn.preprocessing import OneHotEncoder
 
 #TODO no address also dropped?, 
 #     first phone area good enought?
@@ -223,14 +224,57 @@ def clean_address(csv_file, output_name: str):
     write_debug(region_map, "city_names")
     return
 
+def filter_columns_file(outputname):
+    data_file = pd.read_csv(filepath_or_buffer=outputname, delimiter=',', low_memory=False)
+
+    # delete records with only numbers in name
+    check_contain_numeric_name = data_file["NAME"].str.isnumeric()
+    index = check_contain_numeric_name.index[check_contain_numeric_name == True].tolist()
+    data_file.drop(labels=index, axis=0, inplace=True)
+
+    # remove symbols from name
+    data_file["NAME"].replace('\W', '', regex=True, inplace=True)
+    data_file["NAME"].replace('', None, regex=True, inplace=True)
+
+    # delete records that have null name
+    data_file.dropna(subset=['NAME'], inplace=True)
+    data_file.to_csv(outputname, index=False, sep=',')
+
+def state_feature_encoding(outputname):
+    data_file = pd.read_csv(filepath_or_buffer=outputname, delimiter=',', low_memory=False)
+
+    encoder = OneHotEncoder()
+    columnes = ['state_0', 'state_1', 'state_2','state_3','state_4','state_5','state_6','state_7','state_8']
+    data_file[columnes] = pd.DataFrame(encoder.fit_transform(data_file[['STATE']]).toarray())
+    data_file.to_csv(outputname, index=False, sep=',')
+
+
+def city_feature_encoding(outputname):
+    data_file = pd.read_csv(filepath_or_buffer=outputname, delimiter=',', low_memory=False)
+
+    encoder = TargetEncoder()
+    encoder.fit(X=data_file['CITY'], y=data_file['PHONEAREACODE'])
+    data_file['CITY_ENCODING'] = encoder.transform(data_file['CITY'])
+    data_file.to_csv(outputname, index=False, sep=',')
+
+def cleaning_feature_encoding(outputname : str):
+    filter_columns_file(outputname)
+    state_feature_encoding(outputname)
+    city_feature_encoding(outputname)
+
+    return
+
 def main():
     with open("data/yelp.csv", "+r") as yelp_csv:
         clean_address(yelp_csv, "yelp_loc_cleaned")
+        cleaning_feature_encoding("yelp_loc_cleaned.csv")
         
-    with open("data/zomato.csv", "+r") as zomato_csv:
-        clean_address(zomato_csv, "zomato_loc_cleaned")
+    #with open("data/zomato.csv", "+r") as zomato_csv:
+    #    clean_address(zomato_csv, "zomato_loc_cleaned")
+    #    cleaning_feature_encoding("data/zomato_loc_cleaned.csv")
         
     return
-    
+
+
 if __name__ == "__main__":
     main()
