@@ -42,12 +42,12 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000041,5th Quarter Sports Bar & Grill ,(608) 845-9690,"161 Horizon Dr, Verona, WI 53593",Verona,WI,608845
 1445980000042,6 Degrees ,(773) 904-8812,"1935 N Damen, Chicago, IL 60647",Chicago,IL,773904
 1445980000043,608 Restaurant and Bar ,(608) 250-5150,"212 State St, Madison, WI 53703",Madison,WI,608250
-1445980000044,61 Local ,(718) 875-1150,"61 Bergen St, Brooklyn, NY 11201",New York,NY,718875
+1445980000044,61 Local ,(718) 875-1150,"61 Bergen St, Brooklyn, NY 11201",Brooklyn,NY,718875
 1445980000045,694 Wine & Spirits ,(312) 492-6620,"694 N Milwaukee Ave, Chicago, IL 60642",Chicago,IL,312492
 1445980000046,707 Sutter ,(415) 346-7979,"707 Sutter St, San Francisco, CA 94109",San Francisco,CA,415346
 1445980000047,8th Avenue Holiday Market ,1445980000000,"46th St 8th Ave, New York, NY 10036",New York,NY,212586
 1445980000048,9021PHO ,(323) 656-9021,"7950 W Sunset Blvd, West Hollywood, CA 90046",West Hollywood,CA,323656
-1445980000049,99 Cents the Limit Incorporated ,(718) 891-8283,"2845 Coney Island Ave, Brooklyn, NY 11235",New York,NY,718891
+1445980000049,99 Cents the Limit Incorporated ,(718) 891-8283,"2845 Coney Island Ave, Brooklyn, NY 11235",Brooklyn,NY,718891
 1445980000050,99 Favor Taste ,(646) 682-9122,"285 Grand St, New York, NY 10002",New York,NY,646682
 1445980000051,A,(310) 398-7700,"12565 Washington Blvd, Los Angeles, CA 90066",Los Angeles,CA,310398
 1445980000052,A & M Market ,(415) 931-2153,"1600 Sutter St, San Francisco, CA 94109",San Francisco,CA,415931
@@ -117,7 +117,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000116,AH Smith Custom Floors ,(608) 335-9040,"2650 E Washington, Madison, WI 53704",Madison,WI,608335
 1445980000117,Ahgassi Gopchang ,(213) 249-9678,"3744 W 6th St, Los Angeles, CA 90005",Los Angeles,CA,213249
 1445980000118,Aicha ,(415) 345-9947,"1303 Polk St, San Francisco, CA 94109",San Francisco,CA,415345
-1445980000119,Aita ,(718) 576-3584,"132 Greene Ave, Brooklyn, NY 11238",New York,NY,718576
+1445980000119,Aita ,(718) 576-3584,"132 Greene Ave, Brooklyn, NY 11238",Brooklyn,NY,718576
 1445980000120,AJ Bombers ,(608) 305-4474,"201 W Gorham St, Madison, WI 53703",Madison,WI,608305
 1445980000121,AJ�۪s Pizzeria and Diner ,(608) 497-1303,"300 S Main St, Verona, WI 53593",Verona,WI,608497
 1445980000122,AK Subs ,(415) 241-9600,"397 8th St, San Francisco, CA 94103",San Francisco,CA,415241
@@ -127,7 +127,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000126,Akiko�۪s Restaurant ,(415) 397-3218,"431 Bush St, San Francisco, CA 94108",San Francisco,CA,415397
 1445980000127,Al,1445980000000,"236 W Division St, Chicago, IL 60610",Chicago,IL,800586
 1445980000128,Aladdin Sweets & Restaurant ,(718) 784-2554,"2906 36th Ave, Astoria, NY 11106",Astoria,NY,718784
-1445980000129,Alameda ,1445980000000,"195 Franklin St, Brooklyn, NY 11222",New York,NY,212586
+1445980000129,Alameda ,1445980000000,"195 Franklin St, Brooklyn, NY 11222",Brooklyn,NY,718875
 1445980000130,Alan Koa Salon & Spa ,(608) 284-1956,"202 State St, Madison, WI 53703",Madison,WI,608284
 1445980000131,Albert�۪s Mexican Grill ,(323) 466-1193,"5210 Beverly Blvd, Los Angeles, CA 90004",Los Angeles,CA,323466
 1445980000132,Albertino�۪s ,(415) 563-4761,"1897 Lombard St, San Francisco, CA 94123",San Francisco,CA,415563
@@ -168,7 +168,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000167,Allegra Print & Imaging ,(415) 824-9610,"434 9th St, San Francisco, CA 94103",San Francisco,CA,415824
 1445980000168,Allegro Romano ,(415) 928-4002,"1701 Jones St, San Francisco, CA 94109",San Francisco,CA,415928
 1445980000169,Allstate Insurance: Todd Gentile ,(847) 384-9050,"1 N Northwest Hwy, Park Ridge, IL 60068",Park Ridge,IL,847384
-1445980000170,AlMar ,(718) 855-5288,"111 Front St, Brooklyn, NY 11201",New York,NY,718855
+1445980000170,AlMar ,(718) 855-5288,"111 Front St, Brooklyn, NY 11201",Brooklyn,NY,718855
 1445980000171,Almond Tribeca ,(212) 431-0606,"186 Franklin St, New York, NY 10013",New York,NY,212431
 1445980000172,Alt�۪ N Bach�۪s Town Tap ,(608) 271-9955,"2602 Whalen Ln, Madison, WI 53713",Madison,WI,608271
 1445980000173,Alta CA ,(415) 590-2585,"1420 Market St, San Francisco, CA 94102",San Francisco,CA,415590
@@ -208,7 +208,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000207,Ananda Fuara ,(415) 621-1994,"1298 Market St, San Francisco, CA 94102",San Francisco,CA,415621
 1445980000208,Anar Restaurant ,(415) 543-2627,"937 Harrison St, San Francisco, CA 94107",San Francisco,CA,415543
 1445980000209,Anastacia S.'s review of Tommy Bahama Restaurant & Bar ,(212) 537-0960,"551 5th Ave, New York, NY 10176",New York,NY,212537
-1445980000210,Anatolian Gyro Restaurant ,(718) 769-4754,"1605 Sheepshead Bay Rd, Brooklyn, NY 11235",New York,NY,718769
+1445980000210,Anatolian Gyro Restaurant ,(718) 769-4754,"1605 Sheepshead Bay Rd, Brooklyn, NY 11235",Brooklyn,NY,718769
 1445980000211,Anchor Associates Group ,(212) 319-2220,"950 3rd Ave, New York, NY 10022",New York,NY,212319
 1445980000212,Anchor Associates Midtown ,(212) 826-3100,"150 E 58th St, New York, NY 10155",New York,NY,212826
 1445980000213,Anchor Oyster Bar ,(415) 431-3990,"579 Castro St, San Francisco, CA 94114",San Francisco,CA,415431
@@ -217,8 +217,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000216,Anderson & Shapiro Eye Care ,(608) 827-7705,"1200 John Q Hammons Dr, Madison, WI 53717",Madison,WI,608827
 1445980000217,Anderson Financial Group ,(773) 661-6000,"Chicago, IL 60614",Chicago,IL,773661
 1445980000218,Andre�۪s Italian Restaurant ,(323) 935-1246,"6332 W 3rd St, Los Angeles, CA 90036",Los Angeles,CA,323935
-1445980000219,Andrea N.'s review of The Green Fig Bakery Caf,(718) 369-8937,"462 36th St, Brooklyn, NY 11232",New York,NY,718369
-1445980000220,Anella ,(718) 389-8100,"222 Franklin St, Brooklyn, NY 11222",New York,NY,718389
+1445980000219,Andrea N.'s review of The Green Fig Bakery Caf,(718) 369-8937,"462 36th St, Brooklyn, NY 11232",Brooklyn,NY,718369
+1445980000220,Anella ,(718) 389-8100,"222 Franklin St, Brooklyn, NY 11222",Brooklyn,NY,718389
 1445980000221,Angel�۪s Share ,(212) 777-5415,"8 Stuyvesant St, New York, NY 10003",New York,NY,212777
 1445980000222,Angelini Osteria ,(323) 297-0070,"7313 Beverly Blvd, Los Angeles, CA 90036",Los Angeles,CA,323297
 1445980000223,Angelo�۪s ,(608) 838-2233,"4706 Farwell St, McFarland, WI 53558",McFarland,WI,608838
@@ -229,7 +229,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000228,Angie M.'s review of Small Cheva,1445980000000,"1732 N Milwaukee Ave, Chicago, IL 60647",Chicago,IL,800586
 1445980000229,Angie�۪s Quick Stitch ,(708) 233-2415,"6322 W 87th St, Burbank, IL 60459",Burbank,IL,708233
 1445980000230,Angkor Borei ,(415) 550-8417,"3471 Mission St, San Francisco, CA 94110",San Francisco,CA,415550
-1445980000231,Ani J.'s review of Vice Versa VIntag,(718) 788-1925,"550 5th Ave, Brooklyn, NY 11215",New York,NY,718788
+1445980000231,Ani J.'s review of Vice Versa VIntag,(718) 788-1925,"550 5th Ave, Brooklyn, NY 11215",Brooklyn,NY,718788
 1445980000232,Animal ,(323) 782-9225,"435 N Fairfax Ave, Los Angeles, CA 90036",Los Angeles,CA,323782
 1445980000233,Anita S.'s review of PMF Pardon My Frenc,(212) 358-9683,"103 Ave B, New York, NY 10009",New York,NY,212358
 1445980000234,ANiU Salon Spa ,(608) 833-2898,"2275 Deming Way, Middleton, WI 53562",Middleton,WI,608833
@@ -335,7 +335,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000334,Atlas Cafe ,(415) 648-1047,"3049 20th St, San Francisco, CA 94110",San Francisco,CA,415648
 1445980000335,Atmosphere Cafe Mar Vista ,(310) 437-0144,"12034 Venice Blvd, Los Angeles, CA 90066",Los Angeles,CA,310437
 1445980000336,Atrium Cafe ,1445980000000,"600 Highland Ave, Madison, WI 53792",Madison,WI,608286
-1445980000337,Atrium DUMBO ,(718) 858-1095,"15 Main St, Brooklyn, NY 11201",New York,NY,718858
+1445980000337,Atrium DUMBO ,(718) 858-1095,"15 Main St, Brooklyn, NY 11201",Brooklyn,NY,718858
 1445980000338,Atwood Tax ,(608) 467-3070,"2453 Atwood Ave, Madison, WI 53704",Madison,WI,608467
 1445980000339,"Atwood, Kitchen & Bar Room ",(212) 371-2233,"986 2nd Ave, New York, NY 10022",New York,NY,212371
 1445980000340,Au Cheval ,(312) 929-4580,"800 W Randolph S, Chicago, IL 60607",Chicago,IL,312929
@@ -347,7 +347,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000346,Auntie Anne�۪s ,(608) 663-2722,"300 East Towne Mall, Madison, WI 53704",Madison,WI,608663
 1445980000347,Auntie April�۪s Chicken,(415) 643-4983,"4618 3rd St, San Francisco, CA 94124",San Francisco,CA,415643
 1445980000348,Aurelio�۪s Pizza ,(312) 374-4459,"1212 S Michigan Ave, Chicago, IL 60605",Chicago,IL,312374
-1445980000349,Aurora ,(718) 388-5100,"70 Grand St, Brooklyn, NY 11211",New York,NY,718388
+1445980000349,Aurora ,(718) 388-5100,"70 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718388
 1445980000350,Automatic Slims ,(212) 645-8660,"733 Washington St, New York, NY 10014",New York,NY,212645
 1445980000351,Avanti Italian Restaurant ,(608) 848-3315,"119 S Main St, Verona, WI 53593",Verona,WI,608848
 1445980000352,Avanti Ristorante ,(773) 539-8777,"3200 W Lawrence Ave, Chicago, IL 60625",Chicago,IL,773539
@@ -359,7 +359,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000358,Avenue Club and the Bubble Up Bar ,(608) 257-6877,"1128 E Washington Ave, Madison, WI 53703",Madison,WI,608257
 1445980000359,Avenue Club and the Bubble Up Bar ,(608) 257-6877,"1128 E Washington Ave, Madison, WI 53703",Madison,WI,608257
 1445980000360,Avenue Club and the Bubble Up Bar ,(608) 257-6877,"1128 E Washington Ave, Madison, WI 53703",Madison,WI,608257
-1445980000361,AWOL Eatery ,(347) 457-6752,"336 Graham Ave, Brooklyn, NY 11211",New York,NY,347457
+1445980000361,AWOL Eatery ,(347) 457-6752,"336 Graham Ave, Brooklyn, NY 11211",Brooklyn,NY,347457
 1445980000362,Axa Advisors ,(212) 408-2024,"1633 Broadway, New York, NY 10019",New York,NY,212408
 1445980000363,Ayada Thai ,(718) 424-0844,"7708 Woodside Ave, Elmhurst, NY 11373",Elmhurst,NY,718424
 1445980000364,Ayola ,(415) 348-0808,"118 New Montgomery St, San Francisco, CA 94105",San Francisco,CA,415348
@@ -375,8 +375,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000374,B�_co Mercat ,(213) 687-8808,"408 S Main St, Los Angeles, CA 90013",Los Angeles,CA,213687
 1445980000375,B��nh M�� B��Get ,(773) 278-2888,"2735 N Milwaukee Ave, Chicago, IL 60647",Chicago,IL,773278
 1445980000376,B��nh M�� B��Get ,(773) 868-9988,"3141 N Broadway St, Chicago, IL 60657",Chicago,IL,773868
-1445980000377,Ba Xuyen ,(718) 633-6601,"4222 8th Ave, Brooklyn, NY 11232",New York,NY,718633
-1445980000378,Ba�۪sik ,(347) 889-7597,"323 Graham Ave, Brooklyn, NY 11211",New York,NY,347889
+1445980000377,Ba Xuyen ,(718) 633-6601,"4222 8th Ave, Brooklyn, NY 11232",Brooklyn,NY,718633
+1445980000378,Ba�۪sik ,(347) 889-7597,"323 Graham Ave, Brooklyn, NY 11211",Brooklyn,NY,347889
 1445980000379,Bab Han Kki. One Bite. Pioneer Chicken ,(213) 389-3565,"928 S Western Ave, Los Angeles, CA 90006",Los Angeles,CA,213389
 1445980000380,Babcock Hall Dairy Store ,(608) 262-3045,"1605 Linden Dr, Madison, WI 53706",Madison,WI,608262
 1445980000381,Babes Grill & Bar ,(608) 274-7300,"5614 Schroeder Rd, Madison, WI 53711",Madison,WI,608274
@@ -446,7 +446,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000445,Barkowski ,(310) 998-0069,"2819 Pico Blvd, Santa Monica, CA 90405",Santa Monica,CA,310998
 1445980000446,Barley & Brass ,(312) 763-9600,"2015 W Division St, Chicago, IL 60622",Chicago,IL,312763
 1445980000447,Barnes & Noble ,(310) 260-9110,"1201 3rd St Promenade, Santa Monica, CA 90401",Santa Monica,CA,310260
-1445980000448,Baron�۪s ,(718) 230-7100,"564 Dekalb St, Brooklyn, NY 11205",New York,NY,718230
+1445980000448,Baron�۪s ,(718) 230-7100,"564 Dekalb St, Brooklyn, NY 11205",Brooklyn,NY,718230
 1445980000449,Baroo ,(323) 819-4344,"5706 Santa Monica Blvd, Los Angeles, CA 90038",Los Angeles,CA,323819
 1445980000450,Barrage ,(212) 586-9390,"401 W 47th St, New York, NY 10036",New York,NY,212586
 1445980000451,Barrel Down ,(213) 232-8657,"525 W 7th St, Los Angeles, CA 90014",Los Angeles,CA,213232
@@ -474,7 +474,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000473,Batter Brothers ,(303) 503-0781,"600 Block of University Ave, Madison, WI 53715",Madison,WI,303503
 1445980000474,Batter Up ,(415) 205-6032,"888 Geneva Ave, San Francisco, CA 94112",San Francisco,CA,415205
 1445980000475,Batteries Plus Bulbs ,(608) 242-9773,"3721 E Washington Ave, Madison, WI 53704",Madison,WI,608242
-1445980000476,Battersby ,(718) 852-8321,"255 Smith St, Brooklyn, NY 11231",New York,NY,718852
+1445980000476,Battersby ,(718) 852-8321,"255 Smith St, Brooklyn, NY 11231",Brooklyn,NY,718852
 1445980000477,Bavette�۪s Bar & Boeuf ,(312) 624-8154,"218 W Kinzie St, Chicago, IL 60654",Chicago,IL,312624
 1445980000478,Baxter Finley Barber & Shop ,(310) 657-4726,"515 N La Cienega Blvd, West Hollywood, CA 90048",West Hollywood,CA,310657
 1445980000479,Bay Subs & Deli ,(415) 346-3888,"2486 Sacramento St, San Francisco, CA 94115",San Francisco,CA,415346
@@ -507,8 +507,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000506,Becco ,(212) 397-7597,"355 W 46th St, New York, NY 10036",New York,NY,212397
 1445980000507,Becky Fisher ,(310) 497-6437,"8235 Santa Monica Blvd, Los Angeles, CA 90046",Los Angeles,CA,310497
 1445980000508,Bee & Tea ,(773) 394-4395,"1843 W North Ave, Chicago, IL 60622",Chicago,IL,773394
-1445980000509,BeeHive Oven Biscuit Cafe ,(347) 987-4960,"182 S 2nd St, Brooklyn, NY 11211",New York,NY,347987
-1445980000510,BeeHive Oven Biscuit Cafe ,(347) 987-4960,"182 S 2nd St, Brooklyn, NY 11211",New York,NY,347987
+1445980000509,BeeHive Oven Biscuit Cafe ,(347) 987-4960,"182 S 2nd St, Brooklyn, NY 11211",Brooklyn,NY,347987
+1445980000510,BeeHive Oven Biscuit Cafe ,(347) 987-4960,"182 S 2nd St, Brooklyn, NY 11211",Brooklyn,NY,347987
 1445980000511,Beer Belly ,(213) 387-2337,"532 S Western Ave, Los Angeles, CA 90020",Los Angeles,CA,213387
 1445980000512,Beer Garden Palm Tree By Lawn Stage ,1445980000000,"801-899 Exposition Park Dr, Los Angeles, CA 90037",Los Angeles,CA,323549
 1445980000513,Beezzee ,(773) 525-3570,"2807 N Sheffield Ave, Chicago, IL 60657",Chicago,IL,773525
@@ -538,11 +538,11 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000537,Benvenuto�۪s Italian Grill ,(608) 278-7800,"2949 Triverton Pike Dr, Fitchburg, WI 53711",Fitchburg,WI,608278
 1445980000538,Benvenuto�۪s Italian Grill ,(608) 241-1144,"1849 Northport Dr, Madison, WI 53704",Madison,WI,608241
 1445980000539,Benvenuto�۪s Italian Grill ,(608) 826-0555,"1109 Fourier Dr, Madison, WI 53717",Madison,WI,608826
-1445980000540,Beny�۪s Delice ,(718) 622-1400,"903 Fulton St, Brooklyn, NY 11238",New York,NY,718622
+1445980000540,Beny�۪s Delice ,(718) 622-1400,"903 Fulton St, Brooklyn, NY 11238",Brooklyn,NY,718622
 1445980000541,Beretta ,(415) 695-1199,"1199 Valencia St, San Francisco, CA 94110",San Francisco,CA,415695
 1445980000542,Beretta ,(415) 695-1199,"1199 Valencia St, San Francisco, CA 94110",San Francisco,CA,415695
 1445980000543,Bergamot Cafe ,(310) 828-4001,"2525 Michigan Ave, Santa Monica, CA 90404",Santa Monica,CA,310828
-1445980000544,Bergen Hill ,(718) 858-5483,"387 Court St, Brooklyn, NY 11231",New York,NY,718858
+1445980000544,Bergen Hill ,(718) 858-5483,"387 Court St, Brooklyn, NY 11231",Brooklyn,NY,718858
 1445980000545,Bergerac ,(415) 255-9440,"316 11th St, San Francisco, CA 94103",San Francisco,CA,415255
 1445980000546,Berghoff Caf̩ ,(312) 427-7399,"17 W Adams St, Chicago, IL 60603",Chicago,IL,312427
 1445980000547,Berlin Currywurst ,(323) 663-1989,"3827 W Sunset Blvd, Los Angeles, CA 90026",Los Angeles,CA,323663
@@ -717,7 +717,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000717,Bowery Bungalow ,(323) 663-1500,"4156 Santa Monica Blvd, Los Angeles, CA 90029",Los Angeles,CA,323663
 1445980000718,Box Kitchen ,(415) 580-7170,"431 Natoma St, San Francisco, CA 94103",San Francisco,CA,415580
 1445980000719,Boxing Room ,(415) 430-6590,"399 Grove St, San Francisco, CA 94102",San Francisco,CA,415430
-1445980000720,Bozu ,(718) 384-7770,"296 Grand St, Brooklyn, NY 11211",New York,NY,718384
+1445980000720,Bozu ,(718) 384-7770,"296 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718384
 1445980000721,BPI Environmental and Insulation ,(608) 658-1913,"1706 Fisher St, Madison, WI 53713",Madison,WI,608658
 1445980000722,Brad Bodden Insurance Agency ,(608) 231-2453,"3821 Nakoma Rd, Madison, WI 53711",Madison,WI,608231
 1445980000723,Brad S.'s review of Rosati's Pizza Sports Pu,(608) 833-9300,"6644 Mineral Point Rd, Madison, WI 53705",Madison,WI,608833
@@ -752,23 +752,23 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000752,Broaster Chicken ,(650) 755-2100,"243 Westlake Ctr, Daly City, CA 94015",Daly City,CA,650755
 1445980000753,Brocach ,(608) 255-2015,"7 W Main St, Madison, WI 53703",Madison,WI,608255
 1445980000754,Brocach ,(608) 819-8653,"1843 Monroe St, Madison, WI 53711",Madison,WI,608819
-1445980000755,Broccolino ,(718) 678-4200,"446 Dean St, Brooklyn, NY 11217",New York,NY,718678
+1445980000755,Broccolino ,(718) 678-4200,"446 Dean St, Brooklyn, NY 11217",Brooklyn,NY,718678
 1445980000756,Broken Shaker ,(312) 940-3699,"19 E Ohio St, Chicago, IL 60611",Chicago,IL,312940
 1445980000757,Broken Spanish ,(213) 749-1460,"1050 S Flower St, Los Angeles, CA 90015",Los Angeles,CA,213749
 1445980000758,Broken Spoke Rotisserie ,(212) 889-6298,"439 3rd Ave, New York, NY 10016",New York,NY,212889
 1445980000759,Bronzed Aussie ,(213) 243-0770,"714 S Los Angeles St, Los Angeles, CA 90014",Los Angeles,CA,213243
 1445980000760,Brooke Keeling Real Estate Advisors ,(608) 616-0095,"610 Junction Rd, Madison, WI 53717",Madison,WI,608616
-1445980000761,Brooklyn Ball Factory ,(718) 387-5296,"95 Montrose Ave, Brooklyn, NY 11206",New York,NY,718387
-1445980000762,Brooklyn Beet Company ,(347) 492-0020,"7205 3rd Ave, Brooklyn, NY 11209",New York,NY,347492
+1445980000761,Brooklyn Ball Factory ,(718) 387-5296,"95 Montrose Ave, Brooklyn, NY 11206",Brooklyn,NY,718387
+1445980000762,Brooklyn Beet Company ,(347) 492-0020,"7205 3rd Ave, Brooklyn, NY 11209",Brooklyn,NY,347492
 1445980000763,Brooklyn Deli & Mini Market ,(347) 981-8408,"4308 Crenshaw Blvd, Los Angeles, CA 90008",Los Angeles,CA,347981
 1445980000764,Brooklyn Diner ,(212) 977-1957,"212 W 57th St, New York, NY 10019",New York,NY,212977
-1445980000765,Brooklyn Ice House ,(718) 222-1865,"318 Van Brunt St, Brooklyn, NY 11231",New York,NY,718222
-1445980000766,Brooklyn Ice House ,(718) 222-1865,"318 Van Brunt St, Brooklyn, NY 11231",New York,NY,718222
-1445980000767,Brooklyn Industries ,(718) 486-6464,"162 Bedford Ave, Brooklyn, NY 11211",New York,NY,718486
-1445980000768,Brooklyn Star ,(718) 599-9899,"593 Lorimer St, Brooklyn, NY 11211",New York,NY,718599
-1445980000769,Brooklyn Vaper ,(347) 871-7718,"240 Kent Ave, Brooklyn, NY 11249",New York,NY,347871
-1445980000770,Brooklyn Warehouse ,1445980000000,"108 Roebling St, Brooklyn, NY 11211",New York,NY,212586
-1445980000771,Brooklyn Warehouse ,1445980000000,"108 Roebling St, Brooklyn, NY 11211",New York,NY,212586
+1445980000765,Brooklyn Ice House ,(718) 222-1865,"318 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,718222
+1445980000766,Brooklyn Ice House ,(718) 222-1865,"318 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,718222
+1445980000767,Brooklyn Industries ,(718) 486-6464,"162 Bedford Ave, Brooklyn, NY 11211",Brooklyn,NY,718486
+1445980000768,Brooklyn Star ,(718) 599-9899,"593 Lorimer St, Brooklyn, NY 11211",Brooklyn,NY,718599
+1445980000769,Brooklyn Vaper ,(347) 871-7718,"240 Kent Ave, Brooklyn, NY 11249",Brooklyn,NY,347871
+1445980000770,Brooklyn Warehouse ,1445980000000,"108 Roebling St, Brooklyn, NY 11211",Brooklyn,NY,718875
+1445980000771,Brooklyn Warehouse ,1445980000000,"108 Roebling St, Brooklyn, NY 11211",Brooklyn,NY,718875
 1445980000772,Brothers Sandwich Shop ,(213) 383-9900,"3274 W 6th St, Los Angeles, CA 90020",Los Angeles,CA,213383
 1445980000773,Brothers Three Bar & Grill ,(608) 244-6818,"614 N Fair Oaks Ave, Madison, WI 53714",Madison,WI,608244
 1445980000774,Brown�۪s Chicken and Pasta ,(773) 478-0228,"4359 N. Pulaski Rd., Chicago, IL 60686",Chicago,IL,773478
@@ -808,7 +808,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000808,Bulrocho Korean Restaurant ,(213) 383-0080,"955 S Vermont St, Los Angeles, CA 90006",Los Angeles,CA,213383
 1445980000809,Bunker Hill Bar & Grill ,(213) 688-2988,"601 W 5th St, Los Angeles, CA 90017",Los Angeles,CA,213688
 1445980000810,Bunky�۪s Cafe ,(608) 204-7004,"2425 Atwood Ave, Madison, WI 53704",Madison,WI,608204
-1445980000811,Bunsmith ,(347) 406-6660,"789 Franklin Ave, Brooklyn, NY 11238",New York,NY,347406
+1445980000811,Bunsmith ,(347) 406-6660,"789 Franklin Ave, Brooklyn, NY 11238",Brooklyn,NY,347406
 1445980000812,Burger & Lobster ,(646) 833-7532,"39 W 19th St, New York, NY 10011",New York,NY,646833
 1445980000813,Burger Antics ,(708) 255-5182,"3740 Grand Blvd, Brookfield, IL 60513",Brookfield,IL,708255
 1445980000814,Burger Bar ,(415) 296-4272,"251 Geary St, San Francisco, CA 94102",San Francisco,CA,415296
@@ -831,7 +831,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000831,Butcher�۪s Dog ,(310) 444-2929,"11301 W Olympic Blvd, Los Angeles, CA 90064",Los Angeles,CA,310444
 1445980000832,Butler & The Chef Bistro ,(415) 896-2075,"155A S Park St, San Francisco, CA 94107",San Francisco,CA,415896
 1445980000833,Butter ,(415) 863-5964,"354 11th St, San Francisco, CA 94103",San Francisco,CA,415863
-1445980000834,Buttermilk Channel ,(718) 852-8490,"524 Court St, Brooklyn, NY 11231",New York,NY,718852
+1445980000834,Buttermilk Channel ,(718) 852-8490,"524 Court St, Brooklyn, NY 11231",Brooklyn,NY,718852
 1445980000835,Buttermilk Southern Kitchen ,(415) 341-1031,"2848 23rd St, San Francisco, CA 94110",San Francisco,CA,415341
 1445980000836,Buttermilk Southern Kitchen ,(415) 341-1031,"2848 23rd St, San Francisco, CA 94110",San Francisco,CA,415341
 1445980000837,Butterscotch On The Go ,(650) 303-7361,"60 Middlefield Rd, Menlo Park, CA 94025",Menlo Park,CA,650303
@@ -842,7 +842,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000842,Buzz ,(415) 592-9958,"3420 Geary Blvd, San Francisco, CA 94118",San Francisco,CA,415592
 1445980000843,Buzz: Killer Espresso ,(773) 366-8377,"1644 N Damen Ave, Chicago, IL 60647",Chicago,IL,773366
 1445980000844,by Chloe ,(212) 290-8000,"185 Bleecker St, New York, NY 10012",New York,NY,212290
-1445980000845,By Robert James ,(646) 604-9729,"193 Grand St, Brooklyn, NY 11211",New York,NY,646604
+1445980000845,By Robert James ,(646) 604-9729,"193 Grand St, Brooklyn, NY 11211",Brooklyn,NY,646604
 1445980000846,Byrnes McFarland Tavern ,(608) 838-6012,"5915 Exchange St, McFarland, WI 53558",McFarland,WI,608838
 1445980000847,Byul Gobchang ,(213) 739-0321,"3819 W 6th St, Los Angeles, CA 90020",Los Angeles,CA,213739
 1445980000848,C&M Cafe ,(310) 694-1516,"3272 Motor Ave, Los Angeles, CA 90034",Los Angeles,CA,310694
@@ -853,7 +853,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000853,Cabbage Patch ,(213) 489-4489,"520 W 6th St, Los Angeles, CA 90014",Los Angeles,CA,213489
 1445980000854,Cable Car Cafe ,(650) 952-9533,"423 1/2 Grand Ave, South San Francisco, CA 94080",South San Francisco,CA,650952
 1445980000855,Cabo ,(718) 863-0091,"3764 E Tremont Ave, Throggs Neck, NY 10465",Throggs Neck,NY,718863
-1445980000856,Cachaco ,(718) 383-4772,"994 Manhattan Ave, Brooklyn, NY 11222",New York,NY,718383
+1445980000856,Cachaco ,(718) 383-4772,"994 Manhattan Ave, Brooklyn, NY 11222",Brooklyn,NY,718383
 1445980000857,Cactus Food and Liquors ,(773) 583-1730,"3358 W Irving Park Rd, Chicago, IL 60618",Chicago,IL,773583
 1445980000858,Cactus Mexican Food ,(323) 464-5865,"950 Vine St, Los Angeles, CA 90038",Los Angeles,CA,323464
 1445980000859,Cadillac Bar & Grill ,(415) 554-0181,"44 9th St, San Francisco, CA 94103",San Francisco,CA,415554
@@ -894,7 +894,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000894,Cafe Maya ,(608) 709-1909,"5501 Odana Rd, Madison, WI 53719",Madison,WI,608709
 1445980000895,Cafe Me ,(415) 288-8628,"500 Washington St, San Francisco, CA 94111",San Francisco,CA,415288
 1445980000896,Cafe Mofongo ,(212) 465-0592,"316 W 39th St, New York, NY 10018",New York,NY,212465
-1445980000897,Cafe Mogador ,(718) 486-9222,"133 Wythe Ave, Brooklyn, NY 11211",New York,NY,718486
+1445980000897,Cafe Mogador ,(718) 486-9222,"133 Wythe Ave, Brooklyn, NY 11211",Brooklyn,NY,718486
 1445980000898,Cafe Mogador ,(212) 677-2226,"101 St Marks Pl, New York, NY 10009",New York,NY,212677
 1445980000899,Cafe Muscat ,(929) 273-2030,"37 W 46th St, New York, NY 10036",New York,NY,929273
 1445980000900,Cafe Orient 33 ,(773) 509-6538,"4829 N Kedzie Ave, Chicago, IL 60625",Chicago,IL,773509
@@ -914,7 +914,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980000914,Cafe Zitouna ,(415) 673-2622,"1201 Sutter St, San Francisco, CA 94109",San Francisco,CA,415673
 1445980000915,Cafe Zoma ,(608) 243-1300,"2326 Atwood Ave, Madison, WI 53704",Madison,WI,608243
 1445980000916,Cafe Zoma ,(608) 243-1300,"2326 Atwood Ave, Madison, WI 53704",Madison,WI,608243
-1445980000917,Cafe Zona Sur ,(718) 788-1606,"4314 4th Ave, Brooklyn, NY 11232",New York,NY,718788
+1445980000917,Cafe Zona Sur ,(718) 788-1606,"4314 4th Ave, Brooklyn, NY 11232",Brooklyn,NY,718788
 1445980000918,Cafecito ,(312) 922-2233,"26 E Congress Pkwy, Chicago, IL 60605",Chicago,IL,312922
 1445980000919,Caff̩ Concerto ,(213) 738-0909,"610 S Serrano Ave, Los Angeles, CA 90005",Los Angeles,CA,213738
 1445980000920,Cahuenga General Store ,(818) 985-5916,"5510 Cahuenga Blvd, North Hollywood, CA 91601",North Hollywood,CA,818985
@@ -1029,7 +1029,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001030,Chabaa Thai Cuisine ,(415) 346-3121,"420 Geary St, San Francisco, CA 94102",San Francisco,CA,415346
 1445980001031,Chad Sperry Real Estate ,(608) 345-0293,"26 Schroeder Ct, Madison, WI 53711",Madison,WI,608345
 1445980001032,Chagall Bistro ,(718) 832-9777,"330 Fifth St, New York, NY 11215",New York,NY,718832
-1445980001033,Chai ,(718) 599-5889,"124 N 6th St, Brooklyn, NY 11211",New York,NY,718599
+1445980001033,Chai ,(718) 599-5889,"124 N 6th St, Brooklyn, NY 11211",Brooklyn,NY,718599
 1445980001034,Chambers ,(415) 496-5178,"601 Eddy St, San Francisco, CA 94109",San Francisco,CA,415496
 1445980001035,Chambers ,(415) 496-5178,"601 Eddy St, San Francisco, CA 94109",San Francisco,CA,415496
 1445980001036,Champa Garden ,(415) 349-4186,"613 Faxon Ave, San Francisco, CA 94112",San Francisco,CA,415349
@@ -1094,7 +1094,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001095,Chicken Hut ,(773) 868-1755,"3200 N Broadway, Chicago, IL 60657",Chicago,IL,773868
 1445980001096,Chicken Lips ,(608) 837-6721,"5508 County Rd N, Sun Prairie, WI 53590",Sun Prairie,WI,608837
 1445980001097,Chicken R Us ,(718) 682-1665,"610 Richmond Rd, Park Hill, NY 10304",Park Hill,NY,718682
-1445980001098,Chickpea & Olive ,(347) 994-9442,"90 Kent Ave, Brooklyn, NY 11249",New York,NY,347994
+1445980001098,Chickpea & Olive ,(347) 994-9442,"90 Kent Ave, Brooklyn, NY 11249",Brooklyn,NY,347994
 1445980001099,ChikaLicious Dessert Bar ,(212) 995-9511,"203 E 10th St, New York, NY 10003",New York,NY,212995
 1445980001100,Chilango Mexican Street Food ,(312) 846-6216,"1437 W Taylor St, Chicago, IL 60607",Chicago,IL,312846
 1445980001101,Chilango Mexican Street Food ,(312) 846-6216,"1437 W Taylor St, Chicago, IL 60607",Chicago,IL,312846
@@ -1185,7 +1185,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001186,Clandestino Pub ,(305) 397-8946,"758 Washington Ave, Miami Beach, FL 33139",Miami Beach,FL,305397
 1445980001187,Clarion Suites At The Alliant Energy Center ,(608) 284-1234,"2110 Rimrock Road, Madison, WI 53713",Madison,WI,608284
 1445980001188,Clark St. Ale House ,(877) 637-7133,"742 N Clark St, Chicago, IL 60654",Chicago,IL,877637
-1445980001189,Clay P.'s review of The Food Sermon Kitche,(718) 484-7555,"355 Rogers Ave, Brooklyn, NY 11225",New York,NY,718484
+1445980001189,Clay P.'s review of The Food Sermon Kitche,(718) 484-7555,"355 Rogers Ave, Brooklyn, NY 11225",Brooklyn,NY,718484
 1445980001190,Clean Lakes Alliance ,(608) 836-6973,"8020 Excelsior Dr, Madison, WI 53717",Madison,WI,608836
 1445980001191,Clement Restaurant ,(415) 666-3328,"621 Clement St, San Francisco, CA 94118",San Francisco,CA,415666
 1445980001192,Clementine ,(310) 552-1080,"1751 Ensley Ave, Los Angeles, CA 90024",Los Angeles,CA,310552
@@ -1285,7 +1285,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001286,Cousins Subs ,(608) 291-0900,"990 Janesville St, Oregon, WI 53575",Oregon,WI,608291
 1445980001287,Covell ,(323) 660-4400,"4628 Hollywood Blvd, Los Angeles, CA 90027",Los Angeles,CA,323660
 1445980001288,Coverall Madison ,(608) 567-4571,"5609 Medical Circle, Madison, WI 53719",Madison,WI,608567
-1445980001289,Cow & Clover ,(718) 782-8810,"291 Kent Ave, Brooklyn, NY 11249",New York,NY,718782
+1445980001289,Cow & Clover ,(718) 782-8810,"291 Kent Ave, Brooklyn, NY 11249",Brooklyn,NY,718782
 1445980001290,Cowan�۪s Public ,(973) 542-8151,"229 Centre St, Nutley, NJ 07110",Nutley,NJ,973542
 1445980001291,Crab House At Pier 39 ,(415) 434-2722,"203 C Pier 39, San Francisco, CA 94133",San Francisco,CA,415434
 1445980001292,Cracker Barrel Old Country Store ,(608) 242-0560,"2147 E Springs Dr, Madison, WI 53704",Madison,WI,608242
@@ -1297,10 +1297,10 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001298,Crave ,(718) 726-4976,"28-55 36th St, Astoria, NY 11103",Astoria,NY,718726
 1445980001299,Crave Cafe ,(818) 763-9000,"11992 Ventura Blvd, Studio City, CA 91604",Studio City,CA,818763
 1445980001300,Crazy Crab�۪z ,1445980000000,"24 Willie Mays Plz, San Francisco, CA 94107",San Francisco,CA,415359
-1445980001301,Creative Hair Spa ,(718) 788-8796,"326 9th St, Brooklyn, NY 11215",New York,NY,718788
+1445980001301,Creative Hair Spa ,(718) 788-8796,"326 9th St, Brooklyn, NY 11215",Brooklyn,NY,718788
 1445980001302,Creative Learning Preschool ,(608) 258-9811,"105 S Butler St, Madison, WI 53703",Madison,WI,608258
 1445980001303,Creative Real Estate Services Inc ,(608) 271-5202,"4269 W Beltline Hwy, Madison, WI 53711",Madison,WI,608271
-1445980001304,Crema BK ,(347) 457-5363,"182 Driggs Ave, Brooklyn, NY 11222",New York,NY,347457
+1445980001304,Crema BK ,(347) 457-5363,"182 Driggs Ave, Brooklyn, NY 11222",Brooklyn,NY,347457
 1445980001305,Crema Cafe ,(608) 224-1150,"4124 Monona Dr, Madison, WI 53716",Madison,WI,608224
 1445980001306,Cremas Artisan Flavors ,(201) 820-4064,"4301 Park Ave, Union City, NJ 07087",Union City,NJ,201820
 1445980001307,Creme de la Creme ,(630) 968-2500,"4710 -4 Main St, Lisle, IL 60532",Lisle,IL,630968
@@ -1400,13 +1400,13 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001401,Deak�۪s Pub and Grill ,(608) 873-4066,"1017 Nygaard St, Stoughton, WI 53589",Stoughton,WI,608873
 1445980001402,Dean Health System Madison Area Clinics ,(608) 282-2000,"1025 Regent St, Madison, WI 53715",Madison,WI,608282
 1445980001403,Dean Optical ,(608) 282-2200,"1025 Regent St, Madison, WI 53715",Madison,WI,608282
-1445980001404,Dear Bushwick ,(929) 234-2344,"41 Wilson Ave, Brooklyn, NY 11237",New York,NY,929234
+1445980001404,Dear Bushwick ,(929) 234-2344,"41 Wilson Ave, Brooklyn, NY 11237",Brooklyn,NY,929234
 1445980001405,Dear Mom ,(415) 644-8445,"2700 16th St, San Francisco, CA 94103",San Francisco,CA,415644
 1445980001406,Deccan Spice ,(201) 604-1772,"771 Newark Ave, Jersey City, NJ 07306",Jersey City,NJ,201604
 1445980001407,Declan�۪s Irish Pub ,(312) 642-5522,"1240 N Wells St, Chicago, IL 60610",Chicago,IL,312642
 1445980001408,Deforest Family Restaurant ,(608) 846-6910,"505 W North St, De Forest, WI 53532",De Forest,WI,608846
 1445980001409,Deidre H.'s review of Sushi Kiyon,(310) 205-3741,"255 S Beverly Dr, Beverly Hills, CA 90212",Beverly Hills,CA,310205
-1445980001410,Dekalb Restaurant ,(347) 857-7097,"564 Dekalb Ave, Brooklyn, NY 11205",New York,NY,347857
+1445980001410,Dekalb Restaurant ,(347) 857-7097,"564 Dekalb Ave, Brooklyn, NY 11205",Brooklyn,NY,347857
 1445980001411,Del Rey Kitchen ,(310) 822-7788,"12740 Culver Blvd, Los Angeles, CA 90066",Los Angeles,CA,310822
 1445980001412,Del Seoul ,(773) 248-4227,"2568 N Clark St, Chicago, IL 60614",Chicago,IL,773248
 1445980001413,Delancey Street Restaurant ,(415) 512-5179,"600 The Embarcadero, San Francisco, CA 94107",San Francisco,CA,415512
@@ -1425,7 +1425,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001426,Der Rathskeller ,(608) 262-7324,"800 Langdon St, Madison, WI 53706",Madison,WI,608262
 1445980001427,Dermatology & Aesthetics of Wicker Park ,(773) 276-1100,"1765 N Elston Ave, Chicago, IL 60642",Chicago,IL,773276
 1445980001428,DeSano Pizza Bakery ,(323) 913-7000,"4959 Santa Monica Blvd, Los Angeles, CA 90029",Los Angeles,CA,323913
-1445980001429,Desnuda ,(718) 387-0563,"221 S 1st St, Brooklyn, NY 11211",New York,NY,718387
+1445980001429,Desnuda ,(718) 387-0563,"221 S 1st St, Brooklyn, NY 11211",Brooklyn,NY,718387
 1445980001430,Despa̱a ,(212) 219-5050,"408 Broome St, New York, NY 10013",New York,NY,212219
 1445980001431,Destino ,(415) 552-4451,"1815 Market St, San Francisco, CA 94103",San Francisco,CA,415552
 1445980001432,Dexter�۪s Pub ,(608) 244-3535,"301 North St, Madison, WI 53704",Madison,WI,608244
@@ -1518,7 +1518,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001519,Dusty Buns Bistro ,(415) 895-2867,"11 Division St, San Francisco, CA 94103",San Francisco,CA,415895
 1445980001520,Dutch Kills ,(718) 383-2724,"27-24 Jackson Ave, Long Island City, NY 11101",Long Island City,NY,718383
 1445980001521,Dylan K.'s review of The Side Door Grill and Ta,(608) 310-4800,"240 W Gilman St, Madison, WI 53703",Madison,WI,608310
-1445980001522,Dziupla ,(718) 388-6194,"194 Bedford Ave, Brooklyn, NY 11249",New York,NY,718388
+1445980001522,Dziupla ,(718) 388-6194,"194 Bedford Ave, Brooklyn, NY 11249",Brooklyn,NY,718388
 1445980001523,e.a.t. spots ,(773) 987-6073,"368 W Madison St, Chicago, IL 60606",Chicago,IL,773987
 1445980001524,E�۪ Tutto Qua ,(415) 989-1002,"270 Columbus Ave, San Francisco, CA 94133",San Francisco,CA,415989
 1445980001525,E2 ,(608) 890-4407,"1415 Engineering Dr, Madison, WI 53706",Madison,WI,608890
@@ -1567,7 +1567,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001568,El Cubanito ,(773) 235-2555,"2555 N Pulaski Rd, Chicago, IL 60639",Chicago,IL,773235
 1445980001569,El Cubanito�۪s Cafe ,(551) 580-7414,"866 Kearny Ave, Kearny, NJ 07032",Kearny,NJ,551580
 1445980001570,El Diner ,(323) 931-1281,"5515 Wilshire Blvd, Los Angeles, CA 90036",Los Angeles,CA,323931
-1445980001571,El Dorado Bumper Cars & Arcade ,(718) 946-6642,"1216 Surf Ave, Brooklyn, NY 11224",New York,NY,718946
+1445980001571,El Dorado Bumper Cars & Arcade ,(718) 946-6642,"1216 Surf Ave, Brooklyn, NY 11224",Brooklyn,NY,718946
 1445980001572,El Farolito ,(415) 824-7877,"2779 Mission St, San Francisco, CA 94110",San Francisco,CA,415824
 1445980001573,El Farolito ,(415) 641-0758,"2950 24th St, San Francisco, CA 94110",San Francisco,CA,415641
 1445980001574,El Farolito Taqueria ,(650) 737-0138,"394 Grand Ave, South San Francisco, CA 94080",South San Francisco,CA,650737
@@ -1578,7 +1578,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001579,El Huarachito ,(323) 223-0476,"3010 N Broadway, Los Angeles, CA 90031",Los Angeles,CA,323223
 1445980001580,EL Ideas ,(312) 226-8144,"2419 W 14th St, Chicago, IL 60608",Chicago,IL,312226
 1445980001581,El Loco Taco Truck ,1445980000000,"W Cermak & Blue Island, Chicago, IL 60608",Chicago,IL,800586
-1445980001582,El Mate ,(718) 222-1102,"550 Court St, Brooklyn, NY 11231",New York,NY,718222
+1445980001582,El Mate ,(718) 222-1102,"550 Court St, Brooklyn, NY 11231",Brooklyn,NY,718222
 1445980001583,El Maya ,(773) 878-1882,"1522 W Montrose Ave, Chicago, IL 60613",Chicago,IL,773878
 1445980001584,El Metate Restaurant ,(415) 641-7209,"2406 Bryant St, San Francisco, CA 94110",San Francisco,CA,415641
 1445980001585,El Milagro Tortilleria ,(773) 579-6120,"3050 W 26th St, Chicago, IL 60623",Chicago,IL,773579
@@ -1625,12 +1625,12 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001626,Emilio�۪s Tapas Sol Y Nieve ,(312) 467-7177,"215 E Ohio St, Chicago, IL 60611",Chicago,IL,312467
 1445980001627,Emily W.'s review of Glazed & Infuse,(312) 226-5556,"30 E Hubbard St, Chicago, IL 60611",Chicago,IL,312226
 1445980001628,Emmett O�۪Lunney�۪s Irish Pub ,(212) 957-5100,"210 W 50th St, New York, NY 10019",New York,NY,212957
-1445980001629,Emmons Palace ,(718) 616-1272,"2265 Emmons Ave, Brooklyn, NY 11235",New York,NY,718616
+1445980001629,Emmons Palace ,(718) 616-1272,"2265 Emmons Ave, Brooklyn, NY 11235",Brooklyn,NY,718616
 1445980001630,Emmy�۪s Spaghetti Shack ,(415) 206-2086,"3230 Mission St, San Francisco, CA 94110",San Francisco,CA,415206
 1445980001631,Empire Coffee & Tea Company ,(212) 268-1220,"568 9th Ave, New York, NY 10036",New York,NY,212268
 1445980001632,Empire Szechuan ,(212) 496-8778,"193 Columbus Ave, New York, NY 10023",New York,NY,212496
 1445980001633,Empire Tax Professionals ,(212) 300-5776,"5 Pennsylvania Plaza, New York, NY 10001",New York,NY,212300
-1445980001634,Empyreal Strings ,(888) 661-5105,"1863 84th St, Brooklyn, NY 10024",New York,NY,888661
+1445980001634,Empyreal Strings ,(888) 661-5105,"1863 84th St, Brooklyn, NY 10024",Brooklyn,NY,888661
 1445980001635,EMS Station 17 ,1445980000000,"1080 Ogden Ave, New York, NY 10452",New York,NY,212586
 1445980001636,En Hakkore ,(773) 772-9880,"1840 N Damen Ave, Chicago, IL 60647",Chicago,IL,773772
 1445980001637,Endless Knot ,(608) 255-6921,"330 State St, Madison, WI 53703",Madison,WI,608255
@@ -1669,7 +1669,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001670,Evergreen Cafe ,(415) 837-1038,"645 Clay St, San Francisco, CA 94111",San Francisco,CA,415837
 1445980001671,EVO Kitchen ,(323) 375-3390,"7950 Sunset Blvd, Los Angeles, CA 90046",Los Angeles,CA,323375
 1445980001672,Ewald Kia Of Oconomowoc ,(262) 569-6500,"36883 E Wisconsin Ave, Oconomowoc, WI 53066",Oconomowoc,WI,262569
-1445980001673,Excellent Quality Movers ,(718) 243-2217,"106 Ferris Street, Brooklyn, NY 11231",New York,NY,718243
+1445980001673,Excellent Quality Movers ,(718) 243-2217,"106 Ferris Street, Brooklyn, NY 11231",Brooklyn,NY,718243
 1445980001674,Exchequer Restaurant & Pub ,(312) 939-5633,"226 S Wabash Ave, Chicago, IL 60604",Chicago,IL,312939
 1445980001675,Exhale Venice ,(310) 450-7676,"245 S Main St, Venice, CA 90291",Venice,CA,310450
 1445980001676,EXKi ,(212) 533-2011,"257 Park Avenue South, New York, NY 10010",New York,NY,212533
@@ -1739,7 +1739,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001740,Fiddler�۪s Bistro ,(323) 931-8167,"6009 W 3rd St, Los Angeles, CA 90036",Los Angeles,CA,323931
 1445980001741,Fido�۪s Gotta Go ,(708) 607-2730,"Logan Sq, Chicago, IL 60618",Chicago,IL,708607
 1445980001742,Fifth Avenue Presbyterian Church ,(212) 247-0490,"7 W 55th St, New York, NY 10019",New York,NY,212247
-1445980001743,Fifth Avenue Records & Tapes ,(718) 499-8483,"439 5th Ave, Brooklyn, NY 11215",New York,NY,718499
+1445980001743,Fifth Avenue Records & Tapes ,(718) 499-8483,"439 5th Ave, Brooklyn, NY 11215",Brooklyn,NY,718499
 1445980001744,Fig 19 ,1445980000000,"131 1/2 Chrystie St, New York, NY 10002",New York,NY,212586
 1445980001745,FIG Catering ,(773) 793-1035,"1850 S Blue Island Ave, Chicago, IL 60608",Chicago,IL,773793
 1445980001746,Figueroa Philly Cheese Steak ,(213) 748-9073,"3850 S Figueroa St, Los Angeles, CA 90037",Los Angeles,CA,213748
@@ -1764,9 +1764,9 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001765,Fish Bar ,(773) 687-8177,"2956 N Sheffield Ave, Chicago, IL 60657",Chicago,IL,773687
 1445980001766,Fisherman�۪s Outlet ,(213) 627-7231,"529 S Central Ave, Los Angeles, CA 90013",Los Angeles,CA,213627
 1445980001767,Fishmarket Restaurant ,(917) 983-0682,"111 South St, New York, NY 10038",New York,NY,917983
-1445980001768,Fishnet ,(347) 442-0400,"3814 Church Ave, Brooklyn, NY 11203",New York,NY,347442
+1445980001768,Fishnet ,(347) 442-0400,"3814 Church Ave, Brooklyn, NY 11203",Brooklyn,NY,347442
 1445980001769,Fit 2 Eat ,(608) 233-7192,"3742 Speedway Rd, Madison, WI 53705",Madison,WI,608233
-1445980001770,Fitzcarraldo ,(718) 233-2566,"195 Morgan Ave, Brooklyn, NY 11237",New York,NY,718233
+1445980001770,Fitzcarraldo ,(718) 233-2566,"195 Morgan Ave, Brooklyn, NY 11237",Brooklyn,NY,718233
 1445980001771,Fitzgerald�۪s ,(608) 831-7107,"3112 Parmenter St, Middleton, WI 53562",Middleton,WI,608831
 1445980001772,Five & Diamond ,(415) 255-9747,"510 Valencia St, San Francisco, CA 94110",San Francisco,CA,415255
 1445980001773,Five Guys Burgers and Fries ,(608) 255-2520,"517 State St, Madison, WI 53703",Madison,WI,608255
@@ -1809,7 +1809,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001810,Fork ,(773) 751-1500,"4600 N Lincoln Ave, Chicago, IL 60625",Chicago,IL,773751
 1445980001811,Fork and Spoon Productions ,(415) 552-7130,"2161 3rd St, San Francisco, CA 94107",San Francisco,CA,415552
 1445980001812,Fornarina ,(323) 782-7901,"8000 Melrose Ave, Los Angeles, CA 90046",Los Angeles,CA,323782
-1445980001813,Fort Defiance ,(917) 310-0629,"365 Van Brunt St, Brooklyn, NY 11231",New York,NY,917310
+1445980001813,Fort Defiance ,(917) 310-0629,"365 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,917310
 1445980001814,Foster Food & Liquor ,(773) 506-1918,"1900 W Foster Ave, Chicago, IL 60640",Chicago,IL,773506
 1445980001815,Four Cafe ,(323) 272-3993,"519 S Fairfax Ave, Los Angeles, CA 90036",Los Angeles,CA,323272
 1445980001816,Four Lakes Cafe ,(608) 263-6400,"600 Highland Ave, Madison, WI 53705",Madison,WI,608263
@@ -1819,7 +1819,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001820,Four Star Video Cooperative ,(608) 255-1994,"449 State St, Madison, WI 53703",Madison,WI,608255
 1445980001821,Fraboni�۪s Italian Specialties & Delicatessen ,(608) 256-0546,"822 Regent St, Madison, WI 53715",Madison,WI,608256
 1445980001822,Fraboni�۪s Italian Specialties & Delicatessen ,(608) 222-6632,"108 Owen Rd, Monona, WI 53716",Monona,WI,608222
-1445980001823,Frame It In Brooklyn ,(718) 788-7404,"767 3rd Ave, Brooklyn, NY 11232",New York,NY,718788
+1445980001823,Frame It In Brooklyn ,(718) 788-7404,"767 3rd Ave, Brooklyn, NY 11232",Brooklyn,NY,718788
 1445980001824,Frances ,(415) 621-3870,"3870 17th St, San Francisco, CA 94114",San Francisco,CA,415621
 1445980001825,Frances Bakery & Coffee ,(213) 680-4899,"404 E 2nd St, Los Angeles, CA 90012",Los Angeles,CA,213680
 1445980001826,Francesca�۪s Al Lago ,(608) 255-6000,"111 Martin Luther King Jr Blvd, Madison, WI 53703",Madison,WI,608255
@@ -1836,7 +1836,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001837,Fred�۪s Downhome Burgers ,(323) 298-7762,"2524 W Slauson Ave, Los Angeles, CA 90043",Los Angeles,CA,323298
 1445980001838,Freda�۪s Caribbean & Soul Cuisine ,(929) 267-4459,"993 Columbus Ave, New York, NY 10025",New York,NY,929267
 1445980001839,Freddie�۪s Sandwiches ,(415) 433-2882,"300 Francisco St, San Francisco, CA 94133",San Francisco,CA,415433
-1445980001840,FREEHOLD ,(718) 388-7591,"45 S 3rd St, Brooklyn, NY 11249",New York,NY,718388
+1445980001840,FREEHOLD ,(718) 388-7591,"45 S 3rd St, Brooklyn, NY 11249",Brooklyn,NY,718388
 1445980001841,Freemans ,(212) 420-0012,"191 Chrystie St, New York, NY 10002",New York,NY,212420
 1445980001842,Freiburg Gastropub ,(608) 204-2755,"2612 Monroe St, Madison, WI 53711",Madison,WI,608204
 1445980001843,French Louie ,(718) 935-1200,"320 Atlantic Ave, Boerum Hill, NY 11201",Boerum Hill,NY,718935
@@ -1845,7 +1845,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001846,Fresca ,(415) 447-2768,"2114 Fillmore St, San Francisco, CA 94115",San Francisco,CA,415447
 1445980001847,Fresca La Cr̻pe ,(347) 768-1488,"39-82 61st St, Woodside, NY 11377",Woodside,NY,347768
 1445980001848,Fresco ,(608) 663-7374,"227 State St, Madison, WI 53703",Madison,WI,608663
-1445980001849,Fresco Tortillas ,(718) 389-8818,"620 Manhattan Ave, Brooklyn, NY 11222",New York,NY,718389
+1445980001849,Fresco Tortillas ,(718) 389-8818,"620 Manhattan Ave, Brooklyn, NY 11222",Brooklyn,NY,718389
 1445980001850,Fresh Brothers ,(310) 823-3800,"4722 1/2 Admiralty Way, Marina Del Rey, CA 90292",Marina Del Rey,CA,310823
 1445980001851,Fresh Cool Drinks ,1445980000000,"704-712 State St, Madison, WI 53703",Madison,WI,608286
 1445980001852,Fresh Salt ,(212) 962-0053,"146 Beekman St, New York, NY 10038",New York,NY,212962
@@ -1871,7 +1871,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001872,Fuji ,(415) 564-6360,"301 W Portal Ave, San Francisco, CA 94127",San Francisco,CA,415564
 1445980001873,Fukurou Ramen ,(323) 719-9011,"5103 Hollywood Blvd, Los Angeles, CA 90027",Los Angeles,CA,323719
 1445980001874,Fumi Japanese Curry & Seafood ,(415) 757-0901,"3303 Mission St, San Francisco, CA 94110",San Francisco,CA,415757
-1445980001875,Fun City Steamed Seafood ,(718) 484-0050,"5602 Church Ave, Brooklyn, NY 11203",New York,NY,718484
+1445980001875,Fun City Steamed Seafood ,(718) 484-0050,"5602 Church Ave, Brooklyn, NY 11203",Brooklyn,NY,718484
 1445980001876,Fun Time Bounces ,(608) 698-1303,"2955 Mconnell Rd, Stoughton, WI 53589",Stoughton,WI,608698
 1445980001877,Function 5 Fitness ,(323) 285-5348,"805 S LA Brea Ave, Los Angeles, CA 90036",Los Angeles,CA,323285
 1445980001878,fundamental LA ,(310) 444-7581,"1303 Westwood Blvd, Los Angeles, CA 90024",Los Angeles,CA,310444
@@ -1882,7 +1882,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001883,G V Jewelry ,(224) 326-4096,"1926 W Foster Ave, Chicago, IL 60640",Chicago,IL,224326
 1445980001884,Gabby�۪s Kitchen ,(818) 367-0752,"13867 Foothill Blvd, Sylmar, CA 91342",Sylmar,CA,818367
 1445980001885,Gaia Italian Caf̩ ,(646) 350-3977,"251 E Houston St, New York, NY 10002",New York,NY,646350
-1445980001886,Galactic Tiles ,(718) 768-6060,"951 3rd Ave, Brooklyn, NY 11232",New York,NY,718768
+1445980001886,Galactic Tiles ,(718) 768-6060,"951 3rd Ave, Brooklyn, NY 11232",Brooklyn,NY,718768
 1445980001887,Gallardos Mexican Restaurant ,(415) 436-9387,"3248 18th St, San Francisco, CA 94110",San Francisco,CA,415436
 1445980001888,Galli ,(212) 966-9288,"45 Mercer St, New York, NY 10013",New York,NY,212966
 1445980001889,Galway Arms ,(773) 472-5555,"2442 N Clark St, Chicago, IL 60614",Chicago,IL,773472
@@ -1893,7 +1893,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980001894,Gamine ,(415) 771-7771,"2223 Union St, San Francisco, CA 94123",San Francisco,CA,415771
 1445980001895,Ganim�۪s Deli ,(415) 282-9289,"1135 18th St, San Francisco, CA 94107",San Francisco,CA,415282
 1445980001896,Gap ,(312) 494-8580,"555 N Michigan Ave, Chicago, IL 60611",Chicago,IL,312494
-1445980001897,Garage Clothing ,(718) 266-7789,"1909 Stillwell Ave, Brooklyn, NY 11223",New York,NY,718266
+1445980001897,Garage Clothing ,(718) 266-7789,"1909 Stillwell Ave, Brooklyn, NY 11223",Brooklyn,NY,718266
 1445980001898,Garaje ,(415) 644-0838,"475 3rd St, San Francisco, CA 94107",San Francisco,CA,415644
 1445980001899,Garcia�۪s Restaurant ,(773) 769-5600,"4760 N Lincoln Ave, Chicago, IL 60625",Chicago,IL,773769
 1445980001900,Garden City Deli ,(212) 974-0573,"W 43rd St & 9th Ave, New York, NY 10036",New York,NY,212974
@@ -2003,7 +2003,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002004,Gotham Bagels ,(608) 467-7642,"112 E Mifflin St, Madison, WI 53704",Madison,WI,608467
 1445980002005,Gourmet Chicken ,(312) 326-3450,"43 E Cermak Rd, Chicago, IL 60616",Chicago,IL,312326
 1445980002006,Gourmet G.'s review of Cafe Un Deux Troi,(212) 354-4148,"123 W 44th St, New York, NY 10036",New York,NY,212354
-1445980002007,Govinda�۪s Vegetarian ,(718) 855-6714,"305 Schermerhorn St, Brooklyn, NY 11217",New York,NY,718855
+1445980002007,Govinda�۪s Vegetarian ,(718) 855-6714,"305 Schermerhorn St, Brooklyn, NY 11217",Brooklyn,NY,718855
 1445980002008,Grace ,(312) 234-9494,"652 W Randolph St, Chicago, IL 60661",Chicago,IL,312234
 1445980002009,Grace and Leavitt Tavern ,(773) 472-1138,"2157 W Grace Ave, Chicago, IL 60618",Chicago,IL,773472
 1445980002010,Grace Cafe ,(213) 250-7515,"1221 W 3rd St, Los Angeles, CA 90017",Los Angeles,CA,213250
@@ -2159,7 +2159,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002160,Hayes Street Grill ,(415) 863-5545,"320 Hayes St, San Francisco, CA 94102",San Francisco,CA,415863
 1445980002161,Hazel�۪s Kitchen ,(415) 647-7941,"1319 18th St, San Francisco, CA 94107",San Francisco,CA,415647
 1445980002162,HD Buttercup ,(415) 820-4788,"290 Townsend St, San Francisco, CA 94107",San Francisco,CA,415820
-1445980002163,HeadHoods ,(917) 620-5327,"86 Berry St, Brooklyn, NY 11211",New York,NY,917620
+1445980002163,HeadHoods ,(917) 620-5327,"86 Berry St, Brooklyn, NY 11211",Brooklyn,NY,917620
 1445980002164,Headquarters Bar & Restaurant ,(608) 291-0750,"101 Concord Dr, Oregon, WI 53575",Oregon,WI,608291
 1445980002165,Healthy Corner Juice Bar ,(212) 582-5550,"637 9th Ave, New York, NY 10036",New York,NY,212582
 1445980002166,Healthy Spirits ,(415) 255-0610,"2299 15th St, San Francisco, CA 94114",San Francisco,CA,415255
@@ -2179,7 +2179,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002180,Here Comes the Bridesmaid ,(212) 647-9686,"213 W 35th St, New York, NY 10001",New York,NY,212647
 1445980002181,Heritage Bakery & Cafe ,(608) 222-0136,"4674 Cottage Grove Rd, Madison, WI 53716",Madison,WI,608222
 1445980002182,Heritage Tavern ,(608) 283-9500,"131 E Mifflin St, Madison, WI 53703",Madison,WI,608283
-1445980002183,Heritage Wines ,(718) 237-1525,"237 Dekalb Ave, Brooklyn, NY 11205",New York,NY,718237
+1445980002183,Heritage Wines ,(718) 237-1525,"237 Dekalb Ave, Brooklyn, NY 11205",Brooklyn,NY,718237
 1445980002184,HEU ,(213) 386-8001,"3959 Wilshire Blvd, Los Angeles, CA 90010",Los Angeles,CA,213386
 1445980002185,Hi,(312) 724-8423,"160 W Kinzie St, Chicago, IL 60654",Chicago,IL,312724
 1445980002186,Hi Sushi ,(213) 623-0003,"654 S Main St, Los Angeles, CA 90014",Los Angeles,CA,213623
@@ -2213,7 +2213,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002214,Hog Wild Bbq Competition ,(608) 663-2735,"1208 E Johnson St, Madison, WI 53703",Madison,WI,608663
 1445980002215,Hogwash ,(415) 361-5500,"582 Sutter St, San Francisco, CA 94102",San Francisco,CA,415361
 1445980002216,Holiday Inn Express & Suites Madison,(608) 497-4500,"515 W Verona Ave, Verona, WI 53593",Verona,WI,608497
-1445980002217,Hollow Nickel ,(929) 226-1966,"494 Atlantic Ave, Brooklyn, NY 11217",New York,NY,929226
+1445980002217,Hollow Nickel ,(929) 226-1966,"494 Atlantic Ave, Brooklyn, NY 11217",Brooklyn,NY,929226
 1445980002218,Hollywood Cafe ,(415) 563-3779,"530 N Point St, San Francisco, CA 94133",San Francisco,CA,415563
 1445980002219,Hollywood Farmers�۪ Market ,(323) 463-3171,"1600 Ivar Ave, Los Angeles, CA 90028",Los Angeles,CA,323463
 1445980002220,Hollywood Photo Booths ,(414) 916-3488,"222 S 3rd St, Milwaukee, WI 53204",Milwaukee,WI,414916
@@ -2226,12 +2226,12 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002227,Home Bistro ,(773) 661-0299,"3404 N Halsted St, Chicago, IL 60657",Chicago,IL,773661
 1445980002228,Home Plate ,(415) 922-4663,"2274 Lombard St, San Francisco, CA 94123",San Francisco,CA,415922
 1445980002229,Home Restaurant ,(323) 669-0211,"1760 Hillhurst Ave, Los Angeles, CA 90027",Los Angeles,CA,323669
-1445980002230,Home/Made ,(347) 223-4135,"293 Van Brunt St, Brooklyn, NY 11231",New York,NY,347223
+1445980002230,Home/Made ,(347) 223-4135,"293 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,347223
 1445980002231,Homegirl Cafe and Catering ,(213) 617-0380,"130 W Bruno  St, Los Angeles, CA 90012",Los Angeles,CA,213617
 1445980002232,Homeslice ,(312) 789-4600,"938 W Webster, Chicago, IL 60614",Chicago,IL,312789
 1445980002233,HomeState ,(323) 906-1122,"4624 Hollywood Blvd, Los Angeles, CA 90027",Los Angeles,CA,323906
 1445980002234,Homestead On The Roof ,(773) 332-2354,"1924 W Chicago Ave, Chicago, IL 60622",Chicago,IL,773332
-1445980002235,Hometown Bar,(347) 294-4644,"454 Van Brunt St, Brooklyn, NY 11231",New York,NY,347294
+1445980002235,Hometown Bar,(347) 294-4644,"454 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,347294
 1445980002236,HomeTown Buffet ,(608) 244-3632,"1745 Parkside Dr, Madison, WI 53704",Madison,WI,608244
 1445980002237,Hon Lin Restaurant ,(650) 872-2288,"500 San Mateo Ave, San Bruno, CA 94066",San Bruno,CA,650872
 1445980002238,Honda Ya Izakaya ,(213) 625-1184,"333 S Alameda St, Los Angeles, CA 90013",Los Angeles,CA,213625
@@ -2268,7 +2268,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002269,Hot Wings Cafe ,(323) 930-1233,"7011 Melrose Ave, Los Angeles, CA 90038",Los Angeles,CA,323930
 1445980002270,Hot Woks Cool Sushi ,(773) 282-1818,"3930 N Pulaski Rd, Chicago, IL 60641",Chicago,IL,773282
 1445980002271,Hotel Caf̩ ,(323) 461-2040,"1623 1/2 N Cahuenga Blvd, Los Angeles, CA 90028",Los Angeles,CA,323461
-1445980002272,Hotel Delmano ,(718) 387-1945,"82 Berry St, Brooklyn, NY 11211",New York,NY,718387
+1445980002272,Hotel Delmano ,(718) 387-1945,"82 Berry St, Brooklyn, NY 11211",Brooklyn,NY,718387
 1445980002273,Hotel Ruby Marie ,(608) 327-7829,"524 E Wilson St, Madison, WI 53703",Madison,WI,608327
 1445980002274,Hotel Sone Whitmore ,(608) 123-4567,"Eyre Ln, Madison, WI 53711",Madison,WI,608286
 1445980002275,Hou Yi Hot Pot ,(212) 966-3420,"92 Hester St, New York, NY 10002",New York,NY,212966
@@ -2277,13 +2277,13 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002278,House of Macau ,(323) 745-5038,"1600 Vine St, Los Angeles, CA 90028",Los Angeles,CA,323745
 1445980002279,House of Mei ,(608) 318-1899,"120 E Main St, Sun Prairie, WI 53590",Sun Prairie,WI,608318
 1445980002280,House Of Pancakes ,(415) 681-8388,"937 Taraval St, San Francisco, CA 94116",San Francisco,CA,415681
-1445980002281,House of Small Wonder ,(718) 388-6160,"77 N 6th St, Brooklyn, NY 11211",New York,NY,718388
+1445980002281,House of Small Wonder ,(718) 388-6160,"77 N 6th St, Brooklyn, NY 11211",Brooklyn,NY,718388
 1445980002282,House of Thai ,(415) 441-2248,"901 Larkin St, San Francisco, CA 94109",San Francisco,CA,415441
 1445980002283,House of Thai 2 ,(415) 552-2960,"494 Haight St, San Francisco, CA 94117",San Francisco,CA,415552
 1445980002284,House of The Chigae ,(213) 388-8681,"3077 W 8th St, Los Angeles, CA 90005",Los Angeles,CA,213388
 1445980002285,House of Wings Chicago ,(773) 929-9421,"2447 N Clark St, Chicago, IL 60614",Chicago,IL,773929
 1445980002286,HouseHold Arts Collective ,(773) 507-5364,"4649 N Damen Avenue, Chicago, IL 60625",Chicago,IL,773507
-1445980002287,Housing Works Buy the Bag ,(718) 840-2923,"159 28th St, Brooklyn, NY 11232",New York,NY,718840
+1445980002287,Housing Works Buy the Bag ,(718) 840-2923,"159 28th St, Brooklyn, NY 11232",Brooklyn,NY,718840
 1445980002288,Howard Street Inn ,(847) 583-0795,"6700 W Howard St, Niles, IL 60714",Niles,IL,847583
 1445980002289,Howe Brothers Plumbing ,(608) 257-2884,"1215 Williamson St, Madison, WI 53703",Madison,WI,608257
 1445980002290,Hoy,(323) 688-3558,"5908 Sunset Blvd, Los Angeles, CA 90028",Los Angeles,CA,323688
@@ -2321,7 +2321,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002322,Ichabod�۪s ,(212) 777-5102,"15 Irving Pl, New York, NY 10003",New York,NY,212777
 1445980002323,Ichiban Sichuan ,(608) 819-8808,"610 S Park St, Madison, WI 53715",Madison,WI,608819
 1445980002324,Ichido ,1445980000000,"Pine St & Kearny St, San Francisco, CA 94108",San Francisco,CA,415359
-1445980002325,ICI ,(718) 789-2778,"246 Dekalb Ave, Brooklyn, NY 11205",New York,NY,718789
+1445980002325,ICI ,(718) 789-2778,"246 Dekalb Ave, Brooklyn, NY 11205",Brooklyn,NY,718789
 1445980002326,Ignatius Cafe ,1445980000000,"1451 Dana St, Los Angeles, CA 90007",Los Angeles,CA,323549
 1445980002327,iGO Fitness ,(608) 698-3153,"202 State St, Madison, WI 53703",Madison,WI,608698
 1445980002328,IGo VeGo ,(608) 658-7081,"1219 N Sherman Ave, Madison, WI 53704",Madison,WI,608658
@@ -2370,7 +2370,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002371,Isotope Comics ,(415) 621-6543,"326 Fell St, San Francisco, CA 94102",San Francisco,CA,415621
 1445980002372,It�۪s,(650) 347-2122,"865 Burlway Rd, Burlingame, CA 94010",Burlingame,CA,650347
 1445980002373,It�۪s Pho ,(323) 380-7998,"1821 N Cahuenga Blvd, Los Angeles, CA 90028",Los Angeles,CA,323380
-1445980002374,Ital Kitchen ,(347) 405-9727,"1032 Union St, Brooklyn, NY 11225",New York,NY,347405
+1445980002374,Ital Kitchen ,(347) 405-9727,"1032 Union St, Brooklyn, NY 11225",Brooklyn,NY,347405
 1445980002375,Ivy�۪s Cook ,(212) 787-0165,"154 W 72nd St, New York, NY 10023",New York,NY,212787
 1445980002376,Ixcateco Grill ,(773) 539-5887,"3402 W Montrose Ave, Chicago, IL 60618",Chicago,IL,773539
 1445980002377,Iza Ramen ,(415) 285-3848,"2170 Bryant St, San Francisco, CA 94110",San Francisco,CA,415285
@@ -2433,7 +2433,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002434,Jardini̬re ,(415) 861-5555,"300 Grove St, San Francisco, CA 94102",San Francisco,CA,415861
 1445980002435,Jasmine Garden ,(415) 861-2682,"708 14th St, San Francisco, CA 94114",San Francisco,CA,415861
 1445980002436,Jasmine M.'s review of Maria Pi,(212) 765-6463,"319 W 51st St, New York, NY 10019",New York,NY,212765
-1445980002437,Jasmine T.'s review of Brooklyn Warehous,1445980000000,"108 Roebling St, Brooklyn, NY 11211",New York,NY,212586
+1445980002437,Jasmine T.'s review of Brooklyn Warehous,1445980000000,"108 Roebling St, Brooklyn, NY 11211",Brooklyn,NY,718875
 1445980002438,Jason C.'s review of The Art of Chicke,(773) 697-9266,"2041 N Western Ave, Chicago, IL 60647",Chicago,IL,773697
 1445980002439,Jason H.'s review of The Bayou Food Truc,1445980000000,"25 W Main St, Madison, WI 53703",Madison,WI,608286
 1445980002440,Jason T.'s review of Subwa,(608) 241-7827,"2813 N Sherman Ave, Madison, WI 53704",Madison,WI,608241
@@ -2453,7 +2453,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002454,JB�۪s Place ,(415) 626-7973,"1435 17th St, San Francisco, CA 94107",San Francisco,CA,415626
 1445980002455,JCPenney ,(608) 833-9011,"23 West Towne Mall, Madison, WI 53719",Madison,WI,608833
 1445980002456,JD�۪s ,(608) 467-6196,"317 N Bassett St, Madison, WI 53703",Madison,WI,608467
-1445980002457,Jeatjet? ,(347) 227-7410,"685 5th Ave, Brooklyn, NY 11215",New York,NY,347227
+1445980002457,Jeatjet? ,(347) 227-7410,"685 5th Ave, Brooklyn, NY 11215",Brooklyn,NY,347227
 1445980002458,Jefferson Fire & Safety Inc ,(608) 836-0068,"7617 Donna Dr, Middleton, WI 53562",Middleton,WI,608836
 1445980002459,Jen Lucas Photography ,(608) 620-5363,"Madison, WI",Madison,WI,608620
 1445980002460,Jeni�۪s Splendid Ice Creams ,(872) 802-4668,"1505 N Milwaukee Ave, Chicago, IL 60622",Chicago,IL,872802
@@ -2482,7 +2482,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002483,Jeta Skin Care and Laser Center ,(312) 226-1851,"1851 W Grand Ave, Chicago, IL 60622",Chicago,IL,312226
 1445980002484,Jibek Jolu ,(773) 878-8494,"5047 N Lincoln Ave, Chicago, IL 60625",Chicago,IL,773878
 1445980002485,Jill W.'s review of J.P. Graziano Grocery Co,(312) 666-4587,"901 W Randolph St, Chicago, IL 60607",Chicago,IL,312666
-1445980002486,Jillian G.'s review of BeeHive Oven Biscuit Caf,(347) 987-4960,"182 S 2nd St, Brooklyn, NY 11211",New York,NY,347987
+1445980002486,Jillian G.'s review of BeeHive Oven Biscuit Caf,(347) 987-4960,"182 S 2nd St, Brooklyn, NY 11211",Brooklyn,NY,347987
 1445980002487,Jillian G.'s review of Beer Authorit,(212) 510-8415,"300 W 40th St, New York, NY 10018",New York,NY,212510
 1445980002488,Jim Barclay ,(773) 945-0140,"4553 N Lincoln Ave, Chicago, IL 60625",Chicago,IL,773945
 1445980002489,Jim L.'s review of Orpheum Theate,(608) 250-2600,"216 State St, Madison, WI 53703",Madison,WI,608250
@@ -2534,9 +2534,9 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002535,Jora Restaurant & Bar ,(718) 392-2033,"47-46 11th St, Long Island City, NY 11101",Long Island City,NY,718392
 1445980002536,Jordan�۪s Big Ten Pub ,(608) 251-6375,"1330 Regent St, Madison, WI 53715",Madison,WI,608251
 1445980002537,Jordandal Cookhouse ,(608) 848-3298,"600 W Verona Ave, Verona, WI 53593",Verona,WI,608848
-1445980002538,Joseph Koch Comics Warehouse ,(646) 979-9895,"206 41st St, Brooklyn, NY 11232",New York,NY,646979
+1445980002538,Joseph Koch Comics Warehouse ,(646) 979-9895,"206 41st St, Brooklyn, NY 11232",Brooklyn,NY,646979
 1445980002539,Josh ..'s review of Taco Bel,(773) 281-5063,"2575 North Clybourn, Chicago, IL 60614",Chicago,IL,773281
-1445980002540,Josh L.'s review of NYCoyne Furniture Repair & Upholster,(917) 468-1213,"117 Grattan St, Brooklyn, NY 11237",New York,NY,917468
+1445980002540,Josh L.'s review of NYCoyne Furniture Repair & Upholster,(917) 468-1213,"117 Grattan St, Brooklyn, NY 11237",Brooklyn,NY,917468
 1445980002541,Josie�۪s Dumplings ,(708) 749-7868,"6733 W Pershing Rd, Stickney, IL 60402",Stickney,IL,708749
 1445980002542,Josua P.'s review of Clement Restauran,(415) 666-3328,"621 Clement St, San Francisco, CA 94118",San Francisco,CA,415666
 1445980002543,Joui Turandot ,(888) 962-4322,"San Francisco, CA 94142",San Francisco,CA,888962
@@ -2546,14 +2546,14 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002547,Jukai ,(212) 588-9788,"237 E 53rd St, New York, NY 10022",New York,NY,212588
 1445980002548,Julep ,1445980000000,"827 E Washington Ave, Madison, WI 53703",Madison,WI,608286
 1445980002549,Julia�۪s ,(917) 909-1314,"818 Woodward Ave, Ridgewood, NY 11385",Ridgewood,NY,917909
-1445980002550,Juliana�۪s Pizza ,(718) 596-6700,"19 Old Fulton St, Brooklyn, NY 11201",New York,NY,718596
+1445980002550,Juliana�۪s Pizza ,(718) 596-6700,"19 Old Fulton St, Brooklyn, NY 11201",Brooklyn,NY,718596
 1445980002551,Julie Schuster Design Studio ,(646) 295-0018,"11 Riverside Drive, New York, NY 10023",New York,NY,646295
 1445980002552,Julio H.'s review of Guantanamer,(212) 262-5354,"939 8th Ave, New York, NY 10019",New York,NY,212262
 1445980002553,Julius Meinl ,(773) 883-1862,"3601 N Southport Ave, Chicago, IL 60613",Chicago,IL,773883
 1445980002554,Jun,(646) 852-6787,"249 9th Ave, New York, NY 10001",New York,NY,646852
 1445980002555,Jun Won Restaurant ,(213) 383-8855,"3100 W 8th St, Los Angeles, CA 90005",Los Angeles,CA,213383
 1445980002556,Junior Barbecue Burger ,(650) 271-2479,"98 Napoleon St, San Francisco, CA 94124",San Francisco,CA,650271
-1445980002557,Juniper ,(718) 782-8777,"112 Berry St, Brooklyn, NY 11211",New York,NY,718782
+1445980002557,Juniper ,(718) 782-8777,"112 Berry St, Brooklyn, NY 11211",Brooklyn,NY,718782
 1445980002558,Just Coffee ,(608) 204-9011,"3701 Orin Rd, Madison, WI 53704",Madison,WI,608204
 1445980002559,Just Fine Alterations ,(608) 240-0413,"100 East Towne Mall, Madison, WI 53704",Madison,WI,608240
 1445980002560,Just For You Cafe ,(415) 647-3033,"732 22nd St, San Francisco, CA 94107",San Francisco,CA,415647
@@ -2569,7 +2569,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002570,Kafana ,(212) 353-8000,"116 Ave C, New York, NY 10009",New York,NY,212353
 1445980002571,KaGaYa ,(213) 617-1016,"418 E 2nd St, Los Angeles, CA 90012",Los Angeles,CA,213617
 1445980002572,Kahuna Tiki ,(818) 853-7447,"11026 Magnolia Blvd, North Hollywood, CA 91601",North Hollywood,CA,818853
-1445980002573,Kai D ,(347) 765-2204,"230 Grand St, Brooklyn, NY 11211",New York,NY,347765
+1445980002573,Kai D ,(347) 765-2204,"230 Grand St, Brooklyn, NY 11211",Brooklyn,NY,347765
 1445980002574,Kai Sushi ,(312) 583-0567,"1255 S State St, Chicago, IL 60605",Chicago,IL,312583
 1445980002575,Kai Zan ,(773) 278-5776,"2557 W Chicago Ave, Chicago, IL 60622",Chicago,IL,773278
 1445980002576,Kairali Indian Foods ,(847) 729-2100,"777 Milwaukee Ave, Glenview, IL 60025",Glenview,IL,847729
@@ -2595,7 +2595,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002596,Karly V.'s review of Ukai Japanese Restauran,(773) 868-9900,"1059 W Belmont Ave, Chicago, IL 60657",Chicago,IL,773868
 1445980002597,Karyn�۪s Fresh Corner Raw ,(312) 255-1590,"1901 N Halsted St, Chicago, IL 60614",Chicago,IL,312255
 1445980002598,Kasa Indian Eatery ,(415) 621-6940,"4001 18th St, San Francisco, CA 94114",San Francisco,CA,415621
-1445980002599,Kasia�۪s ,(718) 387-8780,"146 Bedford Ave, Brooklyn, NY 11211",New York,NY,718387
+1445980002599,Kasia�۪s ,(718) 387-8780,"146 Bedford Ave, Brooklyn, NY 11211",Brooklyn,NY,718387
 1445980002600,Katarina X.'s review of Agent Provocateu,(312) 335-0229,"47 E Oak St, Chicago, IL 60611",Chicago,IL,312335
 1445980002601,Kathryn K.'s review of A Taste Of Magi,(559) 862-4424,"733 9th Ave, Manhattan, NY 10019",Manhattan,NY,559862
 1445980002602,Kato�۪s Cajun ,(608) 243-8686,"237 East Towne Mall, Madison, WI 53704",Madison,WI,608243
@@ -2643,7 +2643,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002644,Kilwins ,(608) 661-4431,"208 State St, Madison, WI 53703",Madison,WI,608661
 1445980002645,Kim Long Restaurant ,(773) 237-7554,"5114 W Fullerton Ave, Chicago, IL 60639",Chicago,IL,773237
 1445980002646,Kim Son Vietnamese Restaurant ,(415) 221-3811,"3614 Balboa St, San Francisco, CA 94121",San Francisco,CA,415221
-1445980002647,Kimchi Grill ,(718) 360-1839,"766 Washington Ave, Brooklyn, NY 11238",New York,NY,718360
+1445980002647,Kimchi Grill ,(718) 360-1839,"766 Washington Ave, Brooklyn, NY 11238",Brooklyn,NY,718360
 1445980002648,Kin Khao ,(415) 362-7456,"55 Cyril Magnin St, San Francisco, CA 94102",San Francisco,CA,415362
 1445980002649,King Garden ,(773) 745-3333,"6954 W North Ave, Chicago, IL 60707",Chicago,IL,773745
 1445980002650,King of Falafel ,(415) 931-5455,"1801 Divisadero St, San Francisco, CA 94115",San Francisco,CA,415931
@@ -2668,15 +2668,15 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002669,Kitchen Story ,(415) 525-4905,"3499 16th St, San Francisco, CA 94114",San Francisco,CA,415525
 1445980002670,KJ�۪s Curry Bowl ,(608) 841-1005,"7005 Tree Ln, Madison, WI 53717",Madison,WI,608841
 1445980002671,Klay Oven Kitchen ,(312) 454-6117,"131 N Clinton St, Chicago, IL 60661",Chicago,IL,312454
-1445980002672,Knife ,(718) 486-0008,"330 S 3rd St, Brooklyn, NY 11211",New York,NY,718486
+1445980002672,Knife ,(718) 486-0008,"330 S 3rd St, Brooklyn, NY 11211",Brooklyn,NY,718486
 1445980002673,Knife & Tine ,(773) 697-8311,"1417 W Fullerton Ave, Chicago, IL 60614",Chicago,IL,773697
-1445980002674,Knight D.'s review of Yemen Cafe & Restauran,(718) 745-3000,"7130 5th Ave, Brooklyn, NY 11209",New York,NY,718745
+1445980002674,Knight D.'s review of Yemen Cafe & Restauran,(718) 745-3000,"7130 5th Ave, Brooklyn, NY 11209",Brooklyn,NY,718745
 1445980002675,KnockOut Charters ,(773) 230-9173,"111 N Lake Shore Dr, Chicago, IL 60601",Chicago,IL,773230
 1445980002676,Knuckle & Claw ,(323) 407-6142,"3112 W. Sunset Blvd, Los Angeles, CA 90026",Los Angeles,CA,323407
 1445980002677,Kobani Mediterranean Grill ,(415) 872-9911,"3242 Scott St, San Francisco, CA 94123",San Francisco,CA,415872
 1445980002678,Kobawoo House ,(213) 389-7300,"698 S Vermont Ave, Los Angeles, CA 90005",Los Angeles,CA,213389
 1445980002679,Kobeque ,1445980000000,"11 W 32nd St, New York, NY 10001",New York,NY,212586
-1445980002680,Koeppel Subaru ,(718) 786-1660,"42-01 Northern Blvd, Queens, NY 11101",New York,NY,718786
+1445980002680,Koeppel Subaru ,(718) 786-1660,"42-01 Northern Blvd, Queens, NY 11101",Queens,NY,718786
 1445980002681,Koffee Kup Restaurant ,(608) 873-6717,"355 E Main St, Stoughton, WI 53589",Stoughton,WI,608873
 1445980002682,Kohl�۪s ,(608) 833-9293,"7401 W Towne Way, Madison, WI 53719",Madison,WI,608833
 1445980002683,Koja Kitchen ,(415) 463-5085,"343 Clement St, San Francisco, CA 94118",San Francisco,CA,415463
@@ -2697,7 +2697,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002698,Kristi L.'s review of Mish Gril,(773) 661-9766,"1413 N Ashland Ave, Chicago, IL 60622",Chicago,IL,773661
 1445980002699,Kristy C.'s review of Barrel House Taver,(415) 729-9593,"660 Bridgeway, Sausalito, CA 94965",Sausalito,CA,415729
 1445980002700,Kristy T.'s review of Santoro's Submarine Sandwic,(818) 848-8888,"1423 W Burbank Blvd, Burbank, CA 91506",Burbank,CA,818848
-1445980002701,Krupa Grocery ,(718) 709-7098,"231 Prospect Park W, Brooklyn, NY 11215",New York,NY,718709
+1445980002701,Krupa Grocery ,(718) 709-7098,"231 Prospect Park W, Brooklyn, NY 11215",Brooklyn,NY,718709
 1445980002702,KTCHN DTLA @ Precinct ,(213) 908-2646,"357 S Broadway, Los Angeles, CA 90013",Los Angeles,CA,213908
 1445980002703,Kuhl Entertainment ,(608) 444-7003,"6817 Tottenham Rd, Madison, WI 53711",Madison,WI,608444
 1445980002704,Kui Shin Bo ,(415) 922-9575,"22 Peace Plz, San Francisco, CA 94115",San Francisco,CA,415922
@@ -2738,7 +2738,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002739,La Carafe ,(212) 333-5300,"653 9th Ave, New York, NY 10036",New York,NY,212333
 1445980002740,La Carreta ,(323) 232-7133,"1471 E Vernon Ave, Los Angeles, CA 90011",Los Angeles,CA,323232
 1445980002741,La Ciccia ,(415) 550-8114,"291 30th St, San Francisco, CA 94131",San Francisco,CA,415550
-1445980002742,La Cigogne ,(718) 858-5641,"215 Union St, Brooklyn, NY 11231",New York,NY,718858
+1445980002742,La Cigogne ,(718) 858-5641,"215 Union St, Brooklyn, NY 11231",Brooklyn,NY,718858
 1445980002743,La Ciudad ,(773) 728-2887,"4515 N Sheridan Rd, Chicago, IL 60640",Chicago,IL,773728
 1445980002744,La Cocina ,(312) 922-8211,"406 S Clark St, Chicago, IL 60605",Chicago,IL,312922
 1445980002745,La Cocina Boricua de la Familia Galarza ,(773) 235-7377,"2420 W Fullerton Ave, Chicago, IL 60647",Chicago,IL,773235
@@ -2756,7 +2756,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002757,La Fonda Antioquena ,(323) 957-5164,"5125 Melrose Ave, Los Angeles, CA 90004",Los Angeles,CA,323957
 1445980002758,La Fournette ,(815) 518-2340,"1547 N Wells St, Chicago, IL 60610",Chicago,IL,815518
 1445980002759,La Fusi�_n ,(415) 781-0894,"475 Pine St, San Francisco, CA 94104",San Francisco,CA,415781
-1445980002760,La Goulette ,(347) 689-4126,"159 Grand St, Brooklyn, NY 11249",New York,NY,347689
+1445980002760,La Goulette ,(347) 689-4126,"159 Grand St, Brooklyn, NY 11249",Brooklyn,NY,347689
 1445980002761,La Hacienda ,(608) 255-8227,"515 S Park St, Madison, WI 53715",Madison,WI,608255
 1445980002762,La Mar Cebicher�_a Peruana ,(415) 397-8880,"Pier 1.5, San Francisco, CA 94111",San Francisco,CA,415397
 1445980002763,La M̩diterran̩e ,(415) 921-2956,"2210 Fillmore St, San Francisco, CA 94115",San Francisco,CA,415921
@@ -2825,7 +2825,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002826,Laredo�۪s ,(608) 278-0585,"694 S Whitney Way, Madison, WI 53711",Madison,WI,608278
 1445980002827,Laredo�۪s Mexican Restaurant ,(608) 274-7370,"2935 S Fish Hatchery Rd, Fitchburg, WI 53711",Fitchburg,WI,608274
 1445980002828,Lark ,(628) 400-4741,"4068 18th St, San Francisco, CA 94114",San Francisco,CA,628400
-1445980002829,Larry Lawrence ,(718) 218-7866,"295 Grand St, Brooklyn, NY 11211",New York,NY,718218
+1445980002829,Larry Lawrence ,(718) 218-7866,"295 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718218
 1445980002830,Las Islas Del Mar ,(608) 298-7687,"5696 Monona Dr, Madison, WI 53716",Madison,WI,608298
 1445980002831,Las Islas Marias ,(630) 359-3416,"345 W North Ave, Villa Park, IL 60181",Villa Park,IL,630359
 1445980002832,Las Molenderas Restaurant ,(323) 269-2812,"2635 Whittier Blvd, Los Angeles, CA 90023",Los Angeles,CA,323269
@@ -2896,8 +2896,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002897,Library Mall ,(608) 263-1884,"728 State St, Madison, WI 53706",Madison,WI,608263
 1445980002898,LIC Market ,(718) 361-0013,"21-52 44th Dr, Long Island City, NY 11101",Long Island City,NY,718361
 1445980002899,Licari�۪s Tavern ,(608) 256-3548,"1405 Emil St, Madison, WI 53713",Madison,WI,608256
-1445980002900,Life Made A Little Easier ,(718) 769-2000,"1702 Sheepshead Bay Rd, Brooklyn, NY 11235",New York,NY,718769
-1445980002901,Lighthouse ,(347) 789-7742,"145 Borinquen Pl, Brooklyn, NY 11211",New York,NY,347789
+1445980002900,Life Made A Little Easier ,(718) 769-2000,"1702 Sheepshead Bay Rd, Brooklyn, NY 11235",Brooklyn,NY,718769
+1445980002901,Lighthouse ,(347) 789-7742,"145 Borinquen Pl, Brooklyn, NY 11211",Brooklyn,NY,347789
 1445980002902,Lighthouse Cafe ,(415) 331-3034,"1311 Bridgeway, Sausalito, CA 94965",Sausalito,CA,415331
 1445980002903,LightSource ,(415) 621-1448,"1661 Tennessee St, San Francisco, CA 94107",San Francisco,CA,415621
 1445980002904,Liholiho Yacht Club ,(415) 440-5446,"871 Sutter St, San Francisco, CA 94109",San Francisco,CA,415440
@@ -2945,7 +2945,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002946,Littlefork ,(323) 465-3675,"1600 Wilcox Ave, Los Angeles, CA 90028",Los Angeles,CA,323465
 1445980002947,Litz Restaurant ,(626) 288-8882,"201 E Garvey Ave, Monterey Park, CA 91755",Monterey Park,CA,626288
 1445980002948,Live Sushi Bar ,(415) 861-8610,"2001 17th St, San Francisco, CA 94103",San Francisco,CA,415861
-1445980002949,Living Room Restaurant & Lounge ,(718) 996-8700,"178 Ave U, Brooklyn, NY 11223",New York,NY,718996
+1445980002949,Living Room Restaurant & Lounge ,(718) 996-8700,"178 Ave U, Brooklyn, NY 11223",Brooklyn,NY,718996
 1445980002950,Liz A.'s review of Firewater Saloo,(773) 631-0020,"6689 N Oliphant Ave, Chicago, IL 60631",Chicago,IL,773631
 1445980002951,Liz G.'s review of Pros,(773) 880-9900,"2566 N Lincoln Ave, Chicago, IL 60614",Chicago,IL,773880
 1445980002952,Liz�۪s Market ,(608) 262-2073,"1200 Observatory Drive, Madison, WI 53706",Madison,WI,608262
@@ -2953,7 +2953,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002954,Local Mission Eatery ,(415) 655-3422,"3111 24th St, San Francisco, CA 94110",San Francisco,CA,415655
 1445980002955,Local Table ,(213) 488-2654,"800 S Figueroa St, Los Angeles, CA 90017",Los Angeles,CA,213488
 1445980002956,Locanda ,(415) 863-6800,"557 Valencia St, San Francisco, CA 94110",San Francisco,CA,415863
-1445980002957,Locanda Vini e Olii ,(718) 622-9202,"129 Gates Ave, Brooklyn, NY 11238",New York,NY,718622
+1445980002957,Locanda Vini e Olii ,(718) 622-9202,"129 Gates Ave, Brooklyn, NY 11238",Brooklyn,NY,718622
 1445980002958,Lockdown Bar & Grill ,(773) 451-5625,"1024 N Western Ave, Chicago, IL 60622",Chicago,IL,773451
 1445980002959,LOFT ,(212) 704-4195,"1459 Broadway, New York, NY 10036",New York,NY,212704
 1445980002960,Lol�_ ,(415) 643-5656,"974 Valencia St, San Francisco, CA 94110",San Francisco,CA,415643
@@ -2967,7 +2967,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002968,Long Bridge Pizza Company ,(415) 829-8999,"2347 3rd St, San Francisco, CA 94107",San Francisco,CA,415829
 1445980002969,LongHorn Steakhouse ,(608) 836-1830,"418 S Gammon Rd, Madison, WI 53719",Madison,WI,608836
 1445980002970,Longman & Eagle ,(773) 276-7110,"2657 N Kedzie Ave, Chicago, IL 60647",Chicago,IL,773276
-1445980002971,Loosie Rouge ,1445980000000,"91 S 6th St, Brooklyn, NY 11211",New York,NY,212586
+1445980002971,Loosie Rouge ,1445980000000,"91 S 6th St, Brooklyn, NY 11211",Brooklyn,NY,718875
 1445980002972,Lord George ,(415) 660-7633,"555 2nd St, San Francisco, CA 94107",San Francisco,CA,415660
 1445980002973,Loreley ,(212) 253-7077,"7 Rivington St, New York, NY 10002",New York,NY,212253
 1445980002974,Los Cuates Taqueria ,(650) 745-8203,"140 Hazelwood Dr, South San Francisco, CA 94080",South San Francisco,CA,650745
@@ -2975,13 +2975,13 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002976,Los Mexicans de Europa ,(608) 826-8532,"475 N Charter St, Madison, WI 53706",Madison,WI,608826
 1445980002977,Los Molcajetes ,(213) 388-8994,"1800 W 8th St, Los Angeles, CA 90057",Los Angeles,CA,213388
 1445980002978,Los Panchos ,(415) 285-1033,"3206 Mission St, San Francisco, CA 94110",San Francisco,CA,415285
-1445980002979,Los Papi�۪s ,(718) 596-6965,"77 Bridge St, Brooklyn, NY 11201",New York,NY,718596
+1445980002979,Los Papi�۪s ,(718) 596-6965,"77 Bridge St, Brooklyn, NY 11201",Brooklyn,NY,718596
 1445980002980,Los Poblanos ,(323) 766-1869,"1433 W Jefferson Boulevard, Los Angeles, CA 90007",Los Angeles,CA,323766
 1445980002981,Los Tacos No.1 ,(212) 256-0343,"75 9th Ave, New York, NY 10011",New York,NY,212256
 1445980002982,Lossman Eye Care Associates ,(847) 696-2434,"2 W Talcott Rd, Park Ridge, IL 60068",Park Ridge,IL,847696
 1445980002983,Lost Coast Outfitters ,(415) 483-2278,"550 Montgomery St, San Francisco, CA 94111",San Francisco,CA,415483
 1445980002984,Lot,(212) 704-9856,"206 W 40th St, New York, NY 10018",New York,NY,212704
-1445980002985,Lot 2 ,(718) 499-5623,"687 6th Ave, Brooklyn, NY 11215",New York,NY,718499
+1445980002985,Lot 2 ,(718) 499-5623,"687 6th Ave, Brooklyn, NY 11215",Brooklyn,NY,718499
 1445980002986,Lotus ,(213) 478-0090,"3742 S Flower St, Los Angeles, CA 90007",Los Angeles,CA,213478
 1445980002987,Lotus Cafe & B��nh M�� Sandwiches ,(312) 733-7595,"719 W Maxwell St, Chicago, IL 60607",Chicago,IL,312733
 1445980002988,Lotus Cafe & B��nh M�� Sandwiches ,(312) 733-7595,"719 W Maxwell St, Chicago, IL 60607",Chicago,IL,312733
@@ -2997,13 +2997,13 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980002998,Lovely: A Bake Shop ,(773) 572-4766,"1130 N Milwaukee Ave, Chicago, IL 60642",Chicago,IL,773572
 1445980002999,Lovey�۪s Tea Shoppe ,(650) 359-1245,"4430 Coast Hwy, Pacifica, CA 94044",Pacifica,CA,650359
 1445980003000,Lowcountry ,(773) 996-9997,"3343 N Clark St, Chicago, IL 60657",Chicago,IL,773996
-1445980003001,Lowlands Bar ,(347) 463-9458,"543 3rd Ave, Brooklyn, NY 11215",New York,NY,347463
+1445980003001,Lowlands Bar ,(347) 463-9458,"543 3rd Ave, Brooklyn, NY 11215",Brooklyn,NY,347463
 1445980003002,LP Stadium ,(773) 661-9710,"2423 N Clark St, Chicago, IL 60614",Chicago,IL,773661
 1445980003003,Ltauha Restaurant ,(347) 689-3462,"55-50 Myrtle Ave, Ridgewood, NY 11385",Ridgewood,NY,347689
 1445980003004,Luang Prabang ,1445980000000,"728 State St, Madison, WI 53706",Madison,WI,608286
 1445980003005,LucasFilm ,(415) 623-1000,"1110 Gorgas Ave, San Francisco, CA 94129",San Francisco,CA,415623
 1445980003006,Lucca Delicatessen ,(415) 921-7873,"2120 Chestnut St, San Francisco, CA 94123",San Francisco,CA,415921
-1445980003007,Lucha Lucha ,(929) 273-2380,"283 Nostrand Ave, Brooklyn, NY 11216",New York,NY,929273
+1445980003007,Lucha Lucha ,(929) 273-2380,"283 Nostrand Ave, Brooklyn, NY 11216",Brooklyn,NY,929273
 1445980003008,Lucky Seven ,(608) 260-8225,"2465 Perry St, Madison, WI 53713",Madison,WI,608260
 1445980003009,Lucky�۪s Bar & Grille ,(608) 250-8989,"1421 Regent St, Madison, WI 53711",Madison,WI,608250
 1445980003010,Lucky�۪s Bar & Grille ,(608) 850-5825,"1008 Quinn Dr, Waunakee, WI 53597",Waunakee,WI,608850
@@ -3014,13 +3014,13 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003015,Luis C.'s review of 4505 Meat,(415) 255-3094,"1 Ferry Building, San Francisco, CA 94111",San Francisco,CA,415255
 1445980003016,Luisa�۪s Pizza And Pasta ,(415) 563-4043,"1550 California St, San Francisco, CA 94109",San Francisco,CA,415563
 1445980003017,Luisitos Torta�۪s & Jugos ,(323) 261-8384,"1912 E 1st St, Los Angeles, CA 90033",Los Angeles,CA,323261
-1445980003018,Luke�۪s Lobster ,(917) 882-7516,"11 Water St, Brooklyn, NY 11201",New York,NY,917882
+1445980003018,Luke�۪s Lobster ,(917) 882-7516,"11 Water St, Brooklyn, NY 11201",Brooklyn,NY,917882
 1445980003019,Luke�۪s Lobster ,(212) 747-1700,"26 S William St, New York, NY 10004",New York,NY,212747
 1445980003020,Lula Cafe ,(773) 489-9554,"2537 N Kedzie Blvd, Chicago, IL 60647",Chicago,IL,773489
-1445980003021,Lulu & Po ,(917) 435-3745,"154 Carlton Ave, Brooklyn, NY 11205",New York,NY,917435
+1445980003021,Lulu & Po ,(917) 435-3745,"154 Carlton Ave, Brooklyn, NY 11205",Brooklyn,NY,917435
 1445980003022,Lululemon Athletica ,(608) 231-2130,"574 N Midvale Blvd, Madison, WI 53705",Madison,WI,608231
 1445980003023,Lunchpad ,(415) 522-6647,"581 Hayes St, San Francisco, CA 94102",San Francisco,CA,415522
-1445980003024,Lunitas ,(347) 987-3799,"1039 A Fulton St, Brooklyn, NY 11238",New York,NY,347987
+1445980003024,Lunitas ,(347) 987-3799,"1039 A Fulton St, Brooklyn, NY 11238",Brooklyn,NY,347987
 1445980003025,Lupa Trattoria ,(415) 282-5872,"4109 24th St, San Francisco, CA 94114",San Francisco,CA,415282
 1445980003026,Lure ,(323) 463-0004,"1439 Ivar Ave, Los Angeles, CA 90028",Los Angeles,CA,323463
 1445980003027,Lush Fresh Handmade Cosmetics ,1445980000000,"702 N Midvale Blvd, Madison, WI 53705",Madison,WI,608286
@@ -3046,7 +3046,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003047,Macallans Public House ,(714) 529-1224,"330 W Birch St, Brea, CA 92821",Brea,CA,714529
 1445980003048,Maccheroni Republic ,(213) 346-9725,"332 S Broadway, Los Angeles, CA 90013",Los Angeles,CA,213346
 1445980003049,Macchialina Taverna Rustica ,(305) 534-2124,"820 Alton Rd, Miami Beach, FL 33139",Miami Beach,FL,305534
-1445980003050,Macdonough Caf̩ ,(347) 221-0295,"83 Saratoga Ave, Brooklyn, NY 11233",New York,NY,347221
+1445980003050,Macdonough Caf̩ ,(347) 221-0295,"83 Saratoga Ave, Brooklyn, NY 11233",Brooklyn,NY,347221
 1445980003051,Macha Cafe ,(415) 563-8079,"1355 Sutter St, San Francisco, CA 94109",San Francisco,CA,415563
 1445980003052,Machinery Row Bicycles ,(608) 442-5974,"601 Williamson St, Madison, WI 53703",Madison,WI,608442
 1445980003053,Machu Picchu Restaurant ,(773) 472-0471,"3856 N Ashland Ave, Chicago, IL 60613",Chicago,IL,773472
@@ -3128,7 +3128,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003129,Maria Pia ,(212) 765-6463,"319 W 51st St, New York, NY 10019",New York,NY,212765
 1445980003130,Maria�۪s Pizza ,(608) 835-5455,"134 S Main St, Oregon, WI 53575",Oregon,WI,608835
 1445980003131,Maricela�۪s Bionicos Y Antojitos ,(310) 325-1517,"1202 Pacific Coast Hwy, Harbor City, CA 90710",Harbor City,CA,310325
-1445980003132,Marietta ,(718) 638-9500,"285 Grand Ave, Brooklyn, NY 11238",New York,NY,718638
+1445980003132,Marietta ,(718) 638-9500,"285 Grand Ave, Brooklyn, NY 11238",Brooklyn,NY,718638
 1445980003133,Marigold Kitchen ,(608) 661-5559,"118 S Pinckney St, Madison, WI 53703",Madison,WI,608661
 1445980003134,Marina Aquatic Center ,(424) 228-8002,"14001 Fiji Way, Marina Del Rey, CA 90292",Marina Del Rey,CA,424228
 1445980003135,Marina Del Rey Boat Rentals ,(310) 306-4444,"13717 Fiji Way, Marina Del Rey, CA 90292",Marina Del Rey,CA,310306
@@ -3159,7 +3159,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003160,Mars Bar & Restaurant ,(415) 621-6277,"798 Brannan St, San Francisco, CA 94103",San Francisco,CA,415621
 1445980003161,Marshalls ,(608) 831-5303,"1700 Deming Way, Middleton, WI 53562",Middleton,WI,608831
 1445980003162,Marshfield Urban Grill ,(773) 525-3400,"2417 N Clybourn Ave, Chicago, IL 60614",Chicago,IL,773525
-1445980003163,Martha ,(718) 596-4147,"184 DeKalb Ave, Brooklyn, NY 11205",New York,NY,718596
+1445980003163,Martha ,(718) 596-4147,"184 DeKalb Ave, Brooklyn, NY 11205",Brooklyn,NY,718596
 1445980003164,Martha Z.'s review of Nonno's Ristorante Italian,(608) 661-9254,"704 S Whitney Way, Madison, WI 53711",Madison,WI,608661
 1445980003165,Martin O�۪Grady Irish Pub & Grill ,(608) 833-4262,"7436 Mineral Point Rd, Madison, WI 53717",Madison,WI,608833
 1445980003166,Martinique Caf̩ ,(212) 244-6523,"1260 Broadway, New York, NY 10001",New York,NY,212244
@@ -3168,7 +3168,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003169,Mary�۪s Place ,(773) 775-7587,"6300 N Milwaukee Ave, Chicago, IL 60646",Chicago,IL,773775
 1445980003170,Masa of Echo Park ,(213) 989-1558,"1800 W Sunset Blvd, Los Angeles, CA 90026",Los Angeles,CA,213989
 1445980003171,Masarap Food Cart ,(608) 206-2759,"953 Jenifer St, Madison, WI 53703",Madison,WI,608206
-1445980003172,Masha & the Bear ,(718) 384-5000,"771 Grand St, Brooklyn, NY 11211",New York,NY,718384
+1445980003172,Masha & the Bear ,(718) 384-5000,"771 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718384
 1445980003173,Mason Pacific ,(415) 374-7185,"1358 Mason St, San Francisco, CA 94133",San Francisco,CA,415374
 1445980003174,Mastro�۪s Penthouse ,(310) 888-8782,"246 N Canon Dr, Beverly Hills, CA 90210",Beverly Hills,CA,310888
 1445980003175,Mat Goeul ,(213) 387-8620,"361 S Western Ave, Los Angeles, CA 90020",Los Angeles,CA,213387
@@ -3186,7 +3186,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003187,Maximiliano ,(323) 739-6125,"5930 York Blvd, Los Angeles, CA 90042",Los Angeles,CA,323739
 1445980003188,Maya Del Sol ,(708) 358-9800,"144 S Oak Park Ave, Oak Park, IL 60302",Oak Park,IL,708358
 1445980003189,Maya Del Sol ,(708) 358-9800,"144 S Oak Park Ave, Oak Park, IL 60302",Oak Park,IL,708358
-1445980003190,Mayfield ,(347) 318-3643,"688 Franklin Ave, Brooklyn, NY 11238",New York,NY,347318
+1445980003190,Mayfield ,(347) 318-3643,"688 Franklin Ave, Brooklyn, NY 11238",Brooklyn,NY,347318
 1445980003191,Mazag Hookah Lounge ,(347) 846-9459,"25-74 Steinway St, New York, NY 11103",New York,NY,347846
 1445980003192,Mazeish Grill ,(646) 964-5912,"137 Rivington St, New York, NY 10002",New York,NY,646964
 1445980003193,Mazzat ,(415) 525-3901,"501 Fell St, San Francisco, CA 94102",San Francisco,CA,415525
@@ -3274,7 +3274,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003275,Michelle I.'s review of The Irish Bank Bar & Restauran,(415) 788-7152,"10 Mark Ln, San Francisco, CA 94108",San Francisco,CA,415788
 1445980003276,Mickey�۪s Tavern ,(608) 251-9964,"1524 Williamson St, Madison, WI 53703",Madison,WI,608251
 1445980003277,Mickies Dairy Bar ,(608) 256-9476,"1511 Monroe St, Madison, WI 53711",Madison,WI,608256
-1445980003278,Micro Center ,(347) 563-9880,"850 3rd Ave, Brooklyn, NY 11232",New York,NY,347563
+1445980003278,Micro Center ,(347) 563-9880,"850 3rd Ave, Brooklyn, NY 11232",Brooklyn,NY,347563
 1445980003279,Microcosm Cafe ,(608) 890-2170,"1550 Linden Dr, Madison, WI 53706",Madison,WI,608890
 1445980003280,Microtel Inn & Suites Madison ,(888) 595-1878,"2139 East Springs Drive, Madison, WI 53704",Madison,WI,888595
 1445980003281,Mid Town Pub ,(608) 826-5129,"2405 Allen Blvd, Middleton, WI 53562",Middleton,WI,608826
@@ -3298,7 +3298,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003299,Miki Restaurant ,(415) 387-0874,"3639 Balboa St, San Francisco, CA 94121",San Francisco,CA,415387
 1445980003300,Mikkeller Bar ,(415) 984-0279,"34 Mason St, San Francisco, CA 94102",San Francisco,CA,415984
 1445980003301,Mikol S.'s review of Massawa Restauran,(415) 621-4129,"532 Green St, San Francisco, CA 94133",San Francisco,CA,415621
-1445980003302,Milan Restaurant ,(718) 788-7384,"710 5th Ave, Brooklyn, NY 11226",New York,NY,718788
+1445980003302,Milan Restaurant ,(718) 788-7384,"710 5th Ave, Brooklyn, NY 11226",Brooklyn,NY,718788
 1445980003303,Milio�۪s ,(608) 301-9999,"5534 Eastpark Blvd, Madison, WI 53718",Madison,WI,608301
 1445980003304,Milio�۪s Sandwiches ,(608) 826-0011,"462 Commerce Dr, Madison, WI 53719",Madison,WI,608826
 1445980003305,Milio�۪s Sandwiches ,(608) 245-2700,"5534 Eastpark Blvd, Madison, WI 53718",Madison,WI,608245
@@ -3386,7 +3386,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003387,Monsoon Siam ,(608) 284-9282,"2045 Atwood Ave, Madison, WI 53704",Madison,WI,608284
 1445980003388,Montana Eyes ,(310) 917-4474,"709 Montana Ave, Santa Monica, CA 90403",Santa Monica,CA,310917
 1445980003389,Montana Optometry ,(310) 576-9191,"1312 Montana Ave, Santa Monica, CA 90403",Santa Monica,CA,310576
-1445980003390,Montana�۪s Trail House ,(917) 966-1666,"445 Troutman St, Brooklyn, NY 11237",New York,NY,917966
+1445980003390,Montana�۪s Trail House ,(917) 966-1666,"445 Troutman St, Brooklyn, NY 11237",Brooklyn,NY,917966
 1445980003391,Monte 52 ,(818) 626-0822,"5200 Monte Vista St, Los Angeles, CA 90042",Los Angeles,CA,818626
 1445980003392,Monte�۪s Grill & Pub ,(608) 845-9669,"608A W Verona Ave, Verona, WI 53593",Verona,WI,608845
 1445980003393,Montecristo Restaurant ,(415) 468-2113,"6286 3rd St, San Francisco, CA 94124",San Francisco,CA,415468
@@ -3415,7 +3415,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003416,Mott St ,(773) 687-9977,"1401 N Ashland Ave, Chicago, IL 60622",Chicago,IL,773687
 1445980003417,Mott St ,(773) 687-9977,"1401 N Ashland Ave, Chicago, IL 60622",Chicago,IL,773687
 1445980003418,Moulin Rouge Restaurant ,(415) 928-0158,"887 Geary St, San Francisco, CA 94109",San Francisco,CA,415928
-1445980003419,Mountain Province ,(718) 387-7030,"9 Meserole St, Brooklyn, NY 11206",New York,NY,718387
+1445980003419,Mountain Province ,(718) 387-7030,"9 Meserole St, Brooklyn, NY 11206",Brooklyn,NY,718387
 1445980003420,Movin�۪ Shoes ,(608) 251-0125,"528 S Park St, Madison, WI 53715",Madison,WI,608251
 1445980003421,Moya ,(415) 431-5544,"121 9th St, San Francisco, CA 94103",San Francisco,CA,415431
 1445980003422,Mozzeria ,(415) 489-0963,"3228 16th St, San Francisco, CA 94103",San Francisco,CA,415489
@@ -3430,7 +3430,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003431,Mr. Brews Taphouse ,(608) 849-4644,"300 N. Century Ave, Waunakee, WI 53597",Waunakee,WI,608849
 1445980003432,Mr. Brews Taphouse All American Burgers ,(608) 824-9600,"610 Junction Rd, Madison, WI 53717",Madison,WI,608824
 1445980003433,Mr. C ,(310) 277-2800,"1224 Beverwil Dr, Los Angeles, CA 90035",Los Angeles,CA,310277
-1445980003434,Mrs. Dorsey�۪s Kitchen ,(347) 715-2507,"794 Washington Ave, Brooklyn, NY 11238",New York,NY,347715
+1445980003434,Mrs. Dorsey�۪s Kitchen ,(347) 715-2507,"794 Washington Ave, Brooklyn, NY 11238",Brooklyn,NY,347715
 1445980003435,Mrs. Murphy & Sons Irish Bistro ,(773) 248-3905,"3905 N Lincoln Ave, Chicago, IL 60613",Chicago,IL,773248
 1445980003436,MSCo Patisserie ,(608) 442-8009,"916 Williamson St, Madison, WI 53703",Madison,WI,608442
 1445980003437,Mt. Everest Restaurant ,(847) 491-1069,"630 Church St, Evanston, IL 60201",Evanston,IL,847491
@@ -3468,7 +3468,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003469,Naf Naf Grill ,(608) 256-0071,"555 State St, Madison, WI 53703",Madison,WI,608256
 1445980003470,Nakamol Chicago ,(312) 332-4454,"336 N Michigan Ave, Chicago, IL 60601",Chicago,IL,312332
 1445980003471,Naked Lunch ,(415) 577-4951,"504 Broadway, San Francisco, CA 94133",San Francisco,CA,415577
-1445980003472,Nam Nam ,(718) 302-9200,"109 Montrose Ave, Brooklyn, NY 11206",New York,NY,718302
+1445980003472,Nam Nam ,(718) 302-9200,"109 Montrose Ave, Brooklyn, NY 11206",Brooklyn,NY,718302
 1445980003473,Nam�۪s Noodle ,(608) 287-0475,"1336 Regent St, Madison, WI 53715",Madison,WI,608287
 1445980003474,Namo Thai Cuisine ,(773) 327-8818,"3900 N Lincoln Ave, Chicago, IL 60613",Chicago,IL,773327
 1445980003475,Namu Gaji ,(415) 431-6268,"499 Dolores St, San Francisco, CA 94110",San Francisco,CA,415431
@@ -3519,14 +3519,14 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003520,New World Market ,(415) 751-8810,"5641 Geary Blvd, San Francisco, CA 94121",San Francisco,CA,415751
 1445980003521,New York Famous Deli ,(323) 255-3354,"2501 Colorado Blvd, Los Angeles, CA 90041",Los Angeles,CA,323255
 1445980003522,New York Marriott Marquis ,(212) 398-1900,"1535 Broadway, New York, NY 10036",New York,NY,212398
-1445980003523,New York Restorations ,(917) 889-4345,"248 Flushing, Brooklyn, NY 11205",New York,NY,917889
+1445980003523,New York Restorations ,(917) 889-4345,"248 Flushing, Brooklyn, NY 11205",Brooklyn,NY,917889
 1445980003524,New York Vacation Rentals ,(212) 548-6166,"229 W 60th St, Manhattan, NY 10023",Manhattan,NY,212548
 1445980003525,Newark Buffet ,(510) 818-1136,"35201 Newark Blvd, Newark, CA 94560",Newark,CA,510818
 1445980003526,Newell�۪s Deli ,(608) 890-1256,"35 N Park St, Madison, WI 53715",Madison,WI,608890
 1445980003527,Newport�۪s Wooden Furnishings ,(608) 251-2441,"1257 E Johnson St, Madison, WI 53703",Madison,WI,608251
 1445980003528,Next ,(312) 226-0858,"953 W Fulton Market, Chicago, IL 60607",Chicago,IL,312226
 1445980003529,Next Door Brewing Company ,(608) 729-3683,"2439 Atwood Ave, Madison, WI 53704",Madison,WI,608729
-1445980003530,Nh�� Minh ,(718) 387-7848,"485 Morgan Ave, Brooklyn, NY 11222",New York,NY,718387
+1445980003530,Nh�� Minh ,(718) 387-7848,"485 Morgan Ave, Brooklyn, NY 11222",Brooklyn,NY,718387
 1445980003531,Nicha K.'s review of Asian Bo,(415) 288-3688,"170 O'Farrell St, San Francisco, CA 94102",San Francisco,CA,415288
 1445980003532,Nick H.'s review of Yemeni's Restauran,(415) 441-8832,"1098 Sutter St, San Francisco, CA 94109",San Francisco,CA,415441
 1445980003533,Nick�۪s Bar & Restaurant ,(608) 255-5450,"226 State St, Madison, WI 53703",Madison,WI,608255
@@ -3567,7 +3567,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003568,Nonnies Pizza ,(630) 985-5800,"1565 75th St, Woodridge, IL 60517",Woodridge,IL,630985
 1445980003569,Nonno Pino�۪s ,(773) 594-1155,"6718 N Northwest Hwy, Chicago, IL 60631",Chicago,IL,773594
 1445980003570,Nonno�۪s Ristorante Italiano ,(608) 661-9254,"704 S Whitney Way, Madison, WI 53711",Madison,WI,608661
-1445980003571,Noodle Pudding ,(718) 625-3737,"38 Henry St, Brooklyn, NY 11201",New York,NY,718625
+1445980003571,Noodle Pudding ,(718) 625-3737,"38 Henry St, Brooklyn, NY 11201",Brooklyn,NY,718625
 1445980003572,Noodle Village ,(212) 233-0788,"13 Mott St, New York, NY 10013",New York,NY,212233
 1445980003573,Noodle Village ,(212) 233-0788,"13 Mott St, New York, NY 10013",New York,NY,212233
 1445980003574,Noodles ,(213) 388-8988,"539 S Western Ave, Los Angeles, CA 90020",Los Angeles,CA,213388
@@ -3605,7 +3605,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003606,Nuchas ,(212) 913-9682,"Broadway and 44th St, New York, NY 10001",New York,NY,212913
 1445980003607,Nue Studio & Cafe ,(818) 314-3578,"5156 Melrose Ave, Los Angeles, CA 90004",Los Angeles,CA,818314
 1445980003608,Nuevo Leon Restaurant ,(312) 421-1517,"1515 W 18th St, Chicago, IL 60608",Chicago,IL,312421
-1445980003609,NYCoyne Furniture Repair & Upholstery ,(917) 468-1213,"117 Grattan St, Brooklyn, NY 11237",New York,NY,917468
+1445980003609,NYCoyne Furniture Repair & Upholstery ,(917) 468-1213,"117 Grattan St, Brooklyn, NY 11237",Brooklyn,NY,917468
 1445980003610,O,(415) 553-3986,"205 Oak St, San Francisco, CA 94102",San Francisco,CA,415553
 1445980003611,O�۪grady�۪s Irish Pub ,(608) 833-4262,"7436 Mineral Point Rd, Madison, WI 53717",Madison,WI,608833
 1445980003612,O3 Bistro & Lounge ,(415) 934-9800,"524 Van Ness Ave, San Francisco, CA 94102",San Francisco,CA,415934
@@ -3631,7 +3631,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003632,Okamoto Kitchen ,(818) 373-9769,"Los Angeles, CA",Los Angeles,CA,818373
 1445980003633,Oki Sushi ,1445980000000,"5901 Sharpsburg Dr, Madison, WI 53718",Madison,WI,608286
 1445980003634,Okina Sushi ,(415) 387-8882,"776 Arguello Blvd, San Francisco, CA 94118",San Francisco,CA,415387
-1445980003635,Okonomi ,(718) 302-0598,"150 Ainslie St, Brooklyn, NY 11211",New York,NY,718302
+1445980003635,Okonomi ,(718) 302-0598,"150 Ainslie St, Brooklyn, NY 11211",Brooklyn,NY,718302
 1445980003636,Old Bus Tavern ,(415) 843-1938,"3193 Mission St, San Francisco, CA 94110",San Francisco,CA,415843
 1445980003637,Old Country Buffet ,(608) 244-3682,"1745 Parkside Dr, Madison, WI 53704",Madison,WI,608244
 1445980003638,Old Jerusalem Restaurant ,(415) 642-5958,"2976 Mission St, San Francisco, CA 94110",San Francisco,CA,415642
@@ -3678,7 +3678,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003679,Open Sesame ,(323) 525-1698,"7458 Beverly Blvd, Los Angeles, CA 90036",Los Angeles,CA,323525
 1445980003680,Open Sesame ,(323) 525-1698,"7458 Beverly Blvd, Los Angeles, CA 90036",Los Angeles,CA,323525
 1445980003681,Open Space ,(323) 424-3059,"457 N Fairfax Ave, Los Angeles, CA 90036",Los Angeles,CA,323424
-1445980003682,Opera Cafe & Lounge NYC ,(718) 676-2992,"2255 Emmons Ave, Brooklyn, NY 11235",New York,NY,718676
+1445980003682,Opera Cafe & Lounge NYC ,(718) 676-2992,"2255 Emmons Ave, Brooklyn, NY 11235",Brooklyn,NY,718676
 1445980003683,Opportunity Financial ,(855) 408-5000,"11 E Adams St, Chicago, IL 60603",Chicago,IL,855408
 1445980003684,Opus Lounge ,(608) 441-6787,"116 King St, Madison, WI 53703",Madison,WI,608441
 1445980003685,Ora ,(773) 506-2978,"5143 N Clark St, Chicago, IL 60640",Chicago,IL,773506
@@ -3721,7 +3721,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003722,Osteria Mozza ,(323) 297-0100,"6602 Melrose Ave, Los Angeles, CA 90038",Los Angeles,CA,323297
 1445980003723,Osteria Papavero ,(608) 255-8376,"128 E Wilson St, Madison, WI 53703",Madison,WI,608255
 1445980003724,Ostrich Farm ,(213) 537-0657,"1525 W Sunset Blvd, Los Angeles, CA 90026",Los Angeles,CA,213537
-1445980003725,OTB ,(347) 763-1481,"141 Broadway, Brooklyn, NY 11211",New York,NY,347763
+1445980003725,OTB ,(347) 763-1481,"141 Broadway, Brooklyn, NY 11211",Brooklyn,NY,347763
 1445980003726,Otomisan Restaurant ,(323) 526-1150,"2506 E 1st St, Los Angeles, CA 90033",Los Angeles,CA,323526
 1445980003727,Ottimista Enoteca,(415) 674-8400,"1838 Union St, San Francisco, CA 94123",San Francisco,CA,415674
 1445980003728,Otto�۪s Restaurant & Bar ,(608) 535-6279,"6405 Mineral Point Rd, Madison, WI 53705",Madison,WI,608535
@@ -3745,7 +3745,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003746,Pacific Catch ,(415) 504-6905,"1200 9th Ave, San Francisco, CA 94122",San Francisco,CA,415504
 1445980003747,Pacific Dining Car ,(213) 483-6000,"1310 W 6th St, Los Angeles, CA 90017",Los Angeles,CA,213483
 1445980003748,Pacific Plaza Cafe ,(415) 928-8999,"1338 Franklin St, San Francisco, CA 94109",San Francisco,CA,415928
-1445980003749,Paco�۪s Tacos ,(718) 258-7515,"2368 Flatbush Ave, Brooklyn, NY 11234",New York,NY,718258
+1445980003749,Paco�۪s Tacos ,(718) 258-7515,"2368 Flatbush Ave, Brooklyn, NY 11234",Brooklyn,NY,718258
 1445980003750,Padrecito ,(415) 742-5505,"901 Cole St, San Francisco, CA 94117",San Francisco,CA,415742
 1445980003751,Pagan Restaurant ,(415) 751-2598,"3199 Clement St, San Francisco, CA 94121",San Francisco,CA,415751
 1445980003752,Pagan Restaurant ,(415) 751-2598,"3199 Clement St, San Francisco, CA 94121",San Francisco,CA,415751
@@ -3827,17 +3827,17 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003829,Pastoral ,(312) 658-1250,"53 E Lake St, Chicago, IL 60601",Chicago,IL,312658
 1445980003830,Pat O�۪Malley�۪s Jet Room ,(608) 268-5010,"3606 Corben Ct, Madison, WI 53704",Madison,WI,608268
 1445980003831,Pat�۪s Cafe ,(415) 776-8735,"2330 Taylor St, San Francisco, CA 94133",San Francisco,CA,415776
-1445980003832,Pates Et Traditions ,(718) 302-1878,"52 Havemeyer St, Brooklyn, NY 11211",New York,NY,718302
+1445980003832,Pates Et Traditions ,(718) 302-1878,"52 Havemeyer St, Brooklyn, NY 11211",Brooklyn,NY,718302
 1445980003833,Patino�۪s Grill ,(773) 280-9562,"2943 W Irving Park Rd, Chicago, IL 60618",Chicago,IL,773280
 1445980003834,Patio Burgers & Beer ,(323) 739-0013,"4541 Eagle Rock Blvd, Los Angeles, CA 90041",Los Angeles,CA,323739
 1445980003835,Patrick Evan Hair Salon ,(415) 421-1111,"55 Grant Ave, San Francisco, CA 94108",San Francisco,CA,415421
 1445980003836,Patrick F.'s review of D'Agostino's Pizza and Pu,(312) 850-3247,"752 N Ogden Ave, Chicago, IL 60642",Chicago,IL,312850
-1445980003837,Patrizia�۪s Pizza and Pasta ,(718) 218-9272,"35 Broadway, Brooklyn, NY 11249",New York,NY,718218
+1445980003837,Patrizia�۪s Pizza and Pasta ,(718) 218-9272,"35 Broadway, Brooklyn, NY 11249",Brooklyn,NY,718218
 1445980003838,Patxi�۪s Pizza ,(415) 558-9991,"511 Hayes St, San Francisco, CA 94102",San Francisco,CA,415558
 1445980003839,Patzeria Family & Friends ,(212) 245-4343,"311 W 48th St, New York, NY 10036",New York,NY,212245
 1445980003840,Patzeria Perfect Pizza ,(212) 575-7646,"231 W 46th St, New York, NY 10036",New York,NY,212575
 1445980003841,paul g.'s review of Social Kitchen & Brewer,(415) 681-0330,"1326 9th Ave, San Francisco, CA 94122",San Francisco,CA,415681
-1445980003842,Paul Smith ,(718) 218-0020,"280 Grand St, Brooklyn, NY 11211",New York,NY,718218
+1445980003842,Paul Smith ,(718) 218-0020,"280 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718218
 1445980003843,Paul Smith ,(415) 352-3520,"50 Geary St, San Francisco, CA 94108",San Francisco,CA,415352
 1445980003844,Paul�۪s Club ,(608) 257-5250,"204 State St, Madison, WI 53703",Madison,WI,608257
 1445980003845,Paul�۪s Neighborhood Bar ,(608) 827-7285,"2401 Parmenter St, Middleton, WI 53562",Middleton,WI,608827
@@ -3848,7 +3848,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003850,Payless Shoesource ,(818) 260-8902,"1637 N Victory Pl, Burbank, CA 91502",Burbank,CA,818260
 1445980003851,Pazzia Restaurant & Pizzeria ,(415) 512-1693,"337 3rd St, San Francisco, CA 94107",San Francisco,CA,415512
 1445980003852,Pazzo�۪s ,(312) 386-9400,"23 E Jackson Blvd, Chicago, IL 60604",Chicago,IL,312386
-1445980003853,Peaches HotHouse ,(718) 483-9111,"415 Tompkins Ave, Brooklyn, NY 11221",New York,NY,718483
+1445980003853,Peaches HotHouse ,(718) 483-9111,"415 Tompkins Ave, Brooklyn, NY 11221",Brooklyn,NY,718483
 1445980003854,Peaches�۪ Smokehouse & Southern Kitchen ,(323) 801-6368,"Los Angeles, CA 90036",Los Angeles,CA,323801
 1445980003855,Peacock the Wmns Apprl ,(608) 257-7730,"512 State St, Madison, WI 53703",Madison,WI,608257
 1445980003856,Pearl�۪s Deluxe Burgers ,(415) 409-6120,"708 Post St, San Francisco, CA 94109",San Francisco,CA,415409
@@ -3863,7 +3863,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003865,Pellitteri Waste Systems ,(608) 257-4285,"7035 Raywood Rd, Monona, WI 53713",Monona,WI,608257
 1445980003866,Pellys Liquors ,(773) 528-1338,"3444 N Lincoln Ave, Chicago, IL 60657",Chicago,IL,773528
 1445980003867,Penelope�۪s ,(773) 395-2351,"1913 W Division St, Chicago, IL 60622",Chicago,IL,773395
-1445980003868,Penny House Cafe ,(347) 240-7281,"732 Washington Ave, Brooklyn, NY 11238",New York,NY,347240
+1445980003868,Penny House Cafe ,(347) 240-7281,"732 Washington Ave, Brooklyn, NY 11238",Brooklyn,NY,347240
 1445980003869,Penny L.'s review of Ay Ay Picante Peruvian Cuisin,(773) 427-4239,"4569 N Elston Ave, Chicago, IL 60630",Chicago,IL,773427
 1445980003870,Penske Truck Rental ,(608) 833-0963,"3690 Commerce Dr, Madison, WI 53719",Madison,WI,608833
 1445980003871,People�۪s Bakery ,(608) 245-0404,"2810 E Washington Ave, Madison, WI 53704",Madison,WI,608245
@@ -3882,7 +3882,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003884,Peter P.'s review of J & W Del,(201) 991-0825,"215 Ridge Rd, North Arlington, NJ 07031",North Arlington,NJ,201991
 1445980003885,Petit Crenn ,(415) 864-1744,"609 Hayes St, San Francisco, CA 94102",San Francisco,CA,415864
 1445980003886,Petit Trois ,(323) 468-8916,"718 N Highland Ave, Los Angeles, CA 90038",Los Angeles,CA,323468
-1445980003887,Petite Crevette ,(718) 855-2632,"144 Union St, Brooklyn, NY 11231",New York,NY,718855
+1445980003887,Petite Crevette ,(718) 855-2632,"144 Union St, Brooklyn, NY 11231",Brooklyn,NY,718855
 1445980003888,Petrossian ,(212) 245-2214,"182 W 58th St, New York, NY 10019",New York,NY,212245
 1445980003889,Petrossian ,(212) 245-2214,"182 W 58th St, New York, NY 10019",New York,NY,212245
 1445980003890,Petty Cash Taqueria ,(323) 933-5300,"7360 Beverly Blvd, Los Angeles, CA 90036",Los Angeles,CA,323933
@@ -3920,8 +3920,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980003922,Piece Brewery and Pizzeria ,(773) 772-4422,"1927 W North Ave, Chicago, IL 60622",Chicago,IL,773772
 1445980003923,Pierogi Heaven ,(312) 263-9305,"169 N Wells St, Chicago, IL 60606",Chicago,IL,312263
 1445980003924,Pierogi Street ,(312) 675-8385,"1043 N California Ave, Chicago, IL 60622",Chicago,IL,312675
-1445980003925,Pies,(347) 529-6090,"166 S 4th St, Brooklyn, NY 11211",New York,NY,347529
-1445980003926,Pies,(347) 529-6090,"166 S 4th St, Brooklyn, NY 11211",New York,NY,347529
+1445980003925,Pies,(347) 529-6090,"166 S 4th St, Brooklyn, NY 11211",Brooklyn,NY,347529
+1445980003926,Pies,(347) 529-6090,"166 S 4th St, Brooklyn, NY 11211",Brooklyn,NY,347529
 1445980003927,Pig And Khao ,(347) 704-2398,"68 Clinton St, New York, NY 10002",New York,NY,347704
 1445980003928,Pine & Crane ,(323) 668-1128,"1521 Griffith Park Blvd, Los Angeles, CA 90026",Los Angeles,CA,323668
 1445980003929,Pine Cone Restaurant ,(608) 249-8778,"6162 US Hwy 51, De Forest, WI 53532",De Forest,WI,608249
@@ -4034,7 +4034,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004037,Pooley�۪s ,(608) 242-1888,"5441 High Crossing Blvd, Madison, WI 53718",Madison,WI,608242
 1445980004038,Popeyes ,(608) 249-9000,"5901 Hwy 51, Madison, WI 53704",Madison,WI,608249
 1445980004039,Poppy + Rose ,(213) 995-7799,"765 Wall St, Los Angeles, CA 90014",Los Angeles,CA,213995
-1445980004040,Pops Popular Clothing ,(718) 349-7677,"7 Franklin St, Brooklyn, NY 11222",New York,NY,718349
+1445980004040,Pops Popular Clothing ,(718) 349-7677,"7 Franklin St, Brooklyn, NY 11222",Brooklyn,NY,718349
 1445980004041,Poquito ,(415) 643-3900,"2368 3rd St, San Francisco, CA 94107",San Francisco,CA,415643
 1445980004042,Poquito M��s ,(818) 981-7500,"13924 Ventura Blvd, Sherman Oaks, CA 91423",Sherman Oaks,CA,818981
 1445980004043,Porchlight ,(212) 981-6188,"271 11th Ave, New York, NY 10001",New York,NY,212981
@@ -4047,7 +4047,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004050,Porter Cullens ,(708) 907-5558,"3541 W 99th St, Evergreen Park, IL 60805",Evergreen Park,IL,708907
 1445980004051,Portillo�۪s Hot Dogs ,(630) 495-9033,"1500 Butterfield Rd, Downers Grove, IL 60515",Downers Grove,IL,630495
 1445980004052,Post & Beam ,(323) 299-5599,"3767 Santa Rosalia Dr, Los Angeles, CA 90008",Los Angeles,CA,323299
-1445980004053,Post Office ,(718) 963-2574,"188 Havemeyer St, Brooklyn, NY 11211",New York,NY,718963
+1445980004053,Post Office ,(718) 963-2574,"188 Havemeyer St, Brooklyn, NY 11211",Brooklyn,NY,718963
 1445980004054,Posto ,(212) 716-1200,"310 2nd Ave, New York, NY 10003",New York,NY,212716
 1445980004055,POT ,(213) 368-3030,"3515 Wilshire Blvd, Los Angeles, CA 90010",Los Angeles,CA,213368
 1445980004056,POT Cafe ,(213) 368-3030,"3515 Wilshire Blvd, Los Angeles, CA 90010",Los Angeles,CA,213368
@@ -4096,7 +4096,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004099,Providence ,(323) 460-4170,"5955 Melrose Ave, Los Angeles, CA 90038",Los Angeles,CA,323460
 1445980004100,Prubechu ,(415) 952-3654,"2847 Mission St, San Francisco, CA 94110",San Francisco,CA,415952
 1445980004101,Psycho Baby ,(773) 772-2815,"1657 W Division St, Chicago, IL 60622",Chicago,IL,773772
-1445980004102,PT Restaurant ,(718) 388-7438,"331 Bedford Ave, Brooklyn, NY 11211",New York,NY,718388
+1445980004102,PT Restaurant ,(718) 388-7438,"331 Bedford Ave, Brooklyn, NY 11211",Brooklyn,NY,718388
 1445980004103,Public Kitchen and Bar ,(323) 769-8888,"7000 Hollywood Blvd, Los Angeles, CA 90028",Los Angeles,CA,323769
 1445980004104,Public Kitchen and Bar ,(323) 769-8888,"7000 Hollywood Blvd, Los Angeles, CA 90028",Los Angeles,CA,323769
 1445980004105,Public School 213 ,(213) 622-4500,"612 Flower St, Los Angeles, CA 90017",Los Angeles,CA,213622
@@ -4106,7 +4106,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004109,Puff Cha Ramen ,(646) 682-7768,"457 W 50th St, New York, NY 10019",New York,NY,646682
 1445980004110,Puli Trading ,(415) 221-8870,"455 Clement St, San Francisco, CA 94118",San Francisco,CA,415221
 1445980004111,Punjabi Dhaba ,(773) 262-2080,"2525 W Devon Ave, Chicago, IL 60659",Chicago,IL,773262
-1445980004112,Purbird ,(718) 857-2473,"82 Sixth Ave, Brooklyn, NY 11217",New York,NY,718857
+1445980004112,Purbird ,(718) 857-2473,"82 Sixth Ave, Brooklyn, NY 11217",Brooklyn,NY,718857
 1445980004113,Pure Thai Cookhouse ,(212) 581-0999,"766 9th Ave, New York, NY 10019",New York,NY,212581
 1445980004114,Pushcart Coffee Chelsea ,(646) 649-3079,"401 W 25th St, New York, NY 10001",New York,NY,646649
 1445980004115,Puttin�۪ On The Ritz ,(608) 831-7480,"2526 Allen Blvd, Middleton, WI 53562",Middleton,WI,608831
@@ -4156,7 +4156,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004159,R&G Brenner Income Tax ,(212) 682-7986,"162 E 46th St, New York, NY 10017",New York,NY,212682
 1445980004160,R&G Lounge ,(415) 982-7877,"631 Kearny St, San Francisco, CA 94108",San Francisco,CA,415982
 1445980004161,R�۪noh Thai ,(415) 925-0599,"1000 Magnolia, Larkspur, CA 94939",Larkspur,CA,415925
-1445980004162,Rabbithole Restaurant ,(718) 782-0910,"352 Bedford Ave, Brooklyn, NY 11211",New York,NY,718782
+1445980004162,Rabbithole Restaurant ,(718) 782-0910,"352 Bedford Ave, Brooklyn, NY 11211",Brooklyn,NY,718782
 1445980004163,Rachael G.'s review of Glass Nickel Pizz,(608) 218-9000,"5003 University Ave, Madison, WI 53705",Madison,WI,608218
 1445980004164,Racheal W.'s review of Hot's Kitche,(310) 318-2939,"844 Hermosa Ave, Hermosa Beach, CA 90254",Hermosa Beach,CA,310318
 1445980004165,Rachel L.'s review of Seoulful Korean Fried Chicke,(650) 333-6052,"107 S Linden Ave, South San Francisco, CA 94080",South San Francisco,CA,650333
@@ -4191,7 +4191,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004194,Red Dog Restaurant & Bar ,(415) 692-0211,"303 2nd St, San Francisco, CA 94107",San Francisco,CA,415692
 1445980004195,Red Door Cafe ,(415) 441-1564,"1608 Bush St, San Francisco, CA 94108",San Francisco,CA,415441
 1445980004196,Red Hill Station ,(415) 757-0480,"803 Cortland Ave, San Francisco, CA 94110",San Francisco,CA,415757
-1445980004197,Red Hook Lobster Pound ,(718) 858-7650,"284 Van Brunt St, Brooklyn, NY 11231",New York,NY,718858
+1445980004197,Red Hook Lobster Pound ,(718) 858-7650,"284 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,718858
 1445980004198,Red Lobster ,(608) 244-3530,"4502 East Towne Blvd., Madison, WI 53704",Madison,WI,608244
 1445980004199,Red Mango ,(312) 732-6505,"10 S Dearborn St, Chicago, IL 60603",Chicago,IL,312732
 1445980004200,Red Medicine ,(323) 651-5500,"8400 Wilshire Blvd, Beverly Hills, CA 90211",Beverly Hills,CA,323651
@@ -4255,7 +4255,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004258,Rico�۪s Tacos ,1445980000000,"5871 W Pico Blvd, Los Angeles, CA 90019",Los Angeles,CA,323549
 1445980004259,Right Size Alterations ,(608) 232-1632,"702 N Midvale Blvd, Madison, WI 53705",Madison,WI,608232
 1445980004260,Rinc�_n Peruano Restaurant ,(415) 894-7712,"3364 26th St, San Francisco, CA 94110",San Francisco,CA,415894
-1445980004261,Ringolevio ,(347) 335-0056,"490 Humboldt St, Brooklyn, NY 11222",New York,NY,347335
+1445980004261,Ringolevio ,(347) 335-0056,"490 Humboldt St, Brooklyn, NY 11222",Brooklyn,NY,347335
 1445980004262,Riou Bar Lounge  ,(929) 522-0145,"28-43 Steinway St, Astoria, NY 11103",Astoria,NY,929522
 1445980004263,Ripe For The Pickin�۪ @ Salvatore�۪s Tomato Pies ,(608) 318-1761,"503 W Main St, Sun Prairie, WI 53590",Sun Prairie,WI,608318
 1445980004264,Riposo 46 ,(929) 220-3952,"667 9th Ave, New York, NY 10036",New York,NY,929220
@@ -4302,7 +4302,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004305,Roman Candle Pizzeria ,(608) 258-2000,"1054 Williamson St, Madison, WI 53703",Madison,WI,608258
 1445980004306,Roman Candle Pizzeria ,(608) 831-7777,"1920 Parmenter St, Middleton, WI 53562",Middleton,WI,608831
 1445980004307,Roman Candle Sparkler Caf̩ ,(608) 256-6445,"100 N Hamilton St, Madison, WI 53703",Madison,WI,608256
-1445980004308,Roman�۪s ,(718) 622-5300,"243 DeKalb Ave, Brooklyn, NY 11205",New York,NY,718622
+1445980004308,Roman�۪s ,(718) 622-5300,"243 DeKalb Ave, Brooklyn, NY 11205",Brooklyn,NY,718622
 1445980004309,Romanov Restaurant & Lounge ,(818) 760-3177,"12229 Ventura Blvd, Studio City, CA 91604",Studio City,CA,818760
 1445980004310,Romero�۪s Rotisserie Chicken,(323) 667-0854,"611 N Virgil Ave, Los Angeles, CA 90004",Los Angeles,CA,323667
 1445980004311,Ron�۪s Pit Stop ,(415) 515-2023,"1 BBQ Ln, San Francisco, CA 94117",San Francisco,CA,415515
@@ -4312,7 +4312,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004315,Root & Bone ,(646) 682-7076,"200 E 3rd St, New York, NY 10009",New York,NY,646682
 1445980004316,Rooz Cafe ,(510) 123-4567,"1918 Park Blvd, Oakland, CA 94606",Oakland,CA,510645
 1445980004317,Rosalie L.'s review of Uncharted Book,1445980000000,"2630 N Milwaukee Ave, Chicago, IL 60647",Chicago,IL,800586
-1445980004318,Rosamunde Sausage Grill ,(718) 388-2170,"285 Bedford Ave, Brooklyn, NY 11211",New York,NY,718388
+1445980004318,Rosamunde Sausage Grill ,(718) 388-2170,"285 Bedford Ave, Brooklyn, NY 11211",Brooklyn,NY,718388
 1445980004319,Rosamunde Sausage Grill ,(415) 437-6851,"545 Haight St, San Francisco, CA 94117",San Francisco,CA,415437
 1445980004320,Rosamunde Sausage Grill ,(415) 970-9015,"2832 Mission St, San Francisco, CA 94110",San Francisco,CA,415970
 1445980004321,Rosati�۪s Authentic Chicago Pizza ,(608) 245-1111,"4933 Commercial Ave, Madison, WI 53704",Madison,WI,608245
@@ -4349,7 +4349,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004352,Rubber Duck Cleaning Company ,(331) 218-1573,"Chicago, IL 60647",Chicago,IL,331218
 1445980004353,Ruby Foo�۪s ,(212) 489-5600,"1626 Broadway, New York, NY 10019",New York,NY,212489
 1445980004354,Ruby Lounge ,(608) 257-1560,"1 Hawthorne Ct, Madison, WI 53715",Madison,WI,608257
-1445980004355,Rucola ,(718) 576-3209,"190 Dean St, Brooklyn, NY 11217",New York,NY,718576
+1445980004355,Rucola ,(718) 576-3209,"190 Dean St, Brooklyn, NY 11217",Brooklyn,NY,718576
 1445980004356,Ruen Pair ,(323) 466-0153,"5257 Hollywood Blvd, Los Angeles, CA 90027",Los Angeles,CA,323466
 1445980004357,Rumors ,(415) 553-6169,"398 7th St, San Francisco, CA 94103",San Francisco,CA,415553
 1445980004358,R̩union ,(212) 582-3200,"357 W 44th St, New York, NY 10036",New York,NY,212582
@@ -4380,8 +4380,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004383,Saffron Grill ,(415) 567-5100,"1279 Fulton St, San Francisco, CA 94117",San Francisco,CA,415567
 1445980004384,Sage Vapor ,(872) 484-2333,"2920 W Irving Park Rd, Chicago, IL 60618",Chicago,IL,872484
 1445980004385,Saha Restaurant ,(415) 345-9547,"1075 Sutter St, San Francisco, CA 94109",San Francisco,CA,415345
-1445980004386,Sahara Ark ,(718) 230-1903,"887 Fulton St, Brooklyn, NY 11238",New York,NY,718230
-1445980004387,Sahara Restaurant ,(718) 376-8594,"2337 Coney Island Ave, Brooklyn, NY 11223",New York,NY,718376
+1445980004386,Sahara Ark ,(718) 230-1903,"887 Fulton St, Brooklyn, NY 11238",Brooklyn,NY,718230
+1445980004387,Sahara Restaurant ,(718) 376-8594,"2337 Coney Island Ave, Brooklyn, NY 11223",Brooklyn,NY,718376
 1445980004388,Sai Jai Thai Restaurant ,(415) 673-5774,"771 O'Farrell St, San Francisco, CA 94109",San Francisco,CA,415673
 1445980004389,Saigon Fresh ,(310) 855-1888,"8504 W 3rd St, Los Angeles, CA 90048",Los Angeles,CA,310855
 1445980004390,Saigon Noodles ,(608) 827-9120,"6754 Odana Rd, Madison, WI 53719",Madison,WI,608827
@@ -4420,8 +4420,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004423,Sammy�۪s Cafe ,(415) 749-1938,"1416 Bush St, San Francisco, CA 94109",San Francisco,CA,415749
 1445980004424,Samosa House Silverlake ,(323) 913-0015,"3200 W Sunset Blvd, Los Angeles, CA 90026",Los Angeles,CA,323913
 1445980004425,Samovar Tea ,(415) 553-6887,"411 Valencia St, San Francisco, CA 94103",San Francisco,CA,415553
-1445980004426,Samurai Mama ,(718) 599-6161,"205 Grand St, Brooklyn, NY 11211",New York,NY,718599
-1445980004427,Samurai Papa ,(718) 599-7171,"32 Varet St, Brooklyn, NY 11206",New York,NY,718599
+1445980004426,Samurai Mama ,(718) 599-6161,"205 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718599
+1445980004427,Samurai Papa ,(718) 599-7171,"32 Varet St, Brooklyn, NY 11206",Brooklyn,NY,718599
 1445980004428,San Dong Best ,(415) 668-5888,"3741 Geary Blvd, San Francisco, CA 94118",San Francisco,CA,415668
 1445980004429,San Francisco Bay Flowers ,(415) 643-6519,"801 N Point St, San Francisco, CA 94109",San Francisco,CA,415643
 1445980004430,San Francisco Brewcraft ,(415) 751-9338,"1555 Clement St, San Francisco, CA 94118",San Francisco,CA,415751
@@ -4614,7 +4614,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004617,SoCal Self Storage ,(323) 992-4197,"5900 Hollywood Blvd, Los Angeles, CA 90028",Los Angeles,CA,323992
 1445980004618,Social Kitchen & Brewery ,(415) 681-0330,"1326 9th Ave, San Francisco, CA 94122",San Francisco,CA,415681
 1445980004619,Society For the Study of Reproduction ,(608) 256-2777,"1619 Monroe St, Madison, WI 53711",Madison,WI,608256
-1445980004620,SoCo ,(718) 783-1936,"509 Myrtle Ave, Brooklyn, NY 11205",New York,NY,718783
+1445980004620,SoCo ,(718) 783-1936,"509 Myrtle Ave, Brooklyn, NY 11205",Brooklyn,NY,718783
 1445980004621,Soda Pop�۪s ,(310) 967-0119,"349 N La Cienega Blvd, Los Angeles, CA 90048",Los Angeles,CA,310967
 1445980004622,Sofi Restaurant ,(312) 753-5504,"616 S Dearborn St, Chicago, IL 60605",Chicago,IL,312753
 1445980004623,Sofra Family Bistro ,(608) 836-6614,"7457 Elmwood Ave, Middleton, WI 53562",Middleton,WI,608836
@@ -4805,7 +4805,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004808,Subway ,1445980000000,"290 E 18th St, Oakland, CA 94606",Oakland,CA,510645
 1445980004809,Suehiro Cafe ,(213) 626-9132,"337 E 1st St, Los Angeles, CA 90012",Los Angeles,CA,213626
 1445980004810,Sugar Mama�۪s Gourmet Cupcakes ,(310) 800-0726,"Los Angeles, CA",Los Angeles,CA,310800
-1445980004811,Sugarburg ,(917) 618-3029,"519 Metropolitan Ave, Brooklyn, NY 11211",New York,NY,917618
+1445980004811,Sugarburg ,(917) 618-3029,"519 Metropolitan Ave, Brooklyn, NY 11211",Brooklyn,NY,917618
 1445980004812,SUGARFISH by sushi nozawa ,(323) 320-4800,"6115 W Sunset Blvd, Los Angeles, CA 90028",Los Angeles,CA,323320
 1445980004813,Sugarpie Bakery & Cafe ,(708) 212-4532,"Chicago, IL 60612",Chicago,IL,708212
 1445980004814,Sugoi Sushi ,(415) 401-8442,"1152 Valencia St, San Francisco, CA 94110",San Francisco,CA,415401
@@ -4822,7 +4822,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004825,Sun Hing Lung Co ,(212) 962-7032,"58 Henry St, New York, NY 10002",New York,NY,212962
 1445980004826,Sun Nong Dan ,(213) 365-0303,"3470 W 6th St, Los Angeles, CA 90020",Los Angeles,CA,213365
 1445980004827,Sun Prairie Golf Course ,(608) 837-6211,"Sun Prairie, WI 53590",Sun Prairie,WI,608837
-1445980004828,Sunday Brunch ,(646) 410-3455,"164 Lafayette Ave, Brooklyn, NY 11238",New York,NY,646410
+1445980004828,Sunday Brunch ,(646) 410-3455,"164 Lafayette Ave, Brooklyn, NY 11238",Brooklyn,NY,646410
 1445980004829,Sundown Saloon ,(608) 242-9646,"57 S Stoughton Rd, Madison, WI 53714",Madison,WI,608242
 1445980004830,Sunflower Potrero Hill ,(415) 861-2336,"288 Connecticut St, San Francisco, CA 94107",San Francisco,CA,415861
 1445980004831,Sunny Blue ,(310) 751-6306,"12608A Washington Blvd, Los Angeles, CA 90066",Los Angeles,CA,310751
@@ -4841,7 +4841,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004844,Super Duper Burgers ,(415) 882-1750,"783 Mission St, San Francisco, CA 94103",San Francisco,CA,415882
 1445980004845,Super M.'s review of Ginza of Toky,(608) 833-8282,"6734 Odana Rd, Madison, WI 53719",Madison,WI,608833
 1445980004846,Superamerica Division Ashland Oil ,(608) 271-2467,"4902 Verona Rd, Fitchburg, WI 53711",Fitchburg,WI,608271
-1445980004847,Supercollider ,(347) 725-3419,"609 4th Ave, Brooklyn, NY 11215",New York,NY,347725
+1445980004847,Supercollider ,(347) 725-3419,"609 4th Ave, Brooklyn, NY 11215",Brooklyn,NY,347725
 1445980004848,Supermarket Pharmacy ,(213) 385-3321,"326 S Western Ave, Los Angeles, CA 90020",Los Angeles,CA,213385
 1445980004849,Suppenk�_che ,(415) 252-9289,"525 Laguna St, San Francisco, CA 94102",San Francisco,CA,415252
 1445980004850,Supperclub ,(415) 348-0900,"430 Mason St, San Francisco, CA 94102",San Francisco,CA,415348
@@ -4880,13 +4880,13 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004883,Swan Oyster Depot ,(415) 673-1101,"1517 Polk St, San Francisco, CA 94109",San Francisco,CA,415673
 1445980004884,Swan Oyster Depot ,(415) 673-1101,"1517 Polk St, San Francisco, CA 94109",San Francisco,CA,415673
 1445980004885,Swaroop D.'s review of Bombay Wrap,(312) 739-9727,"122 N Wells St, Chicago, IL 60606",Chicago,IL,312739
-1445980004887,Sweet Chick ,(347) 725-4793,"164 Bedford Avenue, Brooklyn, NY 11211",New York,NY,347725
+1445980004887,Sweet Chick ,(347) 725-4793,"164 Bedford Avenue, Brooklyn, NY 11211",Brooklyn,NY,347725
 1445980004888,Sweet Chick ,(646) 657-0233,"178 Ludlow St, New York, NY 10002",New York,NY,646657
 1445980004889,Sweet Crush Ice Bar ,(310) 820-0607,"11753 San Vicente Blvd, Los Angeles, CA 90049",Los Angeles,CA,310820
 1445980004890,Sweet Lime Thai Cuisine ,(415) 674-7515,"2100 Sutter St, San Francisco, CA 94115",San Francisco,CA,415674
 1445980004891,Sweet Maple ,(415) 655-9169,"2101 Sutter St, San Francisco, CA 94115",San Francisco,CA,415655
 1445980004892,Sweet Maple ,(415) 655-9169,"2101 Sutter St, San Francisco, CA 94115",San Francisco,CA,415655
-1445980004893,Sweet Science ,(347) 763-0872,"135 Graham Ave, Brooklyn, NY 11206",New York,NY,347763
+1445980004893,Sweet Science ,(347) 763-0872,"135 Graham Ave, Brooklyn, NY 11206",Brooklyn,NY,347763
 1445980004894,Sweet Woodruff ,(415) 292-9090,"798 Sutter St, San Francisco, CA 94109",San Francisco,CA,415292
 1445980004895,sweetgreen ,(323) 934-3404,"8055 W 3rd St, Los Angeles, CA 90048",Los Angeles,CA,323934
 1445980004896,Sweetie Pie�۪s NoHo ,(818) 761-1325,"5230 Lankershim Blvd, Los Angeles, CA 91601",Los Angeles,CA,818761
@@ -4902,7 +4902,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004906,"Table, Donkey and Stick ",(773) 486-8525,"2728 W Armitage Ave, Chicago, IL 60647",Chicago,IL,773486
 1445980004907,Taboo Lounge ,(212) 967-2100,"406 8th Ave, New York, NY 10001",New York,NY,212967
 1445980004908,Tac Quick ,(773) 327-5253,"3930 N Sheridan Rd, Chicago, IL 60613",Chicago,IL,773327
-1445980004909,Taci�۪s Beyti ,(718) 627-5750,"1955 Coney Island Ave, Brooklyn, NY 11223",New York,NY,718627
+1445980004909,Taci�۪s Beyti ,(718) 627-5750,"1955 Coney Island Ave, Brooklyn, NY 11223",Brooklyn,NY,718627
 1445980004910,Tacko ,(415) 796-3534,"3115 Fillmore St, San Francisco, CA 94123",San Francisco,CA,415796
 1445980004911,Taco Bell ,(773) 281-5063,"2575 North Clybourn, Chicago, IL 60614",Chicago,IL,773281
 1445980004912,Taco Bell ,(608) 274-1564,"6275 McKee Road, Fitchburg, WI 53719",Fitchburg,WI,608274
@@ -4915,7 +4915,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004919,Tacolicious ,(415) 626-1344,"741 Valencia St, San Francisco, CA 94110",San Francisco,CA,415626
 1445980004920,Tacorgasmico ,(415) 565-0655,"2337 Market St, San Francisco, CA 94114",San Francisco,CA,415565
 1445980004921,Tacos Club ,(415) 796-2818,"2312 Market St, San Francisco, CA 94114",San Francisco,CA,415796
-1445980004922,Tacos El Bronco ,(718) 788-2229,"4324 4th Ave, Brooklyn, NY 11220",New York,NY,718788
+1445980004922,Tacos El Bronco ,(718) 788-2229,"4324 4th Ave, Brooklyn, NY 11220",Brooklyn,NY,718788
 1445980004923,Tacos El Compita ,1445980000000,"4477 W Pico Blvd, Los Angeles, CA 90019",Los Angeles,CA,323549
 1445980004924,Tacos Tumbras a Tomas ,(213) 620-1071,"317 S Broadway, Los Angeles, CA 90013",Los Angeles,CA,213620
 1445980004925,Tacos Villa Corona ,(323) 661-3458,"3185 Glendale Blvd, Los Angeles, CA 90039",Los Angeles,CA,323661
@@ -4953,7 +4953,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980004957,Taqueria Cazadores ,(415) 503-0340,"1600 Mission St, San Francisco, CA 94103",San Francisco,CA,415503
 1445980004958,Taqueria El Jalape̱o ,(608) 709-1345,"1318 S Midvale Blvd, Madison, WI 53711",Madison,WI,608709
 1445980004959,Taqueria El Jalape̱o ,(608) 709-1345,"1318 S Midvale Blvd, Madison, WI 53711",Madison,WI,608709
-1445980004960,Taqueria El Maguey ,(718) 768-2846,"3910 4th Ave, Brooklyn, NY 11232",New York,NY,718768
+1445980004960,Taqueria El Maguey ,(718) 768-2846,"3910 4th Ave, Brooklyn, NY 11232",Brooklyn,NY,718768
 1445980004961,Taqueria Guadalajara ,(608) 250-1824,"1033 S Park St, Madison, WI 53715",Madison,WI,608250
 1445980004962,Taqueria Guadalajara ,(415) 469-5480,"4798 Mission St, San Francisco, CA 94112",San Francisco,CA,415469
 1445980004963,Taqueria La Guadalupana ,(323) 440-6445,"Cypress Ave At Division St, Los Angeles, CA 90065",Los Angeles,CA,323440
@@ -5116,7 +5116,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005120,The Corned Beef Factory Sandwich Shop ,(312) 666-2535,"1009 W Lake St, Chicago, IL 60607",Chicago,IL,312666
 1445980005121,The Corner Store ,(415) 359-1800,"5 Masonic Ave, San Francisco, CA 94118",San Francisco,CA,415359
 1445980005122,The Counter ,(213) 228-7800,"725 W 7th St, Los Angeles, CA 90017",Los Angeles,CA,213228
-1445980005123,The Crabby Shack ,(718) 484-1507,"613 Franklin Ave, Brooklyn, NY 11238",New York,NY,718484
+1445980005123,The Crabby Shack ,(718) 484-1507,"613 Franklin Ave, Brooklyn, NY 11238",Brooklyn,NY,718484
 1445980005124,The Crafty Fox Ale House ,(415) 416-6602,"1700 Mission St, San Francisco, CA 94103",San Francisco,CA,415416
 1445980005125,The Crafty Fox Ale House ,(415) 416-6602,"1700 Mission St, San Francisco, CA 94103",San Francisco,CA,415416
 1445980005126,The Crawfish ,(818) 367-5209,"13213 Gladstone Ave, Sylmar, CA 91342",Sylmar,CA,818367
@@ -5153,7 +5153,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005157,The Fly Trap ,(415) 243-0580,"606 Folsom St, San Francisco, CA 94107",San Francisco,CA,415243
 1445980005158,The Flying Falafel ,(415) 964-1003,"1051 Market St, San Francisco, CA 94103",San Francisco,CA,415964
 1445980005159,The Flying Hound Alehouse ,(608) 310-4422,"6317 McKee Rd, Madison, WI 53719",Madison,WI,608310
-1445980005160,The Food Sermon Kitchen ,(718) 484-7555,"355 Rogers Ave, Brooklyn, NY 11225",New York,NY,718484
+1445980005160,The Food Sermon Kitchen ,(718) 484-7555,"355 Rogers Ave, Brooklyn, NY 11225",Brooklyn,NY,718484
 1445980005161,The Foodshop ,(323) 871-8833,"147 N Western Ave, Los Angeles, CA 90004",Los Angeles,CA,323871
 1445980005162,The Fountain ,(608) 250-1998,"122 State St, Madison, WI 53703",Madison,WI,608250
 1445980005163,The Fountain ,(608) 250-1998,"122 State St, Madison, WI 53703",Madison,WI,608250
@@ -5171,7 +5171,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005175,The Globe Pub ,(773) 871-3757,"1934 W Irving Park Rd, Chicago, IL 60613",Chicago,IL,773871
 1445980005176,The Godfathers Famous Pizza ,(773) 796-4340,"1054 W Wilson Dr, Chicago, IL 60640",Chicago,IL,773796
 1445980005177,The Golden State ,(323) 782-8331,"426 N Fairfax Ave, Los Angeles, CA 90036",Los Angeles,CA,323782
-1445980005178,The Good Fork ,(718) 643-6636,"391 Van Brunt St, Brooklyn, NY 11231",New York,NY,718643
+1445980005178,The Good Fork ,(718) 643-6636,"391 Van Brunt St, Brooklyn, NY 11231",Brooklyn,NY,718643
 1445980005179,The Good Nite ,(818) 850-3485,"10721 Burbank Blvd, North Hollywood, CA 91601",North Hollywood,CA,818850
 1445980005180,The Grain Cafe ,(323) 931-4034,"4222 W Pico Blvd, Los Angeles, CA 90019",Los Angeles,CA,323931
 1445980005181,The Grayson ,(347) 974-7741,"16 1st Ave, New York, NY 10009",New York,NY,347974
@@ -5202,7 +5202,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005206,The Hungry Pig ,(213) 387-7787,"2920 W Temple St, Los Angeles, CA 90026",Los Angeles,CA,213387
 1445980005207,The Icehouse ,(800) 922-5512,"1001 Wisconsin Pl, Madison, WI 53703",Madison,WI,800922
 1445980005208,The Icon ,(608) 256-3000,"206 State St, Madison, WI 53774",Madison,WI,608256
-1445980005209,The Ides Bar ,(718) 460-8006,"80 Wythe Ave, Brooklyn, NY 11249",New York,NY,718460
+1445980005209,The Ides Bar ,(718) 460-8006,"80 Wythe Ave, Brooklyn, NY 11249",Brooklyn,NY,718460
 1445980005210,The Interval At Long Now ,(415) 561-6582,"2 Marina Blvd, Bldg A, San Francisco, CA 94123",San Francisco,CA,415561
 1445980005211,The Irish American ,(646) 414-6223,"17 John St, New York, NY 10038",New York,NY,646414
 1445980005212,The Irish Bank Bar & Restaurant ,(415) 788-7152,"10 Mark Ln, San Francisco, CA 94108",San Francisco,CA,415788
@@ -5312,11 +5312,11 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005316,The Rodeside Grill ,(608) 846-1874,"6317 Rostad Cir, Windsor, WI 53598",Windsor,WI,608846
 1445980005317,The Roman Candle Pizzeria ,(608) 278-1111,"2685 Research Park Dr, Fitchburg, WI 53711",Fitchburg,WI,608278
 1445980005318,The Roost Carolina Kitchen ,(312) 261-5564,"1467 W Irving Park Rd, Chicago, IL 60613",Chicago,IL,312261
-1445980005319,The Rub ,1445980000000,"149 7th St, Brooklyn, NY 11215",New York,NY,212586
+1445980005319,The Rub ,1445980000000,"149 7th St, Brooklyn, NY 11215",Brooklyn,NY,718875
 1445980005320,The Rum House ,(646) 490-6924,"228 W 47th St, New York, NY 10036",New York,NY,646490
 1445980005321,The Rum House ,(646) 490-6924,"228 W 47th St, New York, NY 10036",New York,NY,646490
-1445980005322,The Saint Austere ,(718) 388-0012,"613 Grand St, Brooklyn, NY 11211",New York,NY,718388
-1445980005323,The Saint Austere ,(718) 388-0012,"613 Grand St, Brooklyn, NY 11211",New York,NY,718388
+1445980005322,The Saint Austere ,(718) 388-0012,"613 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718388
+1445980005323,The Saint Austere ,(718) 388-0012,"613 Grand St, Brooklyn, NY 11211",Brooklyn,NY,718388
 1445980005324,The Sandwich Joint ,(213) 623-5300,"1068 W 7th St, Los Angeles, CA 90017",Los Angeles,CA,213623
 1445980005325,The Sandwich Place ,(415) 431-3811,"2029 Mission St, San Francisco, CA 94110",San Francisco,CA,415431
 1445980005326,The Sandwich Shop ,(415) 282-1754,"635 19th St, San Francisco, CA 94107",San Francisco,CA,415282
@@ -5401,8 +5401,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005405,Tiffany C.'s review of In,(323) 651-5866,"8360 Melrose Ave, Los Angeles, CA 90069",Los Angeles,CA,323651
 1445980005406,Tiki Shack ,(608) 395-1965,"122 State St, Madison, WI 53703",Madison,WI,608395
 1445980005407,Tilly�۪s ,(818) 557-0121,"1751 N Victory Pl, Burbank, CA 91502",Burbank,CA,818557
-1445980005408,Tim L.'s review of HeadHood,(917) 620-5327,"86 Berry St, Brooklyn, NY 11211",New York,NY,917620
-1445980005409,Time Galleries inc ,(718) 788-8300,"562 5th Avenue, Brooklyn, NY 11215",New York,NY,718788
+1445980005408,Tim L.'s review of HeadHood,(917) 620-5327,"86 Berry St, Brooklyn, NY 11211",Brooklyn,NY,917620
+1445980005409,Time Galleries inc ,(718) 788-8300,"562 5th Avenue, Brooklyn, NY 11215",Brooklyn,NY,718788
 1445980005410,Time Square Islamic Center ,(917) 510-9345,"266 W 41st St, New York, NY 10036",New York,NY,917510
 1445980005411,Times Square Church ,(212) 541-6300,"1657 Broadway, New York, NY 10019",New York,NY,212541
 1445980005412,Tinga ,(323) 954-9566,"142 S La Brea Ave, Los Angeles, CA 90036",Los Angeles,CA,323954
@@ -5461,8 +5461,8 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005466,Trader Joe�۪s ,(773) 248-4920,"3745 N Lincoln Ave, Chicago, IL 60613",Chicago,IL,773248
 1445980005467,Trading Post ,(646) 370-3337,"170 John St, New York, NY 10038",New York,NY,646370
 1445980005468,Tradition ,(312) 263-0260,"160 N Franklin St, Chicago, IL 60606",Chicago,IL,312263
-1445980005469,Traif ,(347) 844-9578,"229 S 4th St, Brooklyn, NY 11211",New York,NY,347844
-1445980005470,Traif ,(347) 844-9578,"229 S 4th St, Brooklyn, NY 11211",New York,NY,347844
+1445980005469,Traif ,(347) 844-9578,"229 S 4th St, Brooklyn, NY 11211",Brooklyn,NY,347844
+1445980005470,Traif ,(347) 844-9578,"229 S 4th St, Brooklyn, NY 11211",Brooklyn,NY,347844
 1445980005471,Trapani Pizza & Pasta ,(608) 255-2223,"1441 Regent St, Madison, WI 53711",Madison,WI,608255
 1445980005472,Trattoria Bella Roma ,(310) 277-7662,"1509 S Robertson Blvd, Los Angeles, CA 90035",Los Angeles,CA,310277
 1445980005473,Trattoria Contadina ,(415) 982-5728,"1800 Mason St, San Francisco, CA 94133",San Francisco,CA,415982
@@ -5522,7 +5522,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005527,uBreakiFix ,(312) 462-4939,"1611 N Clybourn Ave, Chicago, IL 60614",Chicago,IL,312462
 1445980005528,uBreakiFix ,(608) 665-3884,"2810 E Washington Ave, Madison, WI 53704",Madison,WI,608665
 1445980005529,Ueda Photography ,(608) 228-7770,"Madison, WI 53725",Madison,WI,608228
-1445980005530,Uglyduckling ,(718) 451-3825,"166 Smith St, Brooklyn, NY 11201",New York,NY,718451
+1445980005530,Uglyduckling ,(718) 451-3825,"166 Smith St, Brooklyn, NY 11201",Brooklyn,NY,718451
 1445980005531,Ukrainian National Home ,(212) 529-6287,"140 2nd Ave, New York, NY 10003",New York,NY,212529
 1445980005532,Ultimate Pressure Washing ,(818) 402-2609,"San Fernando Valley, CA 90211",San Fernando Valley,CA,818402
 1445980005533,Ultimate Vapor Source ,(212) 532-1242,"43A W 29th St, New York, NY 10001",New York,NY,212532
@@ -5620,7 +5620,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005625,Via Brasil Restaurant ,(212) 997-1158,"34 W 46th St, New York, NY 10036",New York,NY,212997
 1445980005626,Via Lima ,(773) 348-4900,"4024 N Lincoln Ave, Chicago, IL 60618",Chicago,IL,773348
 1445980005627,Viaggio Ristorante & Lounge ,(312) 829-3333,"1330 W Madison St, Chicago, IL 60607",Chicago,IL,312829
-1445980005628,Vice Versa VIntage ,(718) 788-1925,"550 5th Ave, Brooklyn, NY 11215",New York,NY,718788
+1445980005628,Vice Versa VIntage ,(718) 788-1925,"550 5th Ave, Brooklyn, NY 11215",Brooklyn,NY,718788
 1445980005629,Vicky�۪s Restaurant ,(323) 264-5595,"2308 E 1st St, Los Angeles, CA 90033",Los Angeles,CA,323264
 1445980005630,Victor B.'s review of Pizza Brutt,(608) 257-2120,"1805 Monroe St, Madison, WI 53711",Madison,WI,608257
 1445980005631,Victor�۪s Cafe ,(212) 586-7714,"236 W 52nd St, New York, NY 10019",New York,NY,212586
@@ -5672,7 +5672,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005677,Wallflower ,(646) 682-9842,"235 W 12th St, New York, NY 10014",New York,NY,646682
 1445980005678,Wally�۪s Beverly Hills ,(310) 475-3540,"447 Canon Dr, Beverly Hills, CA 90210",Beverly Hills,CA,310475
 1445980005679,Walter R. Bauman Aquatic Center ,(608) 836-3450,"2400 Parklawn Pl, Middleton, WI 53562",Middleton,WI,608836
-1445980005680,Walter�۪s ,(718) 488-7800,"166 DeKalb Ave, Brooklyn, NY 11217",New York,NY,718488
+1445980005680,Walter�۪s ,(718) 488-7800,"166 DeKalb Ave, Brooklyn, NY 11217",Brooklyn,NY,718488
 1445980005681,Walzwerk ,(415) 551-7181,"381 S Van Ness Ave, San Francisco, CA 94103",San Francisco,CA,415551
 1445980005682,Wando�۪s ,(608) 256-5204,"602 University Ave, Madison, WI 53715",Madison,WI,608256
 1445980005683,Wando�۪s ,(608) 256-5204,"602 University Ave, Madison, WI 53715",Madison,WI,608256
@@ -5805,7 +5805,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005810,Wurstk�_che ,(213) 687-4444,"800 E 3rd St, Los Angeles, CA 90013",Los Angeles,CA,213687
 1445980005811,Wyler Road ,(773) 661-0675,"3581 W Belden Ave, Chicago, IL 60647",Chicago,IL,773661
 1445980005812,XIV ,(323) 656-1414,"8117 Sunset Blvd, Los Angeles, CA 90046",Los Angeles,CA,323656
-1445980005813,Xixa ,(718) 388-8860,"241 S 4th St, Brooklyn, NY 11211",New York,NY,718388
+1445980005813,Xixa ,(718) 388-8860,"241 S 4th St, Brooklyn, NY 11211",Brooklyn,NY,718388
 1445980005814,Xo ,(847) 229-1010,"1057 E Lake Cook Rd, Wheeling, IL 60090",Wheeling,IL,847229
 1445980005815,Xoco ,(312) 661-1434,"449 N Clark St, Chicago, IL 60654",Chicago,IL,312661
 1445980005816,Xoco ,(872) 829-3821,"1471 N Milwaukee Ave, Chicago, IL 60622",Chicago,IL,872829
@@ -5826,7 +5826,7 @@ ID,NAME,PHONENUMBER,ADDRESS,CITY,STATE,PHONEAREACODE
 1445980005831,Yard House ,(312) 951-7317,"1500 N. Clybourn Ave, Chicago, IL 60610",Chicago,IL,312951
 1445980005832,Yeah Shanghai Deluxe ,(212) 566-4884,"50 Mott St, New York, NY 10013",New York,NY,212566
 1445980005833,Yellow House Cafe ,(213) 365-0820,"234 S Oxford Ave, Los Angeles, CA 90004",Los Angeles,CA,213365
-1445980005834,Yemen Cafe & Restaurant ,(718) 745-3000,"7130 5th Ave, Brooklyn, NY 11209",New York,NY,718745
+1445980005834,Yemen Cafe & Restaurant ,(718) 745-3000,"7130 5th Ave, Brooklyn, NY 11209",Brooklyn,NY,718745
 1445980005835,Yemeni�۪s Restaurant ,(415) 441-8832,"1098 Sutter St, San Francisco, CA 94109",San Francisco,CA,415441
 1445980005836,Yo Yo�۪s ,(415) 296-8273,"318 Pacific Ave, San Francisco, CA 94111",San Francisco,CA,415296
 1445980005837,Yola�۪s Cafe ,(608) 827-5800,"494 Commerce Dr, Madison, WI 53719",Madison,WI,608827

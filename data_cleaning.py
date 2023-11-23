@@ -104,15 +104,15 @@ def parse_segments(address_segments: list(str)) -> tuple(str, str):
                 #print(state)
                 
         if city is None and any(char.isdigit() for char in segment) is False:
-            #pattern = re.compile("[A-Z][A-Z]")
-            #found_match = re.search(pattern, segment)
-            #if found_match:
-            #    continue
+            pattern = re.compile("[A-Z][A-Z]")
+            found_match = re.search(pattern, segment)
+            if found_match:
+                continue
             city = segment
             #print(city)
         
-        if city in new_york_options:
-            city = "New York"
+        #if city in new_york_options:
+        #    city = "New York"
     
     return city, state
         
@@ -170,6 +170,14 @@ def write_table(df_table: pd.DataFrame, region_map: dict, location_list: list(Lo
         df_table.to_csv(output_file, ",", index=False)
     return
 
+def write_debug(region_map: dict, output_name: str):
+    cities_list = pd.DataFrame(list(region_map.items()))
+
+    with open("data/" + output_name + ".csv", "w") as output_file:
+        cities_list.to_csv(output_file, ",", index=False)
+        pass
+    return
+
 def clean_address(csv_file, output_name: str):
     df_table = pd.read_csv(csv_file)
     
@@ -212,6 +220,7 @@ def clean_address(csv_file, output_name: str):
     percentage = (rejected_records / total_records) * 100
     print(f'{rejected_records}/{total_records} ({percentage:.2f}%) rejected.')
     write_table(df_table, region_map, location_list, output_name)
+    write_debug(region_map, "city_names")
     return
 
 def main():
