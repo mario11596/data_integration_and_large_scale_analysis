@@ -41,3 +41,31 @@ Address:
 
     16x LEV
     16x - 4x for each correct address LEV
+
+    project structure mockup
+        configparser
+            file1
+            file2
+            outputfile1
+            outputfile2
+            outputfileM
+
+        datacleaning(file1, outputfile1)
+        datacleaning(file2, outputfile2)
+        feature_encoding_cleaning_symbols(outputfile1) -> outputfile1
+        feature_encoding_cleaning_symbols(outputfile2) -> outputfile2
+
+        create_blocking(outputfile1) -> block1(ids)
+        create_blocking(outputfile2) -> block2(ids)
+
+        find_duplicates(block1) -> ids1
+        find_duplicates(block2) -> ids2
+
+        delete_duplicates(ids1, outputfile1) -> outputfile1
+        delete_duplicates(ids2, outputfile2) -> outputfile2
+
+        merge_blocks(blocks1, blocks2) -> blocksM
+        find_duplicates(blocksM) -> idsM
+        create_comparison(outputfile1, outputfile2, idsM) -> outputfileM
+        evaluate(outputfileM, labeled_data) -> percentage, extra info, etc.
+
