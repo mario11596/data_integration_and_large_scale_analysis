@@ -1,3 +1,4 @@
 pandas
 phonenumbers
 sklearn.preprocessing
+category_encoders
