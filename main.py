@@ -1,8 +1,7 @@
 import configparser
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
 
-
+import category_encoders as ce
 config = configparser.ConfigParser()
 config.read('config.ini')
 config = config['default']
@@ -26,20 +25,19 @@ def filter_columns_file():
 def state_feature_encoding():
     data_file = pd.read_csv(filepath_or_buffer=filter_file, delimiter=',', low_memory=False)
 
-    encoder = OneHotEncoder()
-    columnes = ['state_0', 'state_1', 'state_2','state_3','state_4','state_5','state_6','state_7','state_8']
-    data_file[columnes] = pd.DataFrame(encoder.fit_transform(data_file[['STATE']]).toarray())
+    encoder = ce.BaseNEncoder(cols=['STATE'], return_df=True, base=8)
+    data_file[['STATE_ENCODED_0', 'STATE_ENCODED_1']] = encoder.fit_transform(data_file['STATE'].copy())
     data_file.to_csv(filter_file, index=False, sep=',')
+
 
 
 def city_feature_encoding():
     data_file = pd.read_csv(filepath_or_buffer=filter_file, delimiter=',', low_memory=False)
 
-    encoder = TargetEncoder()
-    encoder.fit(X=data_file['CITY'], y=data_file['PHONEAREACODE'])
-    data_file['CITY_ENCODING'] = encoder.transform(data_file['CITY'])
+    encoder = ce.TargetEncoder(cols=['CITY'])
+    data_file['CITY_ENCODED'] = encoder.fit_transform(data_file['CITY'], data_file['PHONEAREACODE'])
+    print(data_file['CITY_ENCODED'])
     data_file.to_csv(filter_file, index=False, sep=',')
-
 
 if __name__ == '__main__':
     filter_columns_file()
