@@ -3,9 +3,9 @@ import pandas as pd
 import nltk
 
 # at first run, you have to download this three packages
-#nltk.download('punkt')
-#nltk.download('wordnet')
-#nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('stopwords')
 
 from nltk import WordNetLemmatizer
 from nltk.corpus import stopwords
@@ -54,7 +54,14 @@ def blocking_schema(csv_file):
     Number_of_record = 0
 
     for _, row in data_file.iterrows():
-        blocking_signature = row['STATE'] + row['CITY'] + row['NAME'][:2]
+        cleaned_name = row['NAME']
+        split = cleaned_name.split('The ', maxsplit=1)
+        if len(split) > 1:
+            cleaned_name = split[1]
+        split = cleaned_name.split('review of ', maxsplit=1)
+        if len(split) > 1:
+            cleaned_name = split[1]
+        blocking_signature = row['STATE'] + row['CITY'] + str(row['PHONEAREACODE'])[:3] + cleaned_name[:5]
         blocking_signature = blocking_signature.replace(" ", "")
 
         if blocking.get(blocking_signature) is not None:

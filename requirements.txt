@@ -1,6 +1,6 @@
 pandas
 phonenumbers
 sklearn.preprocessing
-category_encoders
+category-encoders
 configparser
 nltk

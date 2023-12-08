@@ -290,14 +290,14 @@ def main():
         clean_address(yelp_csv, output_file1)
     cleaning_feature_encoding(output_file1)
     blocks1 = blocking_schema(output_file1)
-    dup_list1 = find_duplicate_in_cluster(blocks1, threshold)
+    dup_list1 = find_duplicate_in_cluster(blocks1, 0.70)
     delete_duplicates(dup_list1, output_file1)
 
     with open(input_file2, "+r") as zomato_csv:
         clean_address(zomato_csv, output_file2)
     cleaning_feature_encoding(output_file2)
     blocks2 = blocking_schema(output_file2)
-    dup_list2 = find_duplicate_in_cluster(blocks2, threshold)
+    dup_list2 = find_duplicate_in_cluster(blocks2, 0.70)
     delete_duplicates(dup_list2, output_file2)
 
     dup_list_both = find_duplicate_between_clusters(blocks1, blocks2, threshold, idadjust2=-1)

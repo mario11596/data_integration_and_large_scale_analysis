@@ -31,9 +31,21 @@ def compare_row(row1: tuple, row2: tuple) -> Classification:
             #comp.same = row1[2]
             comp.tn = 1 - row1[2]
         else:
-            comp.fn = 1 - row1[2]
-            comp.fp = row1[2]
+            comp.fn = row2[2]
+            comp.fp = 1 - row2[2]
+    #elif row1[0] == row2[0] and row1[1] != row2[1]:
+    #    comp.fn = 1 - row1[2]
+    #    comp.fp = row1[2]
     return comp
+
+def penalize_remaining(df) -> Classification:
+    cla = Classification()
+    if df.empty:
+        return cla
+    for _, row in df.iterrows():
+        cla.fn += row['gold']
+        #cla.fp = 1 - row['gold']
+    return cla
 
 # calculate score
 def scoring(csv_file, matching_restaurant: dict) -> float:
@@ -46,23 +58,45 @@ def scoring(csv_file, matching_restaurant: dict) -> float:
     print(f"labeled_data len: {len(data_file['gold'])}, own len: {len(matching_restaurant['gold'])}")
     print(f"labeled_data gold: {len(df_gold)}, own gold: {len([x for x in matching_restaurant['gold'] if x == 1])}")
     # size of data
+    previous_ltable = -1
     for ltable, rtable, gold in zip(matching_restaurant['ltable'], matching_restaurant['rtable'], matching_restaurant['gold']):
         #print(f"values: {ltable}, {rtable}, {gold}")
         #print(f"own: {type(ltable)}, {type(data_file['ltable._id'][0])}")
-        df_new = data_file[data_file['ltable._id'] == ltable]
+        if previous_ltable == -1:
+            previous_ltable = ltable
+            df_new = data_file[data_file['ltable._id'] == ltable]
+        elif previous_ltable != ltable:
+            cla += penalize_remaining(df_new)
+            df_new = data_file[data_file['ltable._id'] == ltable]
+            previous_ltable = ltable
+
         if not df_new.empty:
-            for _, row in df_new.iterrows():
+            #if len(df_new) == 1:
+            #    row1 = (ltable, rtable, gold)
+            #    row2 = (df_new['ltable._id'].item(), df_new['rtable._id'].item(), df_new['gold'].item())
+            #    cla += compare_row(row1, row2)
+            #else:
+            found_entry = df_new[df_new['rtable._id'] == rtable]
+            index = df_new[df_new['rtable._id'] == rtable].index
+            if not found_entry.empty:
                 row1 = (ltable, rtable, gold)
-                row2 = (row['ltable._id'], row['rtable._id'], row['gold'])
+                row2 = (found_entry['ltable._id'].item(), found_entry['rtable._id'].item(), found_entry['gold'].item())
                 cla += compare_row(row1, row2)
-        elif ltable not in data_file['ltable._id'].values and gold == '1':
-            cla.fp += 1
-        elif ltable not in data_file['ltable._id'].values and gold == '0':
-            cla.fn += 1
+                df_new = df_new.drop(index, axis=0)
+            #for _, row in df_new.iterrows():
+            #    row1 = (ltable, rtable, gold)
+            #    row2 = (row['ltable._id'], row['rtable._id'], row['gold'])
+            #    cla += compare_row(row1, row2)
+        elif not ltable in data_file['ltable._id'].values and gold == '1':
+            cla.tp += 1
+        elif not ltable in data_file['ltable._id'].values and gold == '0':
+            cla.tn += 1
 
     acc = ((cla.tp + cla.tn) / (cla.tp + cla.tn + cla.fp + cla.fn)) * 100
+    dup_acc = ((cla.tp) / (cla.tp + cla.fp + cla.fn)) * 100
 
     print("Accuracy: ", str(acc))
+    print("Duplicates only: ", str(dup_acc))
 
     print("TP: " + str(cla.tp))
     print("TN: " + str(cla.tn))
