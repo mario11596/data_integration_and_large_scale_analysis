@@ -105,7 +105,6 @@ class LocationInfo:
     phone_area: list
     city: str
     state: str
-    address: str
     phonenumber: PhoneNumber
 
 def parse_segments(address_segments: list(str)) -> tuple(str, str):
