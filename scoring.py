@@ -13,12 +13,12 @@ class Classification:
     tn: int = 0
     fp: int = 0
     fn: int = 0
-    same: int = 0
+    #same: int = 0
     
     def __add__(self, o):
         if not isinstance(o, Classification):
             raise NotImplementedError
-        res = Classification(self.tp + o.tp, self.tn + o.tn, self.fp + o.fp, self.fn + o.fn, self.same + o.same)
+        res = Classification(self.tp + o.tp, self.tn + o.tn, self.fp + o.fp, self.fn + o.fn)
         return res
         
 
@@ -28,7 +28,7 @@ def compare_row(row1: tuple, row2: tuple) -> Classification:
     if row1[0] == row2[0] and row1[1] == row2[1]:
         if row1[2] == row2[2]:
             comp.tp = row1[2]
-            comp.same = row1[2]
+            #comp.same = row1[2]
             comp.tn = 1 - row1[2]
         else:
             comp.fn = 1 - row1[2]
@@ -41,7 +41,6 @@ def scoring(csv_file, matching_restaurant: dict) -> float:
 
     cla = Classification()
     # difference of true values between two data set
-    difference_data_size = 0
 
     df_gold = data_file[data_file['gold'] == 1]
     print(f"labeled_data len: {len(data_file['gold'])}, own len: {len(matching_restaurant['gold'])}")
@@ -57,14 +56,11 @@ def scoring(csv_file, matching_restaurant: dict) -> float:
                 row2 = (row['ltable._id'], row['rtable._id'], row['gold'])
                 cla += compare_row(row1, row2)
         elif ltable not in data_file['ltable._id'].values and gold == '1':
-            cla.tp += 1
+            cla.fp += 1
         elif ltable not in data_file['ltable._id'].values and gold == '0':
-            cla.tn += 1
-    
-    if len(df_gold) > len(matching_restaurant['ltable']):
-        difference_data_size = len(df_gold) - cla.same
+            cla.fn += 1
 
-    acc = ((cla.tp + cla.tn) / (cla.tp + cla.tn + cla.fp + cla.fn + difference_data_size)) * 100
+    acc = ((cla.tp + cla.tn) / (cla.tp + cla.tn + cla.fp + cla.fn)) * 100
 
     print("Accuracy: ", str(acc))
 
