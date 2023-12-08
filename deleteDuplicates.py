@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 #def delete_duplicates(id_list, inputdf) -> pd.Dataframe:
-def delete_duplicates(id_list, csv_file):
+def delete_duplicates(id_list: list, csv_file):
     #df = inputdf.copy(deep=True)
     df = pd.read_csv(csv_file, delimiter=',', low_memory=False)
     for id in id_list:
