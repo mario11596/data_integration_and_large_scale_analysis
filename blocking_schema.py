@@ -1,6 +1,10 @@
+from collections import Counter
+#from sklearn.metrics.pairwise import cosine_similarity
+import math
 import configparser
 import pandas as pd
 import nltk
+import re
 
 # at first run, you have to download this three packages
 nltk.download('punkt')
@@ -23,6 +27,29 @@ def common_entries(*dcts) -> tuple[3]:
         return
     for i in set(dcts[0]).intersection(*dcts[1:]):
         yield (i,) + tuple(d[i] for d in dcts)
+
+def stringlist_to_vector(list):
+    #cnt = Counter()
+    sentence = ""
+    for string in list:
+        sentence += string
+    pattern = re.compile(r"\w+")
+    words = pattern.findall(sentence)
+    #cnt.update(words)
+    return Counter(words)
+
+def custom_cosine(vec1, vec2):
+    intersection = set(vec1.keys()) & set(vec2.keys())
+    numerator = sum([vec1[x] * vec2[x] for x in intersection])
+    
+    sum1 = sum([vec1[x] ** 2 for x in list(vec1.keys())])
+    sum2 = sum([vec2[x] ** 2 for x in list(vec2.keys())])
+    denominator = math.sqrt(sum1) * math.sqrt(sum2)
+
+    if not denominator:
+        return 0.0
+    else:
+        return float(numerator) / denominator
 
 def jaccard_similarity(string_a, string_b):
     string_a = set(string_a)
@@ -61,7 +88,8 @@ def blocking_schema(csv_file):
         split = cleaned_name.split('review of ', maxsplit=1)
         if len(split) > 1:
             cleaned_name = split[1]
-        blocking_signature = row['STATE'] + row['CITY'] + str(row['PHONEAREACODE'])[:3] + cleaned_name[:5]
+        cleaned_name = cleaned_name.split(' ')[0]
+        blocking_signature = row['STATE'] + row['CITY'] + cleaned_name + str(row['PHONEAREACODE'])[:3]
         blocking_signature = blocking_signature.replace(" ", "")
 
         if blocking.get(blocking_signature) is not None:
@@ -99,7 +127,10 @@ def find_duplicate_in_cluster(blocking: dict, threshold: float) -> list:
                     tokens1 = preprocess_text(restaurant_one)
                     tokens2 = preprocess_text(restaurant_two)
 
-                    similarity_score = jaccard_similarity(tokens1, tokens2)
+                    #similarity_score = jaccard_similarity(tokens1, tokens2)
+                    similarity_score = custom_cosine(Counter(tokens1), 
+                                                     Counter(tokens2))
+                    #print(similarity_score)
 
                     similarity_array.append(similarity_score)
                     #print(similarity_array)
@@ -127,7 +158,9 @@ def find_duplicate_between_clusters(block_list1: dict, block_list2: dict, thresh
                 restaurant_two = entry2['NAME'] + ' ' + entry2['ADDRESS'] + ' ' + entry2['CITY'] + ' ' + entry2['STATE'] + ' ' + str(entry2['PHONEAREACODE'])
                 tokens2 = preprocess_text(restaurant_two)
                 
-                similarity_score = jaccard_similarity(tokens1, tokens2)
+                #similarity_score = jaccard_similarity(tokens1, tokens2)
+                similarity_score = custom_cosine(Counter(tokens1), 
+                                                 Counter(tokens2))
                 
                 #1445980000005
                 id1.append(int(entry1['ID'] % 1000000)+idadjust1)
