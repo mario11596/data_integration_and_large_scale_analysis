@@ -16,7 +16,13 @@ config = configparser.ConfigParser()
 config.read('config.ini')
 config = config['default']
 filter_file = config['filepath_raw']
+second_file = config['filepath_out1']
 
+def common_entries(*dcts) -> tuple[3]:
+    if not dcts:
+        return
+    for i in set(dcts[0]).intersection(*dcts[1:]):
+        yield (i,) + tuple(d[i] for d in dcts)
 
 def jaccard_similarity(string_a, string_b):
     string_a = set(string_a)
@@ -42,12 +48,12 @@ def preprocess_text(text):
 
 
 # create blocking schema with condition state-city-name(only first two letters)
-def blocking_schema():
-    data_file = pd.read_csv(filepath_or_buffer=filter_file, delimiter=',', low_memory=False)
+def blocking_schema(csv_file):
+    data_file = pd.read_csv(filepath_or_buffer=csv_file, delimiter=',', low_memory=False)
     blocking = {}
     Number_of_record = 0
 
-    for index, row in data_file.iterrows():
+    for _, row in data_file.iterrows():
         blocking_signature = row['STATE'] + row['CITY'] + row['NAME'][:2]
         blocking_signature = blocking_signature.replace(" ", "")
 
@@ -67,17 +73,17 @@ def blocking_schema():
     return blocking
 
 
-def find_duplicate_in_cluster(blocking):
+def find_duplicate_in_cluster(blocking: dict, threshold: float) -> list:
     records_to_delete = []
     for key, values in blocking.items():
         #print('Print cluster for key: ' + key)
 
         if len(values) > 1:
-            print('Size of cluster is: ' + str(len(values)))
+            #print('Size of cluster is: ' + str(len(values)))
             similarity_array = []
 
             # Calculate similarity
-            threshold = 0.5
+            #threshold = 0.5
             for i in range(len(values)):
                 for j in range(i + 1, len(values)):
                     restaurant_one = values[i]['NAME'] + ' ' + values[i]['ADDRESS'] + ' ' + values[i]['CITY'] + ' ' + values[i]['STATE'] + ' ' + str(values[i]['PHONEAREACODE'])
@@ -93,13 +99,47 @@ def find_duplicate_in_cluster(blocking):
 
                 if similarity_array and max(similarity_array) > threshold:
                     records_to_delete.append(values[i]['ID'])
-                    print("Records are similar.")
-                else:
-                    print("Records are not similar.")
+                    #print("Records are similar.")
+                #else:
+                    #print("Records are not similar.")
                 similarity_array = []
     return records_to_delete
 
+def find_duplicate_between_clusters(block_list1: dict, block_list2: dict, threshold: float, idadjust1 = 0, idadjust2 = 0) -> dict:
+    matching_entries = {}
+    id1 = []
+    id2 = []
+    score = []
+    #threshold = 0.5
+    for _, block1, block2 in common_entries(block_list1, block_list2):
+        #print(_)
+        for entry1 in block1:
+            restaurant_one = entry1['NAME'] + ' ' + entry1['ADDRESS'] + ' ' + entry1['CITY'] + ' ' + entry1['STATE'] + ' ' + str(entry1['PHONEAREACODE'])
+            tokens1 = preprocess_text(restaurant_one)
+            for entry2 in block2:
+                restaurant_two = entry2['NAME'] + ' ' + entry2['ADDRESS'] + ' ' + entry2['CITY'] + ' ' + entry2['STATE'] + ' ' + str(entry2['PHONEAREACODE'])
+                tokens2 = preprocess_text(restaurant_two)
+                
+                similarity_score = jaccard_similarity(tokens1, tokens2)
+                
+                #1445980000005
+                id1.append(int(entry1['ID'] % 1000000)+idadjust1)
+                #1450000000002
+                id2.append(int(entry2['ID'] % 1000000)+idadjust2)
+                if similarity_score > threshold:
+                    score.append(1)
+                else:
+                    score.append(0)
+                
+    matching_entries['ltable'] = (id1)
+    matching_entries['rtable'] = (id2)
+    matching_entries['gold'] = (score)
+    return matching_entries
+
 
 if __name__ == '__main__':
-    blocks = blocking_schema()
-    ids_records = find_duplicate_in_cluster(blocks)
+    threshold = 0.5
+    blocks = blocking_schema(second_file)
+    ids_records = find_duplicate_in_cluster(blocks, threshold)
+    mult_comp_list = find_duplicate_between_clusters(blocks, blocks, threshold)
+    #print(len(mult_comp_list[0]), len(mult_comp_list[1]), len(mult_comp_list[2]))
