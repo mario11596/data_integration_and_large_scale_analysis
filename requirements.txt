@@ -2,3 +2,5 @@ pandas
 phonenumbers
 sklearn.preprocessing
 category_encoders
+configparser
+nltk

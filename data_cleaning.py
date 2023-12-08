@@ -5,7 +5,15 @@ import pandas as pd
 import phonenumbers as phn
 from phonenumbers import geocoder
 from phonenumbers import PhoneNumber
+import configparser
 import category_encoders as ce
+from blocking_schema import (
+    blocking_schema,
+    find_duplicate_in_cluster,
+    find_duplicate_between_clusters 
+)
+from scoring import scoring
+from deleteDuplicates import delete_duplicates
 
 #TODO no address also dropped?, 
 #     first phone area good enought?
@@ -14,6 +22,16 @@ import category_encoders as ce
 #decide if New York == NY/Queens/Brooklyn/etc.? or stay with NY/Queens/Brooklyn
 #   e.g 243 W 38th Street, New York, NY, NY
 #       943 Coney Island Avenue, Brooklyn, NY, NY
+
+config = configparser.ConfigParser()
+config.read('config.ini')
+config = config['default']
+input_file1 = config['filepath_orig1']
+input_file2 = config['filepath_orig2']
+output_file1 = config['filepath_out1']
+output_file2 = config['filepath_out2']
+compare_file = config['filepath_comp']
+threshold = float(config['threshold'])
 
 states = {
     'Alaska' : 'AK',
@@ -167,14 +185,14 @@ def write_table(df_table: pd.DataFrame, region_map: dict, location_list: list(Lo
     df_table["STATE"] = [entry.state for entry in location_list]
     df_table["PHONEAREACODE"] = [''.join(entry.phone_area) for entry in location_list]
     
-    with open("data/" + output_name + ".csv", "w") as output_file:
+    with open(output_name, "w") as output_file:
         df_table.to_csv(output_file, ",", index=False)
     return
 
 def write_debug(region_map: dict, output_name: str):
     cities_list = pd.DataFrame(list(region_map.items()))
 
-    with open("data/" + output_name + ".csv", "w") as output_file:
+    with open(output_name, "w") as output_file:
         cities_list.to_csv(output_file, ",", index=False)
         pass
     return
@@ -225,7 +243,7 @@ def clean_address(csv_file, output_name: str):
     return
 
 
-def filter_columns_file(output):
+def filter_columns_file(output: str):
     data_file = pd.read_csv(filepath_or_buffer=output, delimiter=',', low_memory=False)
 
     # delete records with only numbers in name
@@ -242,7 +260,7 @@ def filter_columns_file(output):
     data_file.to_csv(output, index=False, sep=',')
 
 
-def state_feature_encoding(output):
+def state_feature_encoding(output: str):
     data_file = pd.read_csv(filepath_or_buffer=output, delimiter=',', low_memory=False)
 
     encoder = ce.BaseNEncoder(cols=['STATE'], return_df=True, base=8)
@@ -250,7 +268,7 @@ def state_feature_encoding(output):
     data_file.to_csv(output, index=False, sep=',')
 
 
-def city_feature_encoding(output):
+def city_feature_encoding(output: str):
     data_file = pd.read_csv(filepath_or_buffer=output, delimiter=',', low_memory=False)
 
     encoder = ce.TargetEncoder(cols=['CITY'])
@@ -259,7 +277,7 @@ def city_feature_encoding(output):
     data_file.to_csv(output, index=False, sep=',')
 
 
-def cleaning_feature_encoding(output : str):
+def cleaning_feature_encoding(output: str):
     filter_columns_file(output)
     state_feature_encoding(output)
     city_feature_encoding(output)
@@ -268,15 +286,27 @@ def cleaning_feature_encoding(output : str):
 
 
 def main():
-   with open("data/yelp.csv", "+r") as yelp_csv:
-        clean_address(yelp_csv, "yelp_loc_cleaned")
-   cleaning_feature_encoding("data/yelp_loc_cleaned.csv")
-        
-   with open("data/zomato.csv", "+r") as zomato_csv:
-        clean_address(zomato_csv, "zomato_loc_cleaned")
-   cleaning_feature_encoding("data/zomato_loc_cleaned.csv")
-        
-   return
+    with open(input_file1, "+r") as yelp_csv:
+        clean_address(yelp_csv, output_file1)
+    cleaning_feature_encoding(output_file1)
+    blocks1 = blocking_schema(output_file1)
+    dup_list1 = find_duplicate_in_cluster(blocks1, threshold)
+    delete_duplicates(dup_list1, output_file1)
+
+    with open(input_file2, "+r") as zomato_csv:
+        clean_address(zomato_csv, output_file2)
+    cleaning_feature_encoding(output_file2)
+    blocks2 = blocking_schema(output_file2)
+    dup_list2 = find_duplicate_in_cluster(blocks2, threshold)
+    delete_duplicates(dup_list2, output_file2)
+
+    dup_list_both = find_duplicate_between_clusters(blocks1, blocks2, threshold, idadjust2=-1)
+    #print(dup_list_both[0][:10])
+    accuracy = scoring(compare_file, dup_list_both)
+    #potential creation of output file
+    print(accuracy)
+
+    return
 
 
 if __name__ == "__main__":
