@@ -1,4 +1,5 @@
 import configparser
+import os
 from dataclasses import dataclass
 import pandas as pd
 
@@ -48,7 +49,7 @@ def penalize_remaining(df) -> Classification:
     return cla
 
 # calculate score
-def scoring(csv_file, matching_restaurant: dict) -> float:
+def scoring(csv_file: os.PathLike, matching_restaurant: dict) -> float:
     data_file = pd.read_csv(filepath_or_buffer=csv_file, delimiter=',', skiprows=range(0, 5))
 
     cla = Classification()

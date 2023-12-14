@@ -1,6 +1,7 @@
 from collections import Counter
 #from sklearn.metrics.pairwise import cosine_similarity
 import math
+import os
 import configparser
 import pandas as pd
 import nltk
@@ -20,7 +21,7 @@ config = configparser.ConfigParser()
 config.read('config.ini')
 config = config['default']
 filter_file = config['filepath_raw']
-second_file = config['filepath_out1']
+second_file = config['filename_out1']
 
 def common_entries(*dcts) -> tuple[3]:
     if not dcts:
@@ -75,7 +76,7 @@ def preprocess_text(text):
 
 
 # create blocking schema with condition state-city-name(only first two letters)
-def blocking_schema(csv_file):
+def blocking_schema(csv_file: os.PathLike):
     data_file = pd.read_csv(filepath_or_buffer=csv_file, delimiter=',', low_memory=False)
     blocking = {}
     Number_of_record = 0

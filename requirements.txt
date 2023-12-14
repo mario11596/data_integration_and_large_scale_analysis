@@ -1,6 +1,6 @@
 pandas
 phonenumbers
-sklearn
+scikit-learn
 category-encoders
 configparser
 nltk

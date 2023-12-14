@@ -3,10 +3,11 @@
 
 from __future__ import annotations
 import numpy as np
+import os
 import pandas as pd
 
 #def delete_duplicates(id_list, inputdf) -> pd.Dataframe:
-def delete_duplicates(id_list: list, csv_file):
+def delete_duplicates(id_list: list, csv_file: os.PathLike):
     #df = inputdf.copy(deep=True)
     dropped_amount = 0
     df = pd.read_csv(csv_file, delimiter=',', low_memory=False)
