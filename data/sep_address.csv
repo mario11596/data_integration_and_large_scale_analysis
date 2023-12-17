@@ -1,454 +1,454 @@
-,lname,lStreetNumber,lStreetAddress,lExtraInfo,lCity,lState,rname,rStreetNumber,rStreetAddress,rExtraInfo,rCity,rState
-5,15 Romolo,15.0,Romolo Place,,San Francisco,CA,15 Romolo,15.0,Romolo Pl,,San Francisco,CA
-6,456 Shanghai Cuisine,69.0,Mott St,,New York,NY,Shanghai Asian Manor,21.0,Mott St,,New York,NY
-7,5A5 Steak Lounge,244.0,Jackson St,,San Francisco,CA,Delicious Dim Sum,752.0,Jackson St,,San Francisco,CA
-8,9th Street Pizza,231.0,E 9th St,,Los Angeles,CA,Han Bat Sul Lung Tang,4163.0,W 5th St,,Los Angeles,CA
-9,9th Street Pizza,231.0,E 9th St,,Los Angeles,CA,Jun Won Restaurant,3100.0,W 8th St,,Los Angeles,CA
-10,9th Street Pizza,231.0,E 9th St,,Los Angeles,CA,Men Oh Tokushima Ramen,456.0,E 2nd St,,Los Angeles,CA
-11,9th Street Pizza,231.0,E 9th St,,Los Angeles,CA,Spear Steak & Seafood House,800.0,W 6th St,,Los Angeles,CA
-12,9th Street Pizza,231.0,E 9th St,,Los Angeles,CA,Yang Ban Sul Lung Tang Restaurant,716.0,E 9th Pl,,Los Angeles,CA
-13,ABC Seafood,205.0,Ord St,,Los Angeles,CA,AOC,8700.0,W 3rd St,,Los Angeles,CA
-14,ABC Seafood,205.0,Ord St,,Los Angeles,CA,BAR Ama,118.0,W 4th St,,Los Angeles,CA
-15,ABC Seafood,205.0,Ord St,,Los Angeles,CA,Spear Steak & Seafood House,800.0,W 6th St,,Los Angeles,CA
-16,Acquerello,1722.0,Sacramento St,,San Francisco,CA,Acquerello,1722.0,Sacramento St,,San Francisco,CA
-17,AJ Bombers,201.0,W Gorham St,,Madison,WI,AJ Bombers,201.0,W Gorham St,,Madison,WI
-18,Al's Place,1499.0,Valencia St,,San Francisco,CA,Pica Pica Arepa Kitchen,401.0,Valencia St,,San Francisco,CA
-19,Alcove Cafe & Bakery,1929.0,Hillhurst Ave,,Los Angeles,CA,Alcove Caf & Bakery,1929.0,Hillhurst Ave,,Los Angeles,CA
-20,Allende Restaurant,2408.0,N. Lincoln Ave,,Chicago,IL,Via Lima,4024.0,N Lincoln Ave,,Chicago,IL
-21,Alta CA,1420.0,Market St,,San Francisco,CA,Pasta Moto,845.0,Market St,,San Francisco,CA
-22,Anella,222.0,Franklin St,,Brooklyn,NY,Anella,222.0,Franklin St,,Brooklyn,NY
-23,Angel Cafe & Deli,700.0,Geary St,,San Francisco,CA,Hong Kong Lounge,5322.0,Geary Blvd,,San Francisco,CA
-24,Angel Cafe & Deli,700.0,Geary St,,San Francisco,CA,Hong Kong Lounge II,3300.0,Geary Blvd,,San Francisco,CA
-25,Anima Pizza & Pasta,698.0,S Vermont Ave,,Los Angeles,CA,Dok Dok Chicken,401.0,S Vermont Ave,,Los Angeles,CA
-26,Ann Sather,909.0,W. Belmont Ave,,Chicago,IL,Fahlstroms Fresh Fish Market,1258.0,W Belmont Ave,,Chicago,IL
-27,Arby's,601.0,S Gammon Rd,,Madison,WI,Chang Jiang,646.0,S Gammon Rd,,Madison,WI
-28,Aroma Bar and Grill,7373.0,W Sunset Blvd,,Los Angeles,CA,Aroma Restaurant,2903.0,W Sunset Blvd,,Los Angeles,CA
-29,Asiento,2730.0,21st St,,San Francisco,CA,Asiento,2730.0,21st St,,San Francisco,CA
-30,Athens Gyros,1860.0,E Washington Ave,,Madison,WI,Hong Kong Buffet,2817.0,E Washington Ave,,Madison,WI
-31,Atomic Wings,528.0,9th Ave,,New York,NY,Yum Yum Bangkok,650.0,9th Ave,,New York,NY
-32,Avec,615.0,W. Randolph St,,Chicago,IL,Avec,615.0,W Randolph St,,Chicago,IL
-33,Babes Madison,5614.0,Schroeder Rd,,Madison,WI,Babes Grill & Bar,5614.0,Schroeder Rd,,Madison,WI
-34,Baby Blues BBQ,3149.0,Mission St,,San Francisco,CA,Old Bus Taver,3193.0,Mission St,,San Francisco,CA
-35,Baby Blues BBQ,3149.0,Mission St,,San Francisco,CA,The Crafty Fox Ale House,1700.0,Mission St,,San Francisco,CA
-36,Bahn Thai Restaurant,944.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-37,Bahn Thai Restaurant,944.0,Williamson St,,Madison,WI,Wah Kee Wonton Noodle,600.0,Williamson St,,Madison,WI
-38,Bar Pastoral,2947.0,N. Broadway St,,Chicago,IL,Ping Pong,3322.0,N Broadway St,,Chicago,IL
-39,Bari,1120.0,W. Grand Ave,,Chicago,IL,Bari,1120.0,W Grand Ave,,Chicago,IL
-40,Bari,1120.0,W. Grand Ave,,Chicago,IL,Jeta Skin Care and Laser Center,1851.0,W Grand Ave,,Chicago,IL
-41,Barriques Coffee,127.0,W Washington Ave,,Madison,WI,Hong Kong Buffet,2817.0,E Washington Ave,,Madison,WI
-42,Batter & Berries,2748.0,N. Lincoln Ave,,Chicago,IL,Gather,4539.0,N Lincoln Ave,,Chicago,IL
-43,BBQ Chicken,698.0,S Vermont Ave Ste 101,,Los Angeles,CA,Dok Dok Chicken,401.0,S Vermont Ave,,Los Angeles,CA
-44,BBQ Chicken,698.0,S Vermont Ave Ste 101,,Los Angeles,CA,Parks BBQ,955.0,S Vermont Ave,,Los Angeles,CA
-45,Bean & Bean,71.0,Broadway,,New York,NY,Blue Fin,1567.0,Broadway,,New York,NY
-46,Bean & Bean,71.0,Broadway,,New York,NY,Hot Soup Cart,51.0,St & Broadway,,New York,NY
-47,Bean & Bean,71.0,Broadway,,New York,NY,New Wong Rest,103.0,E Broadway,,New York,NY
-48,Bean & Bean,71.0,Broadway,,New York,NY,Toys R Us,1514.0,Broadway,,New York,NY
-49,Bel Ami Restaurant,5530.0,N. Lincoln Ave,,Chicago,IL,The Bad Apple,4300.0,N Lincoln Ave,,Chicago,IL
-50,Blowin' Smoke Barbeque,1336.0,Montondon Ave,,Waunakee,WI,Blowin' Smoke BBQ,1336.0,Montondon Ave,,Waunakee,WI
-51,Blowin' Smoke Barbeque,1336.0,Montondon Ave,,Waunakee,WI,Blowin' Smoke BBQ,1336.0,Montondon Ave,,Waunakee,WI
-52,Blu Jam Cafe,7371.0,Melrose Ave,,Los Angeles,CA,All About the Bread,7111.0,Melrose Ave,,Los Angeles,CA
-53,Blue Velvet Lounge,430.0,W Gilman St,,Madison,WI,Sake Lounge,406.0,W Gilman St,,Madison,WI
-54,Bocadillos,710.0,Montgomery St,,San Francisco,CA,Bocadillos,710.0,Montgomery St,,San Francisco,CA
-55,Bom Bolla,1501.0,N. Milwaukee Ave,,Chicago,IL,Crossroads Trading Co.,1519.0,N Milwaukee Ave,,Chicago,IL
-56,Bom Bolla,1501.0,N. Milwaukee Ave,,Chicago,IL,Uncharted Book,2630.0,N Milwaukee Ave,,Chicago,IL
-57,Bonfyre American Grille,2601.0,West Beltline Highway,,Madison,WI,Bonfyre American Grille,2601.0,W Beltline Hwy,,Madison,WI
-58,BRGRBELLY,5691.0,N. Milwaukee Ave,,Chicago,IL,Pot Pan,1362.0,N Milwaukee Ave,,Chicago,IL
-59,Brink Lounge,701.0,E Washington Ave,,Madison,WI,The Brass Ring,701.0,E Washington Ave,,Madison,WI
-60,Brocach Irish Pub,7.0,W Main St,,Madison,WI,Good Food,33.0,E Main St,,Madison,WI
-61,Buck & Honey's,804.0,Liberty Blvd,,Sun Prairie,WI,Buck & Honey's,804.0,Liberty Blvd,,Sun Prairie,WI
-62,Buckingham's Madison,802.0,Regent St,,Madison,WI,Hong Kong Station,1441.0,Regent St,,Madison,WI
-63,Burma Love,211.0,Valencia St,,San Francisco,CA,Burma Love,211.0,Valencia St,,San Francisco,CA
-64,Cafe Costa Rica,1133.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-65,Cafe Tallulah,240.0,Columbus Ave,,New York,NY,Cafe Tallulah,240.0,Columbus Ave,,New York,NY
-66,Cafe Zoma,2326.0,Atwood Ave,,Madison,WI,Lao Laan,2098.0,Atwood Ave,,Madison,WI
-67,Capriotti's Sandwich Shop,902.0,Regent St,,Madison,WI,Capriotti's Sandwich Shop,902.0,Regent St,,Madison,WI
-68,Capriotti's Sandwich Shop,902.0,Regent St,,Madison,WI,Hong Kong Station,1441.0,Regent St,,Madison,WI
-69,Carmine's,200.0,W 44th St,,New York,NY,Etcetera Etcetera,352.0,W 44th St,,New York,NY
-70,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-71,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Blum's Trophies LLC,130.0,State St,,Madison,WI
-72,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Capital Tap Haus,107.0,State St,,Madison,WI
-73,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-74,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Karen & Co,309.0,State St,,Madison,WI
-75,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Mad City Frites,320.0,State St,,Madison,WI
-76,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Pizza Di Roma,313.0,State St,,Madison,WI
-77,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Pizza Hut,662.0,State St,,Madison,WI
-78,Casa DE Lara,341.0,State St Ste 2,,Madison,WI,Tutto Pasta State Street,305.0,State St,,Madison,WI
-79,Casa Del Sol,3040.0,Cahill Main,,Fitchburg,WI,Casa Del Sol,3040.0,Cahill Main,,Fitchburg,WI
-80,Casellula Cheese and Wine Cafe,401.0,W 52nd St,,New York,NY,Casellula,401.0,W 52nd St,,New York,NY
-81,Cassell's Hamburgers,3600.0,W 6th St,,Los Angeles,CA,Jun Won Restaurant,3100.0,W 8th St,,Los Angeles,CA
-82,Cassell's Hamburgers,3600.0,W 6th St,,Los Angeles,CA,Son of a Gun,8370.0,W 3rd St,,Los Angeles,CA
-83,Cassell's Hamburgers,3600.0,W 6th St,,Los Angeles,CA,Spear Steak & Seafood House,800.0,W 6th St,,Los Angeles,CA
-84,Cassell's Hamburgers,3600.0,W 6th St,,Los Angeles,CA,Sun Nong Dan,3470.0,W 6th St,,Los Angeles,CA
-85,Cha Cha Cha,656.0,N Virgil Ave,,Los Angeles,CA,Cha Cha Cha,656.0,N Virgil Ave,,Los Angeles,CA
-86,Cheba Hut,453.0,W Gilman St,,Madison,WI,Ear Wax Records,254.0,W Gilman St,,Madison,WI
-87,Chez Nanou,805.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-88,Chez Nanou,805.0,Williamson St,,Madison,WI,Mad Cat Pet Supply,1012.0,Williamson St,,Madison,WI
-89,Chez Nanou,805.0,Williamson St,,Madison,WI,Rick's Olde Gold,1314.0,Williamson St Frnt,,Madison,WI
-90,Chez Nanou,805.0,Williamson St,,Madison,WI,Sali C.'s review of Lao Laan,1146.0,Williamson St,,Madison,WI
-91,Chicago Curry House,899.0,S. Plymouth Court,,Chicago,IL,Chicago Curry House,899.0,S Plymouth Ct,,Chicago,IL
-92,China Kitchen,6606.0,Mineral Pt Rd,,Madison,WI,China Kitchen,6608.0,Mineral Point Rd,,Madison,WI
-93,Chipotle Mexican Grill,4000.0,University Ave,,Madison,WI,Chipotle Mexican Grill,4000.0,University Ave,,Madison,WI
-94,Chocolate Shoppe Ice Cream,468.0,State St,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-95,Chocolate Shoppe Ice Cream,468.0,State St,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-96,Chocolate Shoppe Ice Cream,468.0,State St,,Madison,WI,Pita Pit,449.0,State St,,Madison,WI
-97,Chocolate Shoppe Ice Cream,468.0,State St,,Madison,WI,Soga Shabu Shabu,508.0,State St,,Madison,WI
-98,Chocolate Shoppe Ice Cream,468.0,State St,,Madison,WI,Which Wich,411.0,State St,,Madison,WI
-99,Chop Stop,8717.0,Santa Monica Blvd,,West Hollywood,CA,Bambou Le Pho,8351.0,Santa Monica Blvd,,West Hollywood,CA
-100,Chutney,511.0,Jones St,,San Francisco,CA,Pho Tan Hoa,431.0,Jones St,,San Francisco,CA
-101,Cocohodo Wilshire,3500.0,W 6th St,,Los Angeles,CA,Kang Ho Dong Baekjeong,3465.0,W 6th St,,Los Angeles,CA
-102,Cocohodo Wilshire,3500.0,W 6th St,,Los Angeles,CA,Kang Ho Dong Baekjeong,3465.0,W 6th St,,Los Angeles,CA
-103,Coffee Bean & Tea Leaf,10250.0,Santa Monica Blvd,,Los Angeles,CA,Spicy BBQ Restaurant,5101.0,Santa Monica Blvd,,Los Angeles,CA
-104,Colibri Mexican Bistro,438.0,Geary St,,San Francisco,CA,Hong Kong Lounge,5322.0,Geary Blvd,,San Francisco,CA
-105,Commissary,101.0,Montgomery St,,San Francisco,CA,Lost Coast Outfitters,550.0,Montgomery St,,San Francisco,CA
-106,Crossroads Cafe,1000.0,Bascom Mall,,Madison,WI,Crossroads Cafe,1000.0,Bascom Mall,,Madison,WI
-107,Curd Girl,100.0,State St,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-108,Dairyland Family Restaurant,716.0,Cottage Grove Rd,,Madison,WI,Dairyland Family Restaurant,716.0,Cottage Grove Rd,,Madison,WI
-109,Delarosa,2175.0,Chestnut St,,San Francisco,CA,Delarosa,2175.0,Chestnut St,,San Francisco,CA
-110,Desi Deli,724.0,10th Ave,,New York,NY,Marquee New York,289.0,10th Ave,,New York,NY
-111,Desi Deli,724.0,10th Ave,,New York,NY,Pio Pio,604.0,10th Ave,,New York,NY
-112,Desi Deli,724.0,10th Ave,,New York,NY,White Oak Oyster Bar & Cocktail Lounge,818.0,10th Ave,,New York,NY
-113,Dlux,117.0,Martin Luther King Blvd,,Madison,WI,DLUX,117.0,Martin Luther King Jr Blvd,,Madison,WI
-114,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Au Lac DTLA,710.0,W 1st St,,Los Angeles,CA
-115,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Danger Dogs,415.0,W 8th St,,Los Angeles,CA
-116,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Dong II Jang Restaurant,3455.0,W 8th St,,Los Angeles,CA
-117,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Hae Jang Chon Korean BBQ Restaurant,3821.0,W 6th St,,Los Angeles,CA
-118,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,LA Sands Boxing Gym,515.0,E 4th St,,Los Angeles,CA
-119,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Le Comptoir,3606.0,W 6th St,,Los Angeles,CA
-120,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Mapo Kkak Doo Gee Restaurant,3611.0,W 6th St,,Los Angeles,CA
-121,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Quarters Korean BBQ,3465.0,W 6th St,,Los Angeles,CA
-122,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Smiles Cafe USC,844.0,W 32nd St,,Los Angeles,CA
-123,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,The Little Door,8164.0,W 3rd St,,Los Angeles,CA
-124,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,The Real 3rd Street Chicken House,4254.0,W 3rd St,,Los Angeles,CA
-125,Dong Il Jang,3455.0,W 8th St,,Los Angeles,CA,Toe Bang Cafe,3465.0,W 6th St,,,
-126,Dotty Dumpling's Dowry,317.0,N Frances St,,Madison,WI,Nitty Gritty Birthday Bar,223.0,N Frances St,,Madison,WI
-127,Durty Nelly's,2328.0,Irving St,,San Francisco,CA,Yummy Yummy,1015.0,Irving St,,San Francisco,CA
-128,EDO Japanese Restaurant,532.0,S Park St,,Madison,WI,Stephanie S.'s review of The Kombucha Sho,1418.0,South Park St,,Madison,WI
-129,Einstein Bros Bagels,3904.0,E Washington Ave,,Madison,WI,Hong Kong Buffet,2817.0,E Washington Ave,,Madison,WI
-130,El Cid,2645.0,N. Kedzie Ave,,Chicago,IL,Simone G.'s review of West River Caf,4400.0,N Kedzie Ave,,Chicago,IL
-131,El Metate,2406.0,Bryant St,,San Francisco,CA,El Metate Restaurant,2406.0,Bryant St,,San Francisco,CA
-132,El Norteno Tacos,801.0,Bryant St,,San Francisco,CA,San Francisco Bay Flowers,801.0,N Point St,,San Francisco,CA
-133,El Pollo Loco,3925.0,W Sunset Blvd,,Los Angeles,CA,El Cochinito Restaurant,3508.0,W Sunset Blvd,,Los Angeles,CA
-134,El Pollo Loco,3925.0,W Sunset Blvd,,Los Angeles,CA,Local,2943.0,W Sunset Blvd,,Los Angeles,CA
-135,El Rinconcito Cubano,3248.0,W. Fullerton Ave,,Chicago,IL,La Cocina Boricua de la Familia Galarza,2420.0,W Fullerton Ave,,Chicago,IL
-136,El Salsabor Restaurant,522.0,S Lorena St,,Los Angeles,CA,Beau Ideal House of Beauty,714.0,S Los Angeles St,,Los Angeles,CA
-137,El Taco Loco #2,3274.0,24th St,,San Francisco,CA,La Espiga De Oro,2916.0,24th St,,San Francisco,CA
-138,El Taco Loco #2,3274.0,24th St,,San Francisco,CA,Local Mission Eatery,3111.0,24th St,,San Francisco,CA
-139,El Taco Loco #2,3274.0,24th St,,San Francisco,CA,Nico,3228.0,Sacramento St,,San Francisco,CA
-140,Eno Vino Wine Bar & Bistro,601.0,Junction Rd,,Madison,WI,Eno Vino Wine Bar & Bistro,601.0,Junction Rd,,Madison,WI
-141,Ethiopian Diamond,6120.0,N. Broadway St,,Chicago,IL,Ping Pong,3322.0,N Broadway St,,Chicago,IL
-142,Falling Water Cafe,1313.0,John Q Hammons Dr,,Middleton,WI,Falling Water Cafe,1313.0,John Q Hammons Dr,,Middleton,WI
-143,Famous Yeti's Pizza,971.0,N Page St,,Stoughton,WI,Famous Yetis Pizza,971.0,N Page St,,Stoughton,WI
-144,Fast Wok,106.0,W Towne Mall,,Madison,WI,Bath & Body Works,23.0,W Towne Mall,,Madison,WI
-145,Five Guys Burgers and Fries,517.0,State St.,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-146,Five Guys Burgers and Fries,517.0,State St.,,Madison,WI,Umami Buns,716.0,State St,,Madison,WI
-147,Flaming Wok,4237.0,Lien Rd Ste H,,Madison,WI,Flaming Wok,4237.0,Lien Rd,,Madison,WI
-148,Fosdal Home Bakery,243.0,E Main St,,Stoughton,WI,Elsings 2nd Hand Shop,421.0,E Main St,,Stoughton,WI
-149,Frida Tacos,7217.0,Melrose,,Los Angeles,CA,Froma on Melrose,7960.0,Melrose Ave,,Los Angeles,CA
-150,Glass Nickel Pizza Co.,5003.0,University Ave Ste 170,,Madison,WI,Glass Nickel Pizza,5003.0,University Ave,,Madison,WI
-151,Glass Nickel Pizza Co.,5003.0,University Ave Ste 170,,Madison,WI,Great Harvest Bread Company,3258.0,University Ave,,Madison,WI
-152,Golden Apple Grill & Breakfast House,2971.0,N. Lincoln Ave,,Chicago,IL,The Bad Apple,4300.0,N Lincoln Ave,,Chicago,IL
-153,Golden Apple Grill & Breakfast House,2971.0,N. Lincoln Ave,,Chicago,IL,Via Lima,4024.0,N Lincoln Ave,,Chicago,IL
-154,Gordo Taqueria,5450.0,Geary Blvd,,San Francisco,CA,Brian S.'s review of Hong Kong Loung,5322.0,Geary Blvd,,San Francisco,CA
-155,Gotham New York Bagels & Eats,112.0,E Mifflin St,,Madison,WI,Good Food,33.0,E Main St,,Madison,WI
-156,Gotham New York Bagels & Eats,112.0,E Mifflin St,,Madison,WI,Good Food,33.0,E Main St,,Madison,WI
-157,Granite City Food & Brewery,72.0,W Towne Mall,,Madison,WI,Granite City Food & Brewery,72.0,West Towne Mall,,Madison,WI
-158,Graze,1.0,S Pinckney St,,Madison,WI,Graze,1.0,S Pinckney St,,Madison,WI
-159,Great India,6127.0,Geary Blvd,,San Francisco,CA,Brian S.'s review of Hong Kong Loung,5322.0,Geary Blvd,,San Francisco,CA
-160,Greenbush Bar,914.0,Regent St,,Madison,WI,Greenbush Bar,914.0,Regent St,,Madison,WI
-161,Gumbo Pot,6333.0,W 3rd St,,Los Angeles,CA,Thank U Pho,3522.0,W 8th St,,Los Angeles,CA
-162,Gus's Diner,630.0,N Westmount Dr,,Sun Prairie,WI,Guss Diner,630.0,N Westmount Dr,,Sun Prairie,WI
-163,H. Salt Esquire Fish & Chips,4732.0,Hollywood Blvd,,Los Angeles,CA,Cho Oishi,6801.0,Hollywood Blvd,,Los Angeles,CA
-164,H. Salt Esquire Fish & Chips,4732.0,Hollywood Blvd,,Los Angeles,CA,Sapp Coffee Shop,5183.0,Hollywood Blvd,,Los Angeles,CA
-165,Han 202,605.0,W. 31st St,,Chicago,IL,Husky Hog BBQ,335.0,W 31st St,,Chicago,IL
-166,Harold's Chicken Shack,707.0,S. Gammon Rd,,Madison,WI,Chang Jiang Chinese Restaurant,646.0,S Gammon Rd,,Madison,WI
-167,Harold's Chicken Shack,1361.0,N. Milwaukee Ave,,Chicago,IL,Pot Pan,1362.0,N Milwaukee Ave,,Chicago,IL
-168,Harvest,21.0,N Pinckney St,,Madison,WI,Harvest,21.0,N Pinckney St,,Madison,WI
-169,Hell's Kitchen,754.0,9th Ave,,New York,NY,Hells Kitchen,754.0,9th Ave,,New York,NY
-170,Hero Shop,130.0,E 6th St,,Los Angeles,CA,Hae Jang Chon Korean BBQ Restaurant,3821.0,W 6th St,,Los Angeles,CA
-171,Hero Shop,130.0,E 6th St,,Los Angeles,CA,Soot Bull Jeep,3136.0,W 8th St,,Los Angeles,CA
-172,Hero Shop,130.0,E 6th St,,Los Angeles,CA,Sun Nong Dan,3470.0,W 6th St,,Los Angeles,CA
-173,Hero Shop,130.0,E 6th St,,Los Angeles,CA,Thank U Pho,3522.0,W 8th St,,Los Angeles,CA
-174,Hero Shop,130.0,E 6th St,,Los Angeles,CA,The Black Sheep,126.0,E 6th St,,Los Angeles,CA
-175,Hill and Bay,581.0,2nd Ave,,New York,NY,Ruay Thai,625.0,2nd Ave,,New York,NY
-176,Honey B,2201.0,Clement St,,San Francisco,CA,Good Luck Dim Sum,736.0,Clement St,,San Francisco,CA
-177,Honey B,2201.0,Clement St,,San Francisco,CA,Phoenix Hotel,601.0,Eddy St,,San Francisco,CA
-178,Hopwater Distribution,850.0,Bush St,,San Francisco,CA,Hopwater Distribution,850.0,Bush St,,San Francisco,CA
-179,Hot Woks Cool Sushi,30.0,S. Michigan Ave,,Chicago,IL,Cherry Circle Room,12.0,S Michigan Ave,,Chicago,IL
-180,Hot Woks Cool Sushi,30.0,S. Michigan Ave,,Chicago,IL,Potbelly Sandwich Shop,200.0,S Michigan Ave,,Chicago,IL
-181,Ian's Pizza,100.0,State St,,Madison,WI,Pita Pit,449.0,State St,,Madison,WI
-182,Immaculee II Haitian Restaurant & Bakery,1227.0,Nostrand Ave,,Brooklyn,NY,Lucha Lucha,283.0,Nostrand Ave,,Brooklyn,NY
-183,Ippudo,65.0,4th Ave,,New York,NY,Ippudo NY,65.0,4th Ave,,New York,NY
-184,Irish Pub,317.0,State St Ste A,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-185,J.P. Graziano,901.0,W. Randolph St,,Chicago,IL,J.P. Graziano Grocery Co.,901.0,W Randolph St,,Chicago,IL
-186,Jacks Stir,425.0,W 13th St,,New York,NY,Chop Shop II,41.0,W 24th St,,New York,NY
-187,Jacks Stir,425.0,W 13th St,,New York,NY,NTS News,224.0,W 35th St,,New York,NY
-188,Jade Garden,1109.0,S Park St,,Madison,WI,Jade Garden,1109.0,S Park St,,Madison,WI
-189,Jake Melnick's Corner Tap,41.0,E. Superior St,,Chicago,IL,Jake Melnicks Corner Tap,41.0,E Superior St,,Chicago,IL
-190,JD's,,,N Broom St & State St Madison WI,,,Jeremy K.'s review of Goodman's Jeweler,220.0,State St,,Madison,WI
-191,JD's,,,N Broom St & State St Madison WI,,,Kelly E.'s review of Urban Outfitter,604.0,State St,,Madison,WI
-192,Jeni's Splendid Ice Creams,1505.0,N. Milwaukee Ave,,Chicago,IL,Jenis Splendid Ice Creams,1505.0,N Milwaukee Ave,,Chicago,IL
-193,Jeni's Splendid Ice Creams,1505.0,N. Milwaukee Ave,,Chicago,IL,Pot Pan,1362.0,N Milwaukee Ave,,Chicago,IL
-194,Jimmy John's,527.0,State St,,Madison,WI,Jim L.'s review of Parthenon Gyros Restauran,316.0,State St,,Madison,WI
-195,Jimmy John's,527.0,State St,,Madison,WI,Jimmy Johns,527.0,State St,,Madison,WI
-196,Jimmy's Red Hots,4000.0,W. Grand Ave,,Chicago,IL,Chef Fredy Cuisine,1752.0,W Grand Ave,,Chicago,IL
-197,Joey's Seafood & Grill,6604.0,Mineral Pt Rd,,Madison,WI,North and South Seafood & Smokehouse,6604.0,Mineral Point Rd,,Madison,WI
-198,Jordan's Big Ten Pub,1330.0,Regent St,,Madison,WI,Hong Kong Station,1441.0,Regent St,,Madison,WI
-199,Julep,827.0,E Washington Ave,,Madison,WI,Hong Kong Buffet,2817.0,E Washington Ave,,Madison,WI
-200,Kabul Afghanistan Restaurant,540.0,State St,,Madison,WI,Kabul Restaurant,540.0,State St,,Madison,WI
-201,KFC,600.0,W Main St,,Waunakee,WI,KFC,600.0,W. Main St,,Waunakee,WI
-202,Khan Toke Thai House,5937.0,Geary Blvd,,San Francisco,CA,K & G Jewelers,5520.0,Geary Blvd,,San Francisco,CA
-203,Khan Toke Thai House,5937.0,Geary Blvd,,San Francisco,CA,New World Market,5641.0,Geary Blvd,,San Francisco,CA
-204,Kit Kat Lounge and Supper Club,3700.0,N. Halsted St,,Chicago,IL,Karyns Fresh Corner Raw,1901.0,N Halsted St,,Chicago,IL
-205,Kit Kat Lounge and Supper Club,3700.0,N. Halsted St,,Chicago,IL,The Mid,306.0,N Halsted St,,Chicago,IL
-206,Kuleto's,221.0,Powell St,,San Francisco,CA,Kuletos,221.0,Powell St,,San Francisco,CA
-207,L's Caffe,2871.0,24th St,,San Francisco,CA,Tortas Los Picudos,2969.0,24th St,,San Francisco,CA
-208,La Brioche,2862.0,University Ave,,Madison,WI,Don the Car Care Man,2008.0,University Ave,,Madison,WI
-209,La Brioche,2862.0,University Ave,,Madison,WI,Great Harvest Bread Company,3258.0,University Ave,,Madison,WI
-210,La Brioche,2862.0,University Ave,,Madison,WI,L S.'s review of La Brioche True Foo,2862.0,University Ave,,Madison,WI
-211,La Salsa Fresh Mexican Grill,10800.0,W Pico Blvd,,Los Angeles,CA,Casa Chocolate,3319.0,W Pico Blvd,,Los Angeles,CA
-212,La Santaneca,3781.0,Mission St,,San Francisco,CA,La Oaxaquea,2128.0,Mission St,,San Francisco,CA
-213,La Santaneca,3781.0,Mission St,,San Francisco,CA,La Taqueria,2889.0,Mission St,,San Francisco,CA
-214,Lady M Cake Boutique,41.0,E 78th St,,New York,NY,Chop Shop II,41.0,W 24th St,,New York,NY
-215,Lady M Cake Boutique,41.0,E 78th St,,New York,NY,The Eddy,342.0,E 6th St,,New York,NY
-216,Lahore Karahi,612.0,O'Farrell St,,San Francisco,CA,Ken S.'s review of Sai Jai Thai Restauran,771.0,O'Farrell St,,San Francisco,CA
-217,Lakeview Bakery and Deli,524.0,E. Wilson St.,,Madison,WI,Lakeview Bakery and Deli,524.0,E Wilson St,,Madison,WI
-218,Lao Laan,1146.0,Williamson St,,Madison,WI,Ha Long Bay Vietnamese & Thai Bistro,1353.0,Williamson St,,Madison,WI
-219,Lao Laan,1146.0,Williamson St,,Madison,WI,Ha Long Bay Vietnamese & Thai Bistro,1353.0,Williamson St,,Madison,WI
-220,Lao Laan,1146.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-221,Lao Laan,1146.0,Williamson St,,Madison,WI,Lazy Janes,1358.0,Williamson St,,Madison,WI
-222,Lao Laan,1146.0,Williamson St,,Madison,WI,Plan B,924.0,Williamson St,,Madison,WI
-223,Lao Laan,1146.0,Williamson St,,Madison,WI,St Vincent De Paul Stores,1309.0,Williamson St,,Madison,WI
-224,Lao Laan Xang Restaurant,2098.0,Atwood Ave,,Madison,WI,Lao Laan,2098.0,Atwood Ave,,Madison,WI
-225,Lao Laan Xang Restaurant,2098.0,Atwood Ave,,Madison,WI,Tex Tubbs Taco Palace,2009.0,Atwood Ave,,Madison,WI
-226,Las Fuentes,2558.0,N. Halsted St,,Chicago,IL,Karyns Fresh Corner Raw,1901.0,N Halsted St,,Chicago,IL
-227,Layla's Persian Food,141.0,South Butler St,,Madison,WI,Laylas Persian Food,141.0,S Butler St,,Madison,WI
-228,Leelin Bakery & Cafe,209.0,S Vermont Ave,,Los Angeles,CA,Dok Dok Chicken,401.0,S Vermont Ave,,Los Angeles,CA
-229,Liholiho Yacht Club,871.0,Sutter St,,San Francisco,CA,Liholiho Yacht Club,871.0,Sutter St,,San Francisco,CA
-230,Lula Cafe,2537.0,N. Kedzie Blvd,,Chicago,IL,Lula Cafe,2537.0,N Kedzie Blvd,,Chicago,IL
-231,Mad City Frites,320.0,State St,,Madison,WI,Mad City Crabhouse,122.0,State St,,Madison,WI
-232,Maharana,1707.0,Thierer Rd,,Madison,WI,Maharaja Restaurant,1707.0,Thierer Rd,,Madison,WI
-233,MaMa Ji's,4415.0,18th St,,San Francisco,CA,MaMa Jis,4416.0,18th St,,San Francisco,CA
-234,Mamoun's Falafel,119.0,MacDougal St,,New York,NY,The Up & Up,116.0,MacDougal St,,New York,NY
-235,Manna Cafe & Bakery,611.0,N Sherman Ave,,Madison,WI,IGo VeGo,1219.0,N Sherman Ave,,Madison,WI
-236,Manna Cafe & Bakery,611.0,N Sherman Ave,,Madison,WI,Manna Cafe & Bakery,611.0,N Sherman Ave,,Madison,WI
-237,Manna Korean Restaurant,845.0,Irving St,,San Francisco,CA,Yummy Yummy,1015.0,Irving St,,San Francisco,CA
-238,Manos Nouveau,3115.0,22nd St,,San Francisco,CA,Minas Brazilian Restaurant & Cachaaria,41.0,Franklin St,,San Francisco,CA
-239,Marigold Kitchen,118.0,S Pinckney St,,Madison,WI,Marigold Kitchen,118.0,S Pinckney St,,Madison,WI
-240,Mariscos Jalisco,3040.0,E Olympic Blvd,,Los Angeles,CA,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,,Los Angeles,CA
-241,Marlowe,500.0,Brannan St,,San Francisco,CA,Marlowe,500.0,Brannan St,,San Francisco,CA
-242,Marnee Thai,2225.0,Irving St,,San Francisco,CA,Yummy Yummy,1015.0,Irving St,,San Francisco,CA
-243,Marrakesh Restaurant,5510.0,University Ave,,Madison,WI,Marrakesh,5510.0,University Ave,,Madison,WI
-244,Masa of Echo Park,1800.0,W Sunset Blvd,,Los Angeles,CA,Ostrich Farm,1525.0,W Sunset Blvd,,Los Angeles,CA
-245,Mazza Luna,810.0,S Van Ness St,,San Francisco,CA,Dim Sum Club,2550.0,Van Ness Ave,,San Francisco,CA
-246,Mecca Supper Club,6666.0,N. Northwest Highway,,Chicago,IL,Mecca Supper Club,6666.0,N Northwest Hwy,,Chicago,IL
-247,Mediterranean Cafe,625.0,State St,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-248,Men Oh,5120.0,Geary Blvd,,San Francisco,CA,New World Market,5641.0,Geary Blvd,,San Francisco,CA
-249,Metro Diner,2641.0,Broadway,,New York,NY,Met Photo,1500.0,Broadway,,New York,NY
-250,Mickey's Tavern,1524.0,Williamson St,,Madison,WI,Ricks Olde Gold,1314.0,Williamson St Frnt,,Madison,WI
-251,Milan's Restaurant,710.0,5th Ave,,Brooklyn,NY,Milan Restaurant,710.0,5th Ave,,Brooklyn,NY
-252,Milio's Sandwiches,5534.0,Eastpark Blvd,,Madison,WI,Milios Sandwiches,5534.0,Eastpark Blvd,,Madison,WI
-253,Mom's Old Recipe,5760.0,N. Milwaukee Ave,,Chicago,IL,Angie M.'s review of Small Cheva,1732.0,N Milwaukee Ave,,Chicago,IL
-254,Mom's Old Recipe,5760.0,N. Milwaukee Ave,,Chicago,IL,Pot Pan,1362.0,N Milwaukee Ave,,Chicago,IL
-255,Mooyah,6309.0,McKee Rd,,Fitchburg,WI,"MOOYAH Burgers, Fries & Shakes",6309.0,Mckee Rd,,Fitchburg,WI
-256,Mr. Pizza,350.0,E 1st St,,Los Angeles,CA,Men Oh Tokushima Ramen,456.0,E 2nd St,,Los Angeles,CA
-257,Mullen's on Clark,3527.0,N. Clark St,,Chicago,IL,Clark St. Ale House,742.0,N Clark St,,Chicago,IL
-258,Nacional 27,325.0,W. Huron St,,Chicago,IL,Nacional 27,325.0,W Huron St,,Chicago,IL
-259,Nana,3267.0,S. Halsted St,,Chicago,IL,South Kawa,3417.0,S Halsted St,,Chicago,IL
-260,Natsumi Bar And Lounge,226.0,W 50th St,,New York,NY,Chris A.'s review of Arts and Crafts Beer Parlo,26.0,W 8th St,,New York,NY
-261,Nature's Bakery Cooperative,1019.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-262,Nature's Bakery Cooperative,1019.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-263,Nature's Bakery Cooperative,1019.0,Williamson St,,Madison,WI,Ricks Olde Gold,1314.0,Williamson St Frnt,,Madison,WI
-264,New Fortune Dim Sum And Cafe,811.0,Stockton St,,San Francisco,CA,New Golden Daisy,1041.0,Stockton St,,San Francisco,CA
-265,New Orient House,626.0,S. Park St,,Madison,WI,Oriental Wok,532.0,S Park St,,Madison,WI
-266,Nick's Pit Stop,2023.0,N. Damen Ave,,Chicago,IL,Nicks Pit Stop,2023.0,N Damen Ave,,Chicago,IL
-267,Noodles & Company,7050.0,Mineral Point Rd,,Madison,WI,Noodles & Company,7050.0,Mineral Point Rd and Gammon Rd,,Madison,WI
-268,Nori,1393.0,N. Milwaukee Ave,,Chicago,IL,Pork & Mindys,1623.0,N Milwaukee Ave,,Chicago,IL
-269,North Beach Pizza,1462.0,Grant Ave,,San Francisco,CA,Hong Kong Clay Pot Restaurant,960.0,Grant Ave,,San Francisco,CA
-270,Novela,662.0,Mission St,,San Francisco,CA,Super Duper Burgers,783.0,Mission St,,San Francisco,CA
-271,Oakcrest Tavern,5371.0,Old Middleton Rd,,Madison,WI,Oakcrest Tavern,5371.0,Old Middleton Rd,,Madison,WI
-272,Oriental Garden,14.0,Elizabeth St,,New York,NY,Siggys Good Food,292.0,Elizabeth St,,New York,NY
-273,Oriental Wok,532.0,S Park St,,Madison,WI,Orient House,626.0,S Park St,,Madison,WI
-274,Original Pancake House,518.0,River Pl,,Monona,WI,Original Pancake House,516.0,River Pl,,Monona,WI
-275,Original Pancake House,5518.0,University Ave,,Madison,WI,Great Harvest Bread Company,3258.0,University Ave,,Madison,WI
-276,Original Pancake House,5518.0,University Ave,,Madison,WI,Original Pancake House,5518.0,University Ave,,Madison,WI
-277,Otto's Tacos,141.0,2nd Ave,,New York,NY,Lan Larb,637.0,2nd Ave,,New York,NY
-278,Paciugo,3241.0,N. Broadway St,,Chicago,IL,Ping Pong,3322.0,N Broadway St,,Chicago,IL
-279,Pakwan,3182.0,16th St,,San Francisco,CA,Pakwan Restaurant,3180.0,16th St,,San Francisco,CA
-280,Palermo Ristorante Italiano,1858.0,N Vermont Ave,,Los Angeles,CA,Dok Dok Chicken,401.0,S Vermont Ave,,Los Angeles,CA
-281,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-282,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI
-283,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI
-284,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI,Soga Shabu Shabu,508.0,State St,,Madison,WI
-285,Palmyra Mediterranean Grill,419.0,State St,,Madison,WI,Which Wich,411.0,State St,,Madison,WI
-286,Pampas Grill,6333.0,W 3rd St,,Los Angeles,CA,Son of a Gun,8370.0,W 3rd St,,Los Angeles,CA
-287,Pampas Grill,6333.0,W 3rd St,,Los Angeles,CA,Spear Steak & Seafood House,800.0,W 6th St,,Los Angeles,CA
-288,Pampas Grill,6333.0,W 3rd St,,Los Angeles,CA,Sun Nong Dan,3470.0,W 6th St,,Los Angeles,CA
-289,Pampas Grill,6333.0,W 3rd St,,Los Angeles,CA,Yang San Bak,3601.0,W 6th St,,Los Angeles,CA
-290,Pancake Cafe,6220.0,Nesbitt Rd Ste B,,Fitchburg,WI,Ten Pin Alley,6285.0,Nesbitt Rd,,Fitchburg,WI
-291,Paradise Lounge,119.0,W Main St,,Madison,WI,Good Food,33.0,E Main St,,Madison,WI
-292,Paradise Lounge,119.0,W Main St,,Madison,WI,The Paradise Lounge,119.0,W Main St,,Madison,WI
-293,Parthenon Gyros Restaurant,316.0,State St,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-294,Parthenon Gyros Restaurant,316.0,State St,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-295,Parthenon Gyros Restaurant,316.0,State St,,Madison,WI,Pantheon Bar,316.0,State St,,Madison,WI
-296,Parthenon Gyros Restaurant,316.0,State St,,Madison,WI,Which Wich,411.0,State St,,Madison,WI
-297,Pho Nam,610.0,Junction Rd Suite 109,,Madison,WI,Capriottis Sandwich Shop,610.0,Junction Rd,,Madison,WI
-298,Pho Nam,610.0,Junction Rd Suite 109,,Madison,WI,Pho Nam Noodle House,610.0,Junction Rd,,Madison,WI
-299,Pisco Latin Lounge,1817.0,Market St,,San Francisco,CA,Super Duper Burgers,2304.0,Market St,,San Francisco,CA
-300,Pizza Capri,1733.0,N. Halsted St,,Chicago,IL,Sapori Trattoria,2701.0,N Halsted St,,Chicago,IL
-301,Pizza Hut,520.0,S Park St,,Madison,WI,Pizza Hut,520.0,S. Park St.,,Madison,WI
-302,Pizza Pit Extreme,6628.0,Odana Rd,,Madison,WI,Pizza Pit Extreme,6628.0,Odana Rd,,Madison,WI
-303,Pizza Pit Extreme,6628.0,Odana Rd,,Madison,WI,VIP,6718.0,Odana Rd,,Madison,WI
-304,Pizzarito,4371.0,Glencoe Ave B-7,,Marina Del Rey,CA,Pizzarito New York Pizza By the Slice,4371.0,Glencoe Ave,,Marina del Rey,CA
-305,Plaza Tavern & Grill,319.0,N Henry St,,Madison,WI,The Plaza Tavern,319.0,N Henry St,,Madison,WI
-306,Pomp & Circumstance,1400.0,N. Wells St,,Chicago,IL,Pomp & Circumstance,1400.0,Wells St,,Chicago,IL
-307,Porta Bella,425.0,N Frances St,,Madison,WI,Porta Bella,425.0,N Frances St,,Madison,WI
-308,Porteno,299.0,Tenth Ave,,New York,NY,Porteno Restaurant,299.0,10th Ave,,New York,NY
-309,Prado,244.0,North Larchmont Blvd,,Los Angeles,CA,Prado Restaurant,244.0,N Larchmont Blvd,,Los Angeles,CA
-310,Prune,54.0,E 1st St,,New York,NY,Cup & Cup,15.0,E 31st St,,New York,NY
-311,Qdoba Mexican Grill,548.0,State St,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-312,Quaker Steak & Lube,2259.0,Deming Way,,Middleton,WI,Ruths Chris Steak House,2137.0,Deming Way,,Middleton,WI
-313,Quickly,2116.0,Irving St,,San Francisco,CA,Yummy Yummy,1015.0,Irving St,,San Francisco,CA
-314,Quivey's Grove,6261.0,Nesbitt Rd,,Fitchburg,WI,Nina O.'s review of Ten Pin Alle,6285.0,Nesbitt Rd,,Fitchburg,WI
-315,Ramen Hayatemaru,11678.0,W Olympic Blvd,,Los Angeles,CA,Gam Ja Gol,3003.0,W Olympic Blvd,,Los Angeles,CA
-316,Ramen Hayatemaru,11678.0,W Olympic Blvd,,Los Angeles,CA,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,,Los Angeles,CA
-317,Ramen Takeya,819.0,W. Fulton Market,,Chicago,IL,Ramen Takeya,819.0,W Fulton Market,,Chicago,IL
-318,Rin's,4301.0,24th St,,San Francisco,CA,Minas Brazilian Restaurant & Cachaaria,41.0,Franklin St,,San Francisco,CA
-319,Rio Grande,524.0,W Main St,,Stoughton,WI,El Rio Grande,524.0,W Main St,,Stoughton,WI
-320,Rio Grande,524.0,W Main St,,Stoughton,WI,Elsings 2nd Hand Shop,421.0,E Main St,,Stoughton,WI
-321,Rising Sons,617.0,State St,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-322,Roam Artisan Burgers,1785.0,Union St,,San Francisco,CA,Umami Burger,2184.0,Union St,,San Francisco,CA
-323,Roast Public House,529.0,State St,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-324,Roast Public House,529.0,State St,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-325,Roka Akor,456.0,N. Clark St,,Chicago,IL,Ora,5143.0,N Clark St,,Chicago,IL
-326,Rolling Pin Bake Shop,2935.0,S Fish Hatchery Rd,,Fitchburg,WI,Chang Jiang,2935.0,S Fish Hatchery Rd,,Fitchburg,WI
-327,Rosamunde Sausage Grill,545.0,Haight St,,San Francisco,CA,Cha Cha Cha,1801.0,Haight St,,San Francisco,CA
-328,Rosie's Main Tap Incorporated,121.0,S Main St,,Oregon,WI,Aces Main Tap,121.0,S Main St,,Oregon,WI
-329,Rosie's Main Tap Incorporated,121.0,S Main St,,Oregon,WI,Ming Moon,787.0,N Main St,,Oregon,WI
-330,RP Adler's Pub & Grill,8202.0,Watts Rd,,Madison,WI,RP Adlers,8202.0,Watts Rd,,Madison,WI
-331,Ruay Thai Restaurant,625.0,Second Ave,,New York,NY,Ruay Thai,625.0,2nd Ave,,New York,NY
-332,Ruth's Chris Steak House,2137.0,Deming Way,,Middleton,WI,Quaker Steak & Lube,2259.0,Deming Way,,Middleton,WI
-333,Ruth's Chris Steak House,2137.0,Deming Way,,Middleton,WI,Which Wich,2177.0,Deming Way,,Middleton,WI
-334,Sa Bai Thong,2840.0,University Ave,,Madison,WI,BJs Kolaches,975.0,University Ave,,Madison,WI
-335,Saigon Sandwich,560.0,Larkin St,,San Francisco,CA,Saigon Sandwich,560.0,Larkin St,,San Francisco,CA
-336,Samba Grill Cafe,735.0,E 12th St,,Los Angeles,CA,BAR Ama,118.0,W 4th St,,Los Angeles,CA
-337,Samba Grill Cafe,735.0,E 12th St,,Los Angeles,CA,Sun Nong Dan,3470.0,W 6th St,,Los Angeles,CA
-338,Samba Grill Cafe,735.0,E 12th St,,Los Angeles,CA,Yang San Bak,3601.0,W 6th St,,Los Angeles,CA
-339,Sardine,617.0,Williamson St,,Madison,WI,Ricks Olde Gold,1314.0,Williamson St Frnt,,Madison,WI
-340,Sardine,617.0,Williamson St,,Madison,WI,Sali C.'s review of Lao Laan,1146.0,Williamson St,,Madison,WI
-341,Sardine,617.0,Williamson St,,Madison,WI,Sardine,617.0,Williamson St,,Madison,WI
-342,Sarku Japan,111.0,W Towne Mall,,Madison,WI,Sarku Japan,111.0,W Towne Mall,,Madison,WI
-343,Sarku Japan,111.0,W Towne Mall,,Madison,WI,Sarku Japan,108.0,W Towne Mall,,Madison,WI
-344,Semiramis,4639.0,N. Kedzie Ave,,Chicago,IL,J J Fish,816.0,N Kedzie Ave,,Chicago,IL
-345,Shallots Bistro,7016.0,Carpenter Rd,,Skokie,IL,Shallots Bistro,7016.0,Carpenter Rd,,Skokie,IL
-346,Silly Yak Bakery,7866.0,Mineral Point Rd,,Madison,WI,North and South Seafood & Smokehouse,6604.0,Mineral Point Rd,,Madison,WI
-347,Slide Food Cart,711.0,State St,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-348,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Au Lac DTLA,710.0,W 1st St,,Los Angeles,CA
-349,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Barrel Down,525.0,W 7th St,,Los Angeles,CA
-350,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Chunju Han,3450.0,W 6th St,,Los Angeles,CA
-351,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Dan Sung Sa,3317.0,W 6th St,,Los Angeles,CA
-352,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,El Carmen,8138.0,W 3rd St,,Los Angeles,CA
-353,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Han Bat Sul Lung Tang,4163.0,W 5th St,,Los Angeles,CA
-354,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Jun Won Restaurant,3100.0,W 8th St,,Los Angeles,CA
-355,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Sixth St Tavern,630.0,W 6th St,,Los Angeles,CA
-356,Son of a Gun Restaurant,8370.0,W 3rd St,,Los Angeles,CA,Wood Spoon,107.0,W 9th St,,Los Angeles,CA
-357,Sotto Mare,552.0,Green St,,San Francisco,CA,Sotto Mare,552.0,Green St,,San Francisco,CA
-358,Spur Tree Lounge,74.0,Orchard St,,New York,NY,Black Tree,131.0,Orchard St,,New York,NY
-359,St. Mary's Pub,3845.0,Mission St,,San Francisco,CA,Club Puertorriqueno De San Francisco,3249.0,Mission St,,San Francisco,CA
-360,St. Vincent,1270.0,Valencia St,,San Francisco,CA,Pica Pica Arepa Kitchen,401.0,Valencia St,,San Francisco,CA
-361,State Street Brats,603.0,State St,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-362,State Street Brats,603.0,State St,,Madison,WI,Four Star Video Cooperative,449.0,State St,,Madison,WI
-363,State Street Brats,603.0,State St,,Madison,WI,Tutto Pasta State Street,305.0,State St,,Madison,WI
-364,Steak Escape,118.0,W Towne Mall,,Madison,WI,Steak Escape,118.0,W Towne Mall,,Madison,WI
-365,Stout Restaurant & Bar,133.0,W 33rd St,,New York,NY,Kopi Kopi NYC,68.0,W 3rd St,,New York,NY
-366,Subway,2850.0,University Ave,,Madison,WI,Don the Car Care Man,2008.0,University Ave,,Madison,WI
-367,Subway,2850.0,University Ave,,Madison,WI,Great Harvest Bread Company,3258.0,University Ave,,Madison,WI
-368,Subway,2850.0,University Ave,,Madison,WI,Subway,2850.0,University Ave,,Madison,WI
-369,Supply House,1647.0,2nd Ave,,New York,NY,Lan Larb,637.0,2nd Ave,,New York,NY
-370,Sushi Boat,389.0,Geary St,,San Francisco,CA,Hong Kong Lounge II,3300.0,Geary Blvd,,San Francisco,CA
-371,Sushi Boat,389.0,Geary St,,San Francisco,CA,San Dong Best,3741.0,Geary Blvd,,San Francisco,CA
-372,Sushi Express,610.0,University Ave,,Madison,WI,Don the Car Care Man,2008.0,University Ave,,Madison,WI
-373,Sushi Express,610.0,University Ave,,Madison,WI,Great Harvest Bread Company,3258.0,University Ave,,Madison,WI
-374,Sushi Komasa,351.0,E 2nd St,,Los Angeles,CA,Son of a Gun,8370.0,W 3rd St,,Los Angeles,CA
-375,Suwanasak Thai Cuisine,811.0,S. Gammon Rd.,,Madison,WI,Chang Jiang,646.0,S Gammon Rd,,Madison,WI
-376,Suwanasak Thai Cuisine,811.0,S. Gammon Rd.,,Madison,WI,Chang Jiang Chinese Restaurant,646.0,S Gammon Rd,,Madison,WI
-377,Swagat Restaurant,707.0,N High Point Rd,,Madison,WI,Swagat,707.0,N High Point Rd,,Madison,WI
-378,Swagat Restaurant,707.0,N High Point Rd,,Madison,WI,Swagat Indian Restaurant,707.0,N Highpoint Rd,,Madison,WI
-379,Sweet Maple,2101.0,Sutter St,,San Francisco,CA,Sweet Maple,2101.0,Sutter St,,San Francisco,CA
-380,Sweet Maple,2101.0,Sutter St,,San Francisco,CA,Sweet Maple,2101.0,Sutter St,,San Francisco,CA
-381,Taco Bell,4120.0,E Washington Ave,,Madison,WI,Ellas Deli,2902.0,E Washington Ave,,Madison,WI
-382,Taco in a Bag,4703.0,N. Lincoln Ave,,Chicago,IL,Via Lima,4024.0,N Lincoln Ave,,Chicago,IL
-383,Taqueria Los Comales,2148.0,N. Milwaukee Ave,,Chicago,IL,Pot Pan,1362.0,N Milwaukee Ave,,Chicago,IL
-384,Teddywedgers,101.0,State St,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-385,Teddywedgers,101.0,State St,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-386,Teddywedgers,101.0,State St,,Madison,WI,Pita Pit,449.0,State St,,Madison,WI
-387,Tehuitzingo,695.0,10th Ave,,New York,NY,Pio Pio,604.0,10th Ave,,New York,NY
-388,Teriyaki Sushi Express,3044.0,Fish Hatchery Rd,,Fitchburg,WI,Chang Jiang,2935.0,S Fish Hatchery Rd,,Fitchburg,WI
-389,Teriyaki Sushi Express,3044.0,Fish Hatchery Rd,,Fitchburg,WI,Teriyaki Sushi Express,3044.0,Fish Hatchery Rd,,Fitchburg,WI
-390,Thai Noodles,5957.0,Mckee Rd,,Fitchburg,WI,Thai Noodles,5957.0,Mckee Rd,,Fitchburg,WI
-391,The Briks,1111.0,S Hope St,,Los Angeles,CA,Beau Ideal House of Beauty,714.0,S Los Angeles St,,Los Angeles,CA
-392,The Buena Vista,2765.0,Hyde St,,San Francisco,CA,Buena Vista Cafe,2765.0,Hyde St,,San Francisco,CA
-393,The Counter,725.0,W 7th St,,Los Angeles,CA,Beau Ideal House of Beauty,714.0,S Los Angeles St,,Los Angeles,CA
-394,The Counter,725.0,W 7th St,,Los Angeles,CA,Spear Steak & Seafood House,800.0,W 6th St,,Los Angeles,CA
-395,The Cricketers Arms,57.0,Murray St,,New York,NY,Shake Shack,215.0,Murray St,,New York,NY
-396,The Edison,108.0,W 2nd St,,Los Angeles,CA,Son of a Gun,8370.0,W 3rd St,,Los Angeles,CA
-397,The Escondite,410.0,Boyd St,,Los Angeles,CA,Beau Ideal House of Beauty,714.0,S Los Angeles St,,Los Angeles,CA
-398,The Escondite,410.0,Boyd St,,Los Angeles,CA,Son of a Gun,8370.0,W 3rd St,,Los Angeles,CA
-399,The Green Owl Cafe,1970.0,Atwood Ave,,Madison,WI,Lao Laan,2098.0,Atwood Ave,,Madison,WI
-400,The Green Owl Cafe,1970.0,Atwood Ave,,Madison,WI,The Green Owl,1970.0,Atwood Ave,,Madison,WI
-401,The Little Door,8164.0,W 3rd St,,Los Angeles,CA,Jack N Jills Too,8738.0,W 3rd St,,Los Angeles,CA
-402,The Little Door,8164.0,W 3rd St,,Los Angeles,CA,Kang Ho Dong Baekjeong,3465.0,W 6th St,,Los Angeles,CA
-403,The Little Door,8164.0,W 3rd St,,Los Angeles,CA,Men Oh Tokushima Ramen,456.0,E 2nd St,,Los Angeles,CA
-404,The Little Door,8164.0,W 3rd St,,Los Angeles,CA,Spear Steak & Seafood House,800.0,W 6th St,,Los Angeles,CA
-405,The Little Door,8164.0,W 3rd St,,Los Angeles,CA,Sun Nong Dan,3470.0,W 6th St,,Los Angeles,CA
-406,The Little Door,8164.0,W 3rd St,,Los Angeles,CA,The Little Easy,216.0,W 5th St,,Los Angeles,CA
-407,The Little Owl,90.0,Bedford St,,New York,NY,The Little Owl,90.0,Bedford St,,New York,NY
-408,The Meatball Shop,1462.0,2nd Ave,,New York,NY,Lan Larb,637.0,2nd Ave,,New York,NY
-409,The Nitty Gritty,223.0,N Frances St,,Madison,WI,Dotty Dumplings Dowry,317.0,N Frances St,,Madison,WI
-410,The Old Fashioned,23.0,N Pinckney St,,Madison,WI,The Old Fashioned,23.0,N Pinckney St,,Madison,WI
-411,The Pastry Cupboard,1596.0,Market St,,San Francisco,CA,Pasta Moto,845.0,Market St,,San Francisco,CA
-412,The Pastry Cupboard,1596.0,Market St,,San Francisco,CA,Super Duper Burgers,2304.0,Market St,,San Francisco,CA
-413,The Publican,837.0,W. Fulton Market,,Chicago,IL,The Publican,837.0,W Fulton Market,,Chicago,IL
-414,The Taco Shop,604.0,University Ave,,Madison,WI,The Taco Bros,604.0,E University Ave,,Madison,WI
-415,The Victory Madison,2710.0,Atwood Ave,,Madison,WI,Lao Laan,2098.0,Atwood Ave,,Madison,WI
-416,The Victory Madison,2710.0,Atwood Ave,,Madison,WI,Lao Laan,2098.0,Atwood Ave,,Madison,WI
-417,Three Dots and a Dash,435.0,N. Clark St,,Chicago,IL,Bill D.'s review of Chez Delisay Cajun Cuisin,6621.0,N Clark St,,Chicago,IL
-418,Tinga,142.0,S La Brea,,Los Angeles,CA,Tinga,142.0,S La Brea Ave,,Los Angeles,CA
-419,Tokyo Express,617.0,State St,,Madison,WI,Tokyo Express,617.0,State St,,Madison,WI
-420,Tommy's Mexican,5929.0,Geary Blvd,,San Francisco,CA,Colibri Mexican Bistro,438.0,Geary St,,San Francisco,CA
-421,Tony Maroni's Famous Gourmet,11645.0,Wilshire Blvd,,Los Angeles,CA,BCD Tofu House,3575.0,Wilshire Blvd,,Los Angeles,CA
-422,Tous Les Jours,31.0,West 32nd St,,New York,NY,St. Thomas Church Fifth Avenue,1.0,West 53rd St,,New York,NY
-423,True Coffee Roasters,6250.0,Nesbitt Rd,,Fitchburg,WI,Ten Pin Alley,6285.0,Nesbitt Rd,,Fitchburg,WI
-424,Tuba,1007.0,Guerrero St,,San Francisco,CA,Tuba,1007.0,Guerrero St,,San Francisco,CA
-425,Tuba,1007.0,Guerrero St,,San Francisco,CA,Tuba,1007.0,Guerrero St,,San Francisco,CA
-426,Umami Food Cart,700.0,State St,,Madison,WI,Alan Koa Salon & Spa,202.0,State St,,Madison,WI
-427,Umami Food Cart,700.0,State St,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-428,Umami Ramen & Dumpling Bar,923.0,Williamson St.,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-429,Umami Ramen & Dumpling Bar,923.0,Williamson St.,,Madison,WI,Ricks Olde Gold,1314.0,Williamson St Frnt,,Madison,WI
-430,Vee Vee's,6232.0,N. Broadway St,,Chicago,IL,Ping Pong,3322.0,N Broadway St,,Chicago,IL
-431,Via Lima,4024.0,N. Lincoln Ave,,Chicago,IL,Big Bricks,3832.0,N Lincoln Ave,,Chicago,IL
-432,Vibe,721.0,S Western Ave,,Los Angeles,CA,The Vape Shop,125.0,N Western Ave,,Los Angeles,CA
-433,Villa Dolce,1828.0,Parmenter St,,Middleton,WI,Villa Dolce,1828.0,Parmenter St,,Middleton,WI
-434,Village Pizzeria,131.0,N Larchmont Blvd,,Los Angeles,CA,Larchmont Village Wine Spirits & Cheese,223.0,N Larchmont Blvd,,Los Angeles,CA
-435,Vinoteque on Melrose,7469.0,Melrose Ave,,Los Angeles,CA,Franco On Melrose,6919.0,Melrose Ave,,Los Angeles,CA
-436,Vinoteque on Melrose,7469.0,Melrose Ave,,Los Angeles,CA,Vinoteque On Melrose,7469.0,Melrose Ave,,Los Angeles,CA
-437,Wasabi Japanese Restaurant,449.0,State St Ste 2G,,Madison,WI,Casa de Lara,341.0,State St,,Madison,WI
-438,Wasabi Japanese Restaurant,449.0,State St Ste 2G,,Madison,WI,Naf Naf Grill,555.0,State St,,Madison,WI
-439,Watertower Chop House,109.0,W Main St,,Sun Prairie,WI,Chang Jiang,984.0,W Main St,,Sun Prairie,WI
-440,Waypoint Public House,320.0,W Broadway,,Madison,WI,Waypoint Public House,320.0,W Broadway,,Monona,WI
-441,Weary Traveler Freehouse,1201.0,Williamson St,,Madison,WI,Lao Laan,1146.0,Williamson St,,Madison,WI
-442,Weary Traveler Freehouse,1201.0,Williamson St,,Madison,WI,Ricks Olde Gold,1314.0,Williamson St Frnt,,Madison,WI
-443,Wildberry Pancakes & Cafe,130.0,E. Randolph St,,Chicago,IL,Wildberry Pancakes and Cafe,130.0,E Randolph St,,Chicago,IL
-444,Willalby's Cafe,1351.0,Williamson St,,Madison,WI,Sali C.'s review of Lao Laan,1146.0,Williamson St,,Madison,WI
-445,Wings Over Madison,2739.0,University Ave,,Madison,WI,Don the Car Care Man,2008.0,University Ave,,Madison,WI
-446,Wings Over Madison,2739.0,University Ave,,Madison,WI,Great Harvest Bread Company,3258.0,University Ave,,Madison,WI
-447,Winton Deli,2042.0,W Winton Ave,,Hayward,CA,Winton Deli Cafe,2042.0,W Winton Ave,,Hayward,CA
-448,Woodhouse Fish Company,2073.0,Market St,,San Francisco,CA,The Hot Spot,1414.0,Market St,,San Francisco,CA
-449,Yang Chow,819.0,N Broadway,,Los Angeles,CA,The Heights Deli & Bottle Shop,2927.0,N Broadway,,Los Angeles,CA
-450,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,,Los Angeles,CA,Gam Ja Gol,3003.0,W Olympic Blvd,,Los Angeles,CA
-451,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,,Los Angeles,CA,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,,Los Angeles,CA
-452,Yum Yum Bangkok,650.0,9th Ave,,New York,NY,At nine Restaurant & Bar,592.0,9th Ave,,New York,NY
-453,Yum Yum Bangkok,650.0,9th Ave,,New York,NY,Riposo 46,667.0,9th Ave,,New York,NY
-454,Zuzu Cafe,1336.0,Drake St,,Madison,WI,ZuZu Cafe & Market,1336.0,Drake St,,Madison,WI
+,lname,lStreetNumber,lStreetAddress,lCity,lState,lExtraInfo,rname,rStreetNumber,rStreetAddress,rCity,rState,rExtraInfo
+5,15 Romolo,15.0,Romolo Place,San Francisco,CA,,15 Romolo,15.0,Romolo Pl,San Francisco,CA,
+6,456 Shanghai Cuisine,69.0,Mott St,New York,NY,,Shanghai Asian Manor,21.0,Mott St,New York,NY,
+7,5A5 Steak Lounge,244.0,Jackson St,San Francisco,CA,,Delicious Dim Sum,752.0,Jackson St,San Francisco,CA,
+8,9th Street Pizza,231.0,E 9th St,Los Angeles,CA,,Han Bat Sul Lung Tang,4163.0,W 5th St,Los Angeles,CA,
+9,9th Street Pizza,231.0,E 9th St,Los Angeles,CA,,Jun Won Restaurant,3100.0,W 8th St,Los Angeles,CA,
+10,9th Street Pizza,231.0,E 9th St,Los Angeles,CA,,Men Oh Tokushima Ramen,456.0,E 2nd St,Los Angeles,CA,
+11,9th Street Pizza,231.0,E 9th St,Los Angeles,CA,,Spear Steak & Seafood House,800.0,W 6th St,Los Angeles,CA,
+12,9th Street Pizza,231.0,E 9th St,Los Angeles,CA,,Yang Ban Sul Lung Tang Restaurant,716.0,E 9th Pl,Los Angeles,CA,
+13,ABC Seafood,205.0,Ord St,Los Angeles,CA,,AOC,8700.0,W 3rd St,Los Angeles,CA,
+14,ABC Seafood,205.0,Ord St,Los Angeles,CA,,BAR Ama,118.0,W 4th St,Los Angeles,CA,
+15,ABC Seafood,205.0,Ord St,Los Angeles,CA,,Spear Steak & Seafood House,800.0,W 6th St,Los Angeles,CA,
+16,Acquerello,1722.0,Sacramento St,San Francisco,CA,,Acquerello,1722.0,Sacramento St,San Francisco,CA,
+17,AJ Bombers,201.0,W Gorham St,Madison,WI,,AJ Bombers,201.0,W Gorham St,Madison,WI,
+18,Al's Place,1499.0,Valencia St,San Francisco,CA,,Pica Pica Arepa Kitchen,401.0,Valencia St,San Francisco,CA,
+19,Alcove Cafe & Bakery,1929.0,Hillhurst Ave,Los Angeles,CA,,Alcove Caf & Bakery,1929.0,Hillhurst Ave,Los Angeles,CA,
+20,Allende Restaurant,2408.0,N. Lincoln Ave,Chicago,IL,,Via Lima,4024.0,N Lincoln Ave,Chicago,IL,
+21,Alta CA,1420.0,Market St,San Francisco,CA,,Pasta Moto,845.0,Market St,San Francisco,CA,
+22,Anella,222.0,Franklin St,Brooklyn,NY,,Anella,222.0,Franklin St,Brooklyn,NY,
+23,Angel Cafe & Deli,700.0,Geary St,San Francisco,CA,,Hong Kong Lounge,5322.0,Geary Blvd,San Francisco,CA,
+24,Angel Cafe & Deli,700.0,Geary St,San Francisco,CA,,Hong Kong Lounge II,3300.0,Geary Blvd,San Francisco,CA,
+25,Anima Pizza & Pasta,698.0,S Vermont Ave,Los Angeles,CA,,Dok Dok Chicken,401.0,S Vermont Ave,Los Angeles,CA,
+26,Ann Sather,909.0,W. Belmont Ave,Chicago,IL,,Fahlstroms Fresh Fish Market,1258.0,W Belmont Ave,Chicago,IL,
+27,Arby's,601.0,S Gammon Rd,Madison,WI,,Chang Jiang,646.0,S Gammon Rd,Madison,WI,
+28,Aroma Bar and Grill,7373.0,W Sunset Blvd,Los Angeles,CA,,Aroma Restaurant,2903.0,W Sunset Blvd,Los Angeles,CA,
+29,Asiento,2730.0,21st St,San Francisco,CA,,Asiento,2730.0,21st St,San Francisco,CA,
+30,Athens Gyros,1860.0,E Washington Ave,Madison,WI,,Hong Kong Buffet,2817.0,E Washington Ave,Madison,WI,
+31,Atomic Wings,528.0,9th Ave,New York,NY,,Yum Yum Bangkok,650.0,9th Ave,New York,NY,
+32,Avec,615.0,W. Randolph St,Chicago,IL,,Avec,615.0,W Randolph St,Chicago,IL,
+33,Babes Madison,5614.0,Schroeder Rd,Madison,WI,,Babes Grill & Bar,5614.0,Schroeder Rd,Madison,WI,
+34,Baby Blues BBQ,3149.0,Mission St,San Francisco,CA,,Old Bus Taver,3193.0,Mission St,San Francisco,CA,
+35,Baby Blues BBQ,3149.0,Mission St,San Francisco,CA,,The Crafty Fox Ale House,1700.0,Mission St,San Francisco,CA,
+36,Bahn Thai Restaurant,944.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+37,Bahn Thai Restaurant,944.0,Williamson St,Madison,WI,,Wah Kee Wonton Noodle,600.0,Williamson St,Madison,WI,
+38,Bar Pastoral,2947.0,N. Broadway St,Chicago,IL,,Ping Pong,3322.0,N Broadway St,Chicago,IL,
+39,Bari,1120.0,W. Grand Ave,Chicago,IL,,Bari,1120.0,W Grand Ave,Chicago,IL,
+40,Bari,1120.0,W. Grand Ave,Chicago,IL,,Jeta Skin Care and Laser Center,1851.0,W Grand Ave,Chicago,IL,
+41,Barriques Coffee,127.0,W Washington Ave,Madison,WI,,Hong Kong Buffet,2817.0,E Washington Ave,Madison,WI,
+42,Batter & Berries,2748.0,N. Lincoln Ave,Chicago,IL,,Gather,4539.0,N Lincoln Ave,Chicago,IL,
+43,BBQ Chicken,698.0,S Vermont Ave Ste 101,Los Angeles,CA,,Dok Dok Chicken,401.0,S Vermont Ave,Los Angeles,CA,
+44,BBQ Chicken,698.0,S Vermont Ave Ste 101,Los Angeles,CA,,Parks BBQ,955.0,S Vermont Ave,Los Angeles,CA,
+45,Bean & Bean,71.0,Broadway,New York,NY,,Blue Fin,1567.0,Broadway,New York,NY,
+46,Bean & Bean,71.0,Broadway,New York,NY,,Hot Soup Cart,51.0,St & Broadway,New York,NY,
+47,Bean & Bean,71.0,Broadway,New York,NY,,New Wong Rest,103.0,E Broadway,New York,NY,
+48,Bean & Bean,71.0,Broadway,New York,NY,,Toys R Us,1514.0,Broadway,New York,NY,
+49,Bel Ami Restaurant,5530.0,N. Lincoln Ave,Chicago,IL,,The Bad Apple,4300.0,N Lincoln Ave,Chicago,IL,
+50,Blowin' Smoke Barbeque,1336.0,Montondon Ave,Waunakee,WI,,Blowin' Smoke BBQ,1336.0,Montondon Ave,Waunakee,WI,
+51,Blowin' Smoke Barbeque,1336.0,Montondon Ave,Waunakee,WI,,Blowin' Smoke BBQ,1336.0,Montondon Ave,Waunakee,WI,
+52,Blu Jam Cafe,7371.0,Melrose Ave,Los Angeles,CA,,All About the Bread,7111.0,Melrose Ave,Los Angeles,CA,
+53,Blue Velvet Lounge,430.0,W Gilman St,Madison,WI,,Sake Lounge,406.0,W Gilman St,Madison,WI,
+54,Bocadillos,710.0,Montgomery St,San Francisco,CA,,Bocadillos,710.0,Montgomery St,San Francisco,CA,
+55,Bom Bolla,1501.0,N. Milwaukee Ave,Chicago,IL,,Crossroads Trading Co.,1519.0,N Milwaukee Ave,Chicago,IL,
+56,Bom Bolla,1501.0,N. Milwaukee Ave,Chicago,IL,,Uncharted Book,2630.0,N Milwaukee Ave,Chicago,IL,
+57,Bonfyre American Grille,2601.0,West Beltline Highway,Madison,WI,,Bonfyre American Grille,2601.0,W Beltline Hwy,Madison,WI,
+58,BRGRBELLY,5691.0,N. Milwaukee Ave,Chicago,IL,,Pot Pan,1362.0,N Milwaukee Ave,Chicago,IL,
+59,Brink Lounge,701.0,E Washington Ave,Madison,WI,,The Brass Ring,701.0,E Washington Ave,Madison,WI,
+60,Brocach Irish Pub,7.0,W Main St,Madison,WI,,Good Food,33.0,E Main St,Madison,WI,
+61,Buck & Honey's,804.0,Liberty Blvd,Sun Prairie,WI,,Buck & Honey's,804.0,Liberty Blvd,Sun Prairie,WI,
+62,Buckingham's Madison,802.0,Regent St,Madison,WI,,Hong Kong Station,1441.0,Regent St,Madison,WI,
+63,Burma Love,211.0,Valencia St,San Francisco,CA,,Burma Love,211.0,Valencia St,San Francisco,CA,
+64,Cafe Costa Rica,1133.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+65,Cafe Tallulah,240.0,Columbus Ave,New York,NY,,Cafe Tallulah,240.0,Columbus Ave,New York,NY,
+66,Cafe Zoma,2326.0,Atwood Ave,Madison,WI,,Lao Laan,2098.0,Atwood Ave,Madison,WI,
+67,Capriotti's Sandwich Shop,902.0,Regent St,Madison,WI,,Capriotti's Sandwich Shop,902.0,Regent St,Madison,WI,
+68,Capriotti's Sandwich Shop,902.0,Regent St,Madison,WI,,Hong Kong Station,1441.0,Regent St,Madison,WI,
+69,Carmine's,200.0,W 44th St,New York,NY,,Etcetera Etcetera,352.0,W 44th St,New York,NY,
+70,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+71,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Blum's Trophies LLC,130.0,State St,Madison,WI,
+72,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Capital Tap Haus,107.0,State St,Madison,WI,
+73,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+74,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Karen & Co,309.0,State St,Madison,WI,
+75,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Mad City Frites,320.0,State St,Madison,WI,
+76,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Pizza Di Roma,313.0,State St,Madison,WI,
+77,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Pizza Hut,662.0,State St,Madison,WI,
+78,Casa DE Lara,341.0,State St Ste 2,Madison,WI,,Tutto Pasta State Street,305.0,State St,Madison,WI,
+79,Casa Del Sol,3040.0,Cahill Main,Fitchburg,WI,,Casa Del Sol,3040.0,Cahill Main,Fitchburg,WI,
+80,Casellula Cheese and Wine Cafe,401.0,W 52nd St,New York,NY,,Casellula,401.0,W 52nd St,New York,NY,
+81,Cassell's Hamburgers,3600.0,W 6th St,Los Angeles,CA,,Jun Won Restaurant,3100.0,W 8th St,Los Angeles,CA,
+82,Cassell's Hamburgers,3600.0,W 6th St,Los Angeles,CA,,Son of a Gun,8370.0,W 3rd St,Los Angeles,CA,
+83,Cassell's Hamburgers,3600.0,W 6th St,Los Angeles,CA,,Spear Steak & Seafood House,800.0,W 6th St,Los Angeles,CA,
+84,Cassell's Hamburgers,3600.0,W 6th St,Los Angeles,CA,,Sun Nong Dan,3470.0,W 6th St,Los Angeles,CA,
+85,Cha Cha Cha,656.0,N Virgil Ave,Los Angeles,CA,,Cha Cha Cha,656.0,N Virgil Ave,Los Angeles,CA,
+86,Cheba Hut,453.0,W Gilman St,Madison,WI,,Ear Wax Records,254.0,W Gilman St,Madison,WI,
+87,Chez Nanou,805.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+88,Chez Nanou,805.0,Williamson St,Madison,WI,,Mad Cat Pet Supply,1012.0,Williamson St,Madison,WI,
+89,Chez Nanou,805.0,Williamson St,Madison,WI,,Rick's Olde Gold,1314.0,Williamson St Frnt,Madison,WI,
+90,Chez Nanou,805.0,Williamson St,Madison,WI,,Sali C.'s review of Lao Laan,1146.0,Williamson St,Madison,WI,
+91,Chicago Curry House,899.0,S. Plymouth Court,Chicago,IL,,Chicago Curry House,899.0,S Plymouth Ct,Chicago,IL,
+92,China Kitchen,6606.0,Mineral Pt Rd,Madison,WI,,China Kitchen,6608.0,Mineral Point Rd,Madison,WI,
+93,Chipotle Mexican Grill,4000.0,University Ave,Madison,WI,,Chipotle Mexican Grill,4000.0,University Ave,Madison,WI,
+94,Chocolate Shoppe Ice Cream,468.0,State St,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+95,Chocolate Shoppe Ice Cream,468.0,State St,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+96,Chocolate Shoppe Ice Cream,468.0,State St,Madison,WI,,Pita Pit,449.0,State St,Madison,WI,
+97,Chocolate Shoppe Ice Cream,468.0,State St,Madison,WI,,Soga Shabu Shabu,508.0,State St,Madison,WI,
+98,Chocolate Shoppe Ice Cream,468.0,State St,Madison,WI,,Which Wich,411.0,State St,Madison,WI,
+99,Chop Stop,8717.0,Santa Monica Blvd,West Hollywood,CA,,Bambou Le Pho,8351.0,Santa Monica Blvd,West Hollywood,CA,
+100,Chutney,511.0,Jones St,San Francisco,CA,,Pho Tan Hoa,431.0,Jones St,San Francisco,CA,
+101,Cocohodo Wilshire,3500.0,W 6th St,Los Angeles,CA,,Kang Ho Dong Baekjeong,3465.0,W 6th St,Los Angeles,CA,
+102,Cocohodo Wilshire,3500.0,W 6th St,Los Angeles,CA,,Kang Ho Dong Baekjeong,3465.0,W 6th St,Los Angeles,CA,
+103,Coffee Bean & Tea Leaf,10250.0,Santa Monica Blvd,Los Angeles,CA,,Spicy BBQ Restaurant,5101.0,Santa Monica Blvd,Los Angeles,CA,
+104,Colibri Mexican Bistro,438.0,Geary St,San Francisco,CA,,Hong Kong Lounge,5322.0,Geary Blvd,San Francisco,CA,
+105,Commissary,101.0,Montgomery St,San Francisco,CA,,Lost Coast Outfitters,550.0,Montgomery St,San Francisco,CA,
+106,Crossroads Cafe,1000.0,Bascom Mall,Madison,WI,,Crossroads Cafe,1000.0,Bascom Mall,Madison,WI,
+107,Curd Girl,100.0,State St,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+108,Dairyland Family Restaurant,716.0,Cottage Grove Rd,Madison,WI,,Dairyland Family Restaurant,716.0,Cottage Grove Rd,Madison,WI,
+109,Delarosa,2175.0,Chestnut St,San Francisco,CA,,Delarosa,2175.0,Chestnut St,San Francisco,CA,
+110,Desi Deli,724.0,10th Ave,New York,NY,,Marquee New York,289.0,10th Ave,New York,NY,
+111,Desi Deli,724.0,10th Ave,New York,NY,,Pio Pio,604.0,10th Ave,New York,NY,
+112,Desi Deli,724.0,10th Ave,New York,NY,,White Oak Oyster Bar & Cocktail Lounge,818.0,10th Ave,New York,NY,
+113,Dlux,117.0,Martin Luther King Blvd,Madison,WI,,DLUX,117.0,Martin Luther King Jr Blvd,Madison,WI,
+114,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Au Lac DTLA,710.0,W 1st St,Los Angeles,CA,
+115,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Danger Dogs,415.0,W 8th St,Los Angeles,CA,
+116,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Dong II Jang Restaurant,3455.0,W 8th St,Los Angeles,CA,
+117,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Hae Jang Chon Korean BBQ Restaurant,3821.0,W 6th St,Los Angeles,CA,
+118,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,LA Sands Boxing Gym,515.0,E 4th St,Los Angeles,CA,
+119,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Le Comptoir,3606.0,W 6th St,Los Angeles,CA,
+120,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Mapo Kkak Doo Gee Restaurant,3611.0,W 6th St,Los Angeles,CA,
+121,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Quarters Korean BBQ,3465.0,W 6th St,Los Angeles,CA,
+122,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Smiles Cafe USC,844.0,W 32nd St,Los Angeles,CA,
+123,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,The Little Door,8164.0,W 3rd St,Los Angeles,CA,
+124,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,The Real 3rd Street Chicken House,4254.0,W 3rd St,Los Angeles,CA,
+125,Dong Il Jang,3455.0,W 8th St,Los Angeles,CA,,Toe Bang Cafe,3465.0,W 6th St,,,
+126,Dotty Dumpling's Dowry,317.0,N Frances St,Madison,WI,,Nitty Gritty Birthday Bar,223.0,N Frances St,Madison,WI,
+127,Durty Nelly's,2328.0,Irving St,San Francisco,CA,,Yummy Yummy,1015.0,Irving St,San Francisco,CA,
+128,EDO Japanese Restaurant,532.0,S Park St,Madison,WI,,Stephanie S.'s review of The Kombucha Sho,1418.0,South Park St,Madison,WI,
+129,Einstein Bros Bagels,3904.0,E Washington Ave,Madison,WI,,Hong Kong Buffet,2817.0,E Washington Ave,Madison,WI,
+130,El Cid,2645.0,N. Kedzie Ave,Chicago,IL,,Simone G.'s review of West River Caf,4400.0,N Kedzie Ave,Chicago,IL,
+131,El Metate,2406.0,Bryant St,San Francisco,CA,,El Metate Restaurant,2406.0,Bryant St,San Francisco,CA,
+132,El Norteno Tacos,801.0,Bryant St,San Francisco,CA,,San Francisco Bay Flowers,801.0,N Point St,San Francisco,CA,
+133,El Pollo Loco,3925.0,W Sunset Blvd,Los Angeles,CA,,El Cochinito Restaurant,3508.0,W Sunset Blvd,Los Angeles,CA,
+134,El Pollo Loco,3925.0,W Sunset Blvd,Los Angeles,CA,,Local,2943.0,W Sunset Blvd,Los Angeles,CA,
+135,El Rinconcito Cubano,3248.0,W. Fullerton Ave,Chicago,IL,,La Cocina Boricua de la Familia Galarza,2420.0,W Fullerton Ave,Chicago,IL,
+136,El Salsabor Restaurant,522.0,S Lorena St,Los Angeles,CA,,Beau Ideal House of Beauty,714.0,S Los Angeles St,Los Angeles,CA,
+137,El Taco Loco #2,3274.0,24th St,San Francisco,CA,,La Espiga De Oro,2916.0,24th St,San Francisco,CA,
+138,El Taco Loco #2,3274.0,24th St,San Francisco,CA,,Local Mission Eatery,3111.0,24th St,San Francisco,CA,
+139,El Taco Loco #2,3274.0,24th St,San Francisco,CA,,Nico,3228.0,Sacramento St,San Francisco,CA,
+140,Eno Vino Wine Bar & Bistro,601.0,Junction Rd,Madison,WI,,Eno Vino Wine Bar & Bistro,601.0,Junction Rd,Madison,WI,
+141,Ethiopian Diamond,6120.0,N. Broadway St,Chicago,IL,,Ping Pong,3322.0,N Broadway St,Chicago,IL,
+142,Falling Water Cafe,1313.0,John Q Hammons Dr,Middleton,WI,,Falling Water Cafe,1313.0,John Q Hammons Dr,Middleton,WI,
+143,Famous Yeti's Pizza,971.0,N Page St,Stoughton,WI,,Famous Yetis Pizza,971.0,N Page St,Stoughton,WI,
+144,Fast Wok,106.0,W Towne Mall,Madison,WI,,Bath & Body Works,23.0,W Towne Mall,Madison,WI,
+145,Five Guys Burgers and Fries,517.0,State St.,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+146,Five Guys Burgers and Fries,517.0,State St.,Madison,WI,,Umami Buns,716.0,State St,Madison,WI,
+147,Flaming Wok,4237.0,Lien Rd Ste H,Madison,WI,,Flaming Wok,4237.0,Lien Rd,Madison,WI,
+148,Fosdal Home Bakery,243.0,E Main St,Stoughton,WI,,Elsings 2nd Hand Shop,421.0,E Main St,Stoughton,WI,
+149,Frida Tacos,7217.0,Melrose,Los Angeles,CA,,Froma on Melrose,7960.0,Melrose Ave,Los Angeles,CA,
+150,Glass Nickel Pizza Co.,5003.0,University Ave Ste 170,Madison,WI,,Glass Nickel Pizza,5003.0,University Ave,Madison,WI,
+151,Glass Nickel Pizza Co.,5003.0,University Ave Ste 170,Madison,WI,,Great Harvest Bread Company,3258.0,University Ave,Madison,WI,
+152,Golden Apple Grill & Breakfast House,2971.0,N. Lincoln Ave,Chicago,IL,,The Bad Apple,4300.0,N Lincoln Ave,Chicago,IL,
+153,Golden Apple Grill & Breakfast House,2971.0,N. Lincoln Ave,Chicago,IL,,Via Lima,4024.0,N Lincoln Ave,Chicago,IL,
+154,Gordo Taqueria,5450.0,Geary Blvd,San Francisco,CA,,Brian S.'s review of Hong Kong Loung,5322.0,Geary Blvd,San Francisco,CA,
+155,Gotham New York Bagels & Eats,112.0,E Mifflin St,Madison,WI,,Good Food,33.0,E Main St,Madison,WI,
+156,Gotham New York Bagels & Eats,112.0,E Mifflin St,Madison,WI,,Good Food,33.0,E Main St,Madison,WI,
+157,Granite City Food & Brewery,72.0,W Towne Mall,Madison,WI,,Granite City Food & Brewery,72.0,West Towne Mall,Madison,WI,
+158,Graze,1.0,S Pinckney St,Madison,WI,,Graze,1.0,S Pinckney St,Madison,WI,
+159,Great India,6127.0,Geary Blvd,San Francisco,CA,,Brian S.'s review of Hong Kong Loung,5322.0,Geary Blvd,San Francisco,CA,
+160,Greenbush Bar,914.0,Regent St,Madison,WI,,Greenbush Bar,914.0,Regent St,Madison,WI,
+161,Gumbo Pot,6333.0,W 3rd St,Los Angeles,CA,,Thank U Pho,3522.0,W 8th St,Los Angeles,CA,
+162,Gus's Diner,630.0,N Westmount Dr,Sun Prairie,WI,,Guss Diner,630.0,N Westmount Dr,Sun Prairie,WI,
+163,H. Salt Esquire Fish & Chips,4732.0,Hollywood Blvd,Los Angeles,CA,,Cho Oishi,6801.0,Hollywood Blvd,Los Angeles,CA,
+164,H. Salt Esquire Fish & Chips,4732.0,Hollywood Blvd,Los Angeles,CA,,Sapp Coffee Shop,5183.0,Hollywood Blvd,Los Angeles,CA,
+165,Han 202,605.0,W. 31st St,Chicago,IL,,Husky Hog BBQ,335.0,W 31st St,Chicago,IL,
+166,Harold's Chicken Shack,707.0,S. Gammon Rd,Madison,WI,,Chang Jiang Chinese Restaurant,646.0,S Gammon Rd,Madison,WI,
+167,Harold's Chicken Shack,1361.0,N. Milwaukee Ave,Chicago,IL,,Pot Pan,1362.0,N Milwaukee Ave,Chicago,IL,
+168,Harvest,21.0,N Pinckney St,Madison,WI,,Harvest,21.0,N Pinckney St,Madison,WI,
+169,Hell's Kitchen,754.0,9th Ave,New York,NY,,Hells Kitchen,754.0,9th Ave,New York,NY,
+170,Hero Shop,130.0,E 6th St,Los Angeles,CA,,Hae Jang Chon Korean BBQ Restaurant,3821.0,W 6th St,Los Angeles,CA,
+171,Hero Shop,130.0,E 6th St,Los Angeles,CA,,Soot Bull Jeep,3136.0,W 8th St,Los Angeles,CA,
+172,Hero Shop,130.0,E 6th St,Los Angeles,CA,,Sun Nong Dan,3470.0,W 6th St,Los Angeles,CA,
+173,Hero Shop,130.0,E 6th St,Los Angeles,CA,,Thank U Pho,3522.0,W 8th St,Los Angeles,CA,
+174,Hero Shop,130.0,E 6th St,Los Angeles,CA,,The Black Sheep,126.0,E 6th St,Los Angeles,CA,
+175,Hill and Bay,581.0,2nd Ave,New York,NY,,Ruay Thai,625.0,2nd Ave,New York,NY,
+176,Honey B,2201.0,Clement St,San Francisco,CA,,Good Luck Dim Sum,736.0,Clement St,San Francisco,CA,
+177,Honey B,2201.0,Clement St,San Francisco,CA,,Phoenix Hotel,601.0,Eddy St,San Francisco,CA,
+178,Hopwater Distribution,850.0,Bush St,San Francisco,CA,,Hopwater Distribution,850.0,Bush St,San Francisco,CA,
+179,Hot Woks Cool Sushi,30.0,S. Michigan Ave,Chicago,IL,,Cherry Circle Room,12.0,S Michigan Ave,Chicago,IL,
+180,Hot Woks Cool Sushi,30.0,S. Michigan Ave,Chicago,IL,,Potbelly Sandwich Shop,200.0,S Michigan Ave,Chicago,IL,
+181,Ian's Pizza,100.0,State St,Madison,WI,,Pita Pit,449.0,State St,Madison,WI,
+182,Immaculee II Haitian Restaurant & Bakery,1227.0,Nostrand Ave,Brooklyn,NY,,Lucha Lucha,283.0,Nostrand Ave,Brooklyn,NY,
+183,Ippudo,65.0,4th Ave,New York,NY,,Ippudo NY,65.0,4th Ave,New York,NY,
+184,Irish Pub,317.0,State St Ste A,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+185,J.P. Graziano,901.0,W. Randolph St,Chicago,IL,,J.P. Graziano Grocery Co.,901.0,W Randolph St,Chicago,IL,
+186,Jacks Stir,425.0,W 13th St,New York,NY,,Chop Shop II,41.0,W 24th St,New York,NY,
+187,Jacks Stir,425.0,W 13th St,New York,NY,,NTS News,224.0,W 35th St,New York,NY,
+188,Jade Garden,1109.0,S Park St,Madison,WI,,Jade Garden,1109.0,S Park St,Madison,WI,
+189,Jake Melnick's Corner Tap,41.0,E. Superior St,Chicago,IL,,Jake Melnicks Corner Tap,41.0,E Superior St,Chicago,IL,
+190,JD's,,,,,N Broom St & State St Madison WI,Jeremy K.'s review of Goodman's Jeweler,220.0,State St,Madison,WI,
+191,JD's,,,,,N Broom St & State St Madison WI,Kelly E.'s review of Urban Outfitter,604.0,State St,Madison,WI,
+192,Jeni's Splendid Ice Creams,1505.0,N. Milwaukee Ave,Chicago,IL,,Jenis Splendid Ice Creams,1505.0,N Milwaukee Ave,Chicago,IL,
+193,Jeni's Splendid Ice Creams,1505.0,N. Milwaukee Ave,Chicago,IL,,Pot Pan,1362.0,N Milwaukee Ave,Chicago,IL,
+194,Jimmy John's,527.0,State St,Madison,WI,,Jim L.'s review of Parthenon Gyros Restauran,316.0,State St,Madison,WI,
+195,Jimmy John's,527.0,State St,Madison,WI,,Jimmy Johns,527.0,State St,Madison,WI,
+196,Jimmy's Red Hots,4000.0,W. Grand Ave,Chicago,IL,,Chef Fredy Cuisine,1752.0,W Grand Ave,Chicago,IL,
+197,Joey's Seafood & Grill,6604.0,Mineral Pt Rd,Madison,WI,,North and South Seafood & Smokehouse,6604.0,Mineral Point Rd,Madison,WI,
+198,Jordan's Big Ten Pub,1330.0,Regent St,Madison,WI,,Hong Kong Station,1441.0,Regent St,Madison,WI,
+199,Julep,827.0,E Washington Ave,Madison,WI,,Hong Kong Buffet,2817.0,E Washington Ave,Madison,WI,
+200,Kabul Afghanistan Restaurant,540.0,State St,Madison,WI,,Kabul Restaurant,540.0,State St,Madison,WI,
+201,KFC,600.0,W Main St,Waunakee,WI,,KFC,600.0,W. Main St,Waunakee,WI,
+202,Khan Toke Thai House,5937.0,Geary Blvd,San Francisco,CA,,K & G Jewelers,5520.0,Geary Blvd,San Francisco,CA,
+203,Khan Toke Thai House,5937.0,Geary Blvd,San Francisco,CA,,New World Market,5641.0,Geary Blvd,San Francisco,CA,
+204,Kit Kat Lounge and Supper Club,3700.0,N. Halsted St,Chicago,IL,,Karyns Fresh Corner Raw,1901.0,N Halsted St,Chicago,IL,
+205,Kit Kat Lounge and Supper Club,3700.0,N. Halsted St,Chicago,IL,,The Mid,306.0,N Halsted St,Chicago,IL,
+206,Kuleto's,221.0,Powell St,San Francisco,CA,,Kuletos,221.0,Powell St,San Francisco,CA,
+207,L's Caffe,2871.0,24th St,San Francisco,CA,,Tortas Los Picudos,2969.0,24th St,San Francisco,CA,
+208,La Brioche,2862.0,University Ave,Madison,WI,,Don the Car Care Man,2008.0,University Ave,Madison,WI,
+209,La Brioche,2862.0,University Ave,Madison,WI,,Great Harvest Bread Company,3258.0,University Ave,Madison,WI,
+210,La Brioche,2862.0,University Ave,Madison,WI,,L S.'s review of La Brioche True Foo,2862.0,University Ave,Madison,WI,
+211,La Salsa Fresh Mexican Grill,10800.0,W Pico Blvd,Los Angeles,CA,,Casa Chocolate,3319.0,W Pico Blvd,Los Angeles,CA,
+212,La Santaneca,3781.0,Mission St,San Francisco,CA,,La Oaxaquea,2128.0,Mission St,San Francisco,CA,
+213,La Santaneca,3781.0,Mission St,San Francisco,CA,,La Taqueria,2889.0,Mission St,San Francisco,CA,
+214,Lady M Cake Boutique,41.0,E 78th St,New York,NY,,Chop Shop II,41.0,W 24th St,New York,NY,
+215,Lady M Cake Boutique,41.0,E 78th St,New York,NY,,The Eddy,342.0,E 6th St,New York,NY,
+216,Lahore Karahi,612.0,O'Farrell St,San Francisco,CA,,Ken S.'s review of Sai Jai Thai Restauran,771.0,O'Farrell St,San Francisco,CA,
+217,Lakeview Bakery and Deli,524.0,E. Wilson St.,Madison,WI,,Lakeview Bakery and Deli,524.0,E Wilson St,Madison,WI,
+218,Lao Laan,1146.0,Williamson St,Madison,WI,,Ha Long Bay Vietnamese & Thai Bistro,1353.0,Williamson St,Madison,WI,
+219,Lao Laan,1146.0,Williamson St,Madison,WI,,Ha Long Bay Vietnamese & Thai Bistro,1353.0,Williamson St,Madison,WI,
+220,Lao Laan,1146.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+221,Lao Laan,1146.0,Williamson St,Madison,WI,,Lazy Janes,1358.0,Williamson St,Madison,WI,
+222,Lao Laan,1146.0,Williamson St,Madison,WI,,Plan B,924.0,Williamson St,Madison,WI,
+223,Lao Laan,1146.0,Williamson St,Madison,WI,,St Vincent De Paul Stores,1309.0,Williamson St,Madison,WI,
+224,Lao Laan Xang Restaurant,2098.0,Atwood Ave,Madison,WI,,Lao Laan,2098.0,Atwood Ave,Madison,WI,
+225,Lao Laan Xang Restaurant,2098.0,Atwood Ave,Madison,WI,,Tex Tubbs Taco Palace,2009.0,Atwood Ave,Madison,WI,
+226,Las Fuentes,2558.0,N. Halsted St,Chicago,IL,,Karyns Fresh Corner Raw,1901.0,N Halsted St,Chicago,IL,
+227,Layla's Persian Food,141.0,South Butler St,Madison,WI,,Laylas Persian Food,141.0,S Butler St,Madison,WI,
+228,Leelin Bakery & Cafe,209.0,S Vermont Ave,Los Angeles,CA,,Dok Dok Chicken,401.0,S Vermont Ave,Los Angeles,CA,
+229,Liholiho Yacht Club,871.0,Sutter St,San Francisco,CA,,Liholiho Yacht Club,871.0,Sutter St,San Francisco,CA,
+230,Lula Cafe,2537.0,N. Kedzie Blvd,Chicago,IL,,Lula Cafe,2537.0,N Kedzie Blvd,Chicago,IL,
+231,Mad City Frites,320.0,State St,Madison,WI,,Mad City Crabhouse,122.0,State St,Madison,WI,
+232,Maharana,1707.0,Thierer Rd,Madison,WI,,Maharaja Restaurant,1707.0,Thierer Rd,Madison,WI,
+233,MaMa Ji's,4415.0,18th St,San Francisco,CA,,MaMa Jis,4416.0,18th St,San Francisco,CA,
+234,Mamoun's Falafel,119.0,MacDougal St,New York,NY,,The Up & Up,116.0,MacDougal St,New York,NY,
+235,Manna Cafe & Bakery,611.0,N Sherman Ave,Madison,WI,,IGo VeGo,1219.0,N Sherman Ave,Madison,WI,
+236,Manna Cafe & Bakery,611.0,N Sherman Ave,Madison,WI,,Manna Cafe & Bakery,611.0,N Sherman Ave,Madison,WI,
+237,Manna Korean Restaurant,845.0,Irving St,San Francisco,CA,,Yummy Yummy,1015.0,Irving St,San Francisco,CA,
+238,Manos Nouveau,3115.0,22nd St,San Francisco,CA,,Minas Brazilian Restaurant & Cachaaria,41.0,Franklin St,San Francisco,CA,
+239,Marigold Kitchen,118.0,S Pinckney St,Madison,WI,,Marigold Kitchen,118.0,S Pinckney St,Madison,WI,
+240,Mariscos Jalisco,3040.0,E Olympic Blvd,Los Angeles,CA,,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,Los Angeles,CA,
+241,Marlowe,500.0,Brannan St,San Francisco,CA,,Marlowe,500.0,Brannan St,San Francisco,CA,
+242,Marnee Thai,2225.0,Irving St,San Francisco,CA,,Yummy Yummy,1015.0,Irving St,San Francisco,CA,
+243,Marrakesh Restaurant,5510.0,University Ave,Madison,WI,,Marrakesh,5510.0,University Ave,Madison,WI,
+244,Masa of Echo Park,1800.0,W Sunset Blvd,Los Angeles,CA,,Ostrich Farm,1525.0,W Sunset Blvd,Los Angeles,CA,
+245,Mazza Luna,810.0,S Van Ness St,San Francisco,CA,,Dim Sum Club,2550.0,Van Ness Ave,San Francisco,CA,
+246,Mecca Supper Club,6666.0,N. Northwest Highway,Chicago,IL,,Mecca Supper Club,6666.0,N Northwest Hwy,Chicago,IL,
+247,Mediterranean Cafe,625.0,State St,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+248,Men Oh,5120.0,Geary Blvd,San Francisco,CA,,New World Market,5641.0,Geary Blvd,San Francisco,CA,
+249,Metro Diner,2641.0,Broadway,New York,NY,,Met Photo,1500.0,Broadway,New York,NY,
+250,Mickey's Tavern,1524.0,Williamson St,Madison,WI,,Ricks Olde Gold,1314.0,Williamson St Frnt,Madison,WI,
+251,Milan's Restaurant,710.0,5th Ave,Brooklyn,NY,,Milan Restaurant,710.0,5th Ave,Brooklyn,NY,
+252,Milio's Sandwiches,5534.0,Eastpark Blvd,Madison,WI,,Milios Sandwiches,5534.0,Eastpark Blvd,Madison,WI,
+253,Mom's Old Recipe,5760.0,N. Milwaukee Ave,Chicago,IL,,Angie M.'s review of Small Cheva,1732.0,N Milwaukee Ave,Chicago,IL,
+254,Mom's Old Recipe,5760.0,N. Milwaukee Ave,Chicago,IL,,Pot Pan,1362.0,N Milwaukee Ave,Chicago,IL,
+255,Mooyah,6309.0,McKee Rd,Fitchburg,WI,,"MOOYAH Burgers, Fries & Shakes",6309.0,Mckee Rd,Fitchburg,WI,
+256,Mr. Pizza,350.0,E 1st St,Los Angeles,CA,,Men Oh Tokushima Ramen,456.0,E 2nd St,Los Angeles,CA,
+257,Mullen's on Clark,3527.0,N. Clark St,Chicago,IL,,Clark St. Ale House,742.0,N Clark St,Chicago,IL,
+258,Nacional 27,325.0,W. Huron St,Chicago,IL,,Nacional 27,325.0,W Huron St,Chicago,IL,
+259,Nana,3267.0,S. Halsted St,Chicago,IL,,South Kawa,3417.0,S Halsted St,Chicago,IL,
+260,Natsumi Bar And Lounge,226.0,W 50th St,New York,NY,,Chris A.'s review of Arts and Crafts Beer Parlo,26.0,W 8th St,New York,NY,
+261,Nature's Bakery Cooperative,1019.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+262,Nature's Bakery Cooperative,1019.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+263,Nature's Bakery Cooperative,1019.0,Williamson St,Madison,WI,,Ricks Olde Gold,1314.0,Williamson St Frnt,Madison,WI,
+264,New Fortune Dim Sum And Cafe,811.0,Stockton St,San Francisco,CA,,New Golden Daisy,1041.0,Stockton St,San Francisco,CA,
+265,New Orient House,626.0,S. Park St,Madison,WI,,Oriental Wok,532.0,S Park St,Madison,WI,
+266,Nick's Pit Stop,2023.0,N. Damen Ave,Chicago,IL,,Nicks Pit Stop,2023.0,N Damen Ave,Chicago,IL,
+267,Noodles & Company,7050.0,Mineral Point Rd,Madison,WI,,Noodles & Company,7050.0,Mineral Point Rd and Gammon Rd,Madison,WI,
+268,Nori,1393.0,N. Milwaukee Ave,Chicago,IL,,Pork & Mindys,1623.0,N Milwaukee Ave,Chicago,IL,
+269,North Beach Pizza,1462.0,Grant Ave,San Francisco,CA,,Hong Kong Clay Pot Restaurant,960.0,Grant Ave,San Francisco,CA,
+270,Novela,662.0,Mission St,San Francisco,CA,,Super Duper Burgers,783.0,Mission St,San Francisco,CA,
+271,Oakcrest Tavern,5371.0,Old Middleton Rd,Madison,WI,,Oakcrest Tavern,5371.0,Old Middleton Rd,Madison,WI,
+272,Oriental Garden,14.0,Elizabeth St,New York,NY,,Siggys Good Food,292.0,Elizabeth St,New York,NY,
+273,Oriental Wok,532.0,S Park St,Madison,WI,,Orient House,626.0,S Park St,Madison,WI,
+274,Original Pancake House,518.0,River Pl,Monona,WI,,Original Pancake House,516.0,River Pl,Monona,WI,
+275,Original Pancake House,5518.0,University Ave,Madison,WI,,Great Harvest Bread Company,3258.0,University Ave,Madison,WI,
+276,Original Pancake House,5518.0,University Ave,Madison,WI,,Original Pancake House,5518.0,University Ave,Madison,WI,
+277,Otto's Tacos,141.0,2nd Ave,New York,NY,,Lan Larb,637.0,2nd Ave,New York,NY,
+278,Paciugo,3241.0,N. Broadway St,Chicago,IL,,Ping Pong,3322.0,N Broadway St,Chicago,IL,
+279,Pakwan,3182.0,16th St,San Francisco,CA,,Pakwan Restaurant,3180.0,16th St,San Francisco,CA,
+280,Palermo Ristorante Italiano,1858.0,N Vermont Ave,Los Angeles,CA,,Dok Dok Chicken,401.0,S Vermont Ave,Los Angeles,CA,
+281,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+282,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,
+283,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,
+284,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,,Soga Shabu Shabu,508.0,State St,Madison,WI,
+285,Palmyra Mediterranean Grill,419.0,State St,Madison,WI,,Which Wich,411.0,State St,Madison,WI,
+286,Pampas Grill,6333.0,W 3rd St,Los Angeles,CA,,Son of a Gun,8370.0,W 3rd St,Los Angeles,CA,
+287,Pampas Grill,6333.0,W 3rd St,Los Angeles,CA,,Spear Steak & Seafood House,800.0,W 6th St,Los Angeles,CA,
+288,Pampas Grill,6333.0,W 3rd St,Los Angeles,CA,,Sun Nong Dan,3470.0,W 6th St,Los Angeles,CA,
+289,Pampas Grill,6333.0,W 3rd St,Los Angeles,CA,,Yang San Bak,3601.0,W 6th St,Los Angeles,CA,
+290,Pancake Cafe,6220.0,Nesbitt Rd Ste B,Fitchburg,WI,,Ten Pin Alley,6285.0,Nesbitt Rd,Fitchburg,WI,
+291,Paradise Lounge,119.0,W Main St,Madison,WI,,Good Food,33.0,E Main St,Madison,WI,
+292,Paradise Lounge,119.0,W Main St,Madison,WI,,The Paradise Lounge,119.0,W Main St,Madison,WI,
+293,Parthenon Gyros Restaurant,316.0,State St,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+294,Parthenon Gyros Restaurant,316.0,State St,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+295,Parthenon Gyros Restaurant,316.0,State St,Madison,WI,,Pantheon Bar,316.0,State St,Madison,WI,
+296,Parthenon Gyros Restaurant,316.0,State St,Madison,WI,,Which Wich,411.0,State St,Madison,WI,
+297,Pho Nam,610.0,Junction Rd Suite 109,Madison,WI,,Capriottis Sandwich Shop,610.0,Junction Rd,Madison,WI,
+298,Pho Nam,610.0,Junction Rd Suite 109,Madison,WI,,Pho Nam Noodle House,610.0,Junction Rd,Madison,WI,
+299,Pisco Latin Lounge,1817.0,Market St,San Francisco,CA,,Super Duper Burgers,2304.0,Market St,San Francisco,CA,
+300,Pizza Capri,1733.0,N. Halsted St,Chicago,IL,,Sapori Trattoria,2701.0,N Halsted St,Chicago,IL,
+301,Pizza Hut,520.0,S Park St,Madison,WI,,Pizza Hut,520.0,S. Park St.,Madison,WI,
+302,Pizza Pit Extreme,6628.0,Odana Rd,Madison,WI,,Pizza Pit Extreme,6628.0,Odana Rd,Madison,WI,
+303,Pizza Pit Extreme,6628.0,Odana Rd,Madison,WI,,VIP,6718.0,Odana Rd,Madison,WI,
+304,Pizzarito,4371.0,Glencoe Ave B-7,Marina Del Rey,CA,,Pizzarito New York Pizza By the Slice,4371.0,Glencoe Ave,Marina del Rey,CA,
+305,Plaza Tavern & Grill,319.0,N Henry St,Madison,WI,,The Plaza Tavern,319.0,N Henry St,Madison,WI,
+306,Pomp & Circumstance,1400.0,N. Wells St,Chicago,IL,,Pomp & Circumstance,1400.0,Wells St,Chicago,IL,
+307,Porta Bella,425.0,N Frances St,Madison,WI,,Porta Bella,425.0,N Frances St,Madison,WI,
+308,Porteno,299.0,Tenth Ave,New York,NY,,Porteno Restaurant,299.0,10th Ave,New York,NY,
+309,Prado,244.0,North Larchmont Blvd,Los Angeles,CA,,Prado Restaurant,244.0,N Larchmont Blvd,Los Angeles,CA,
+310,Prune,54.0,E 1st St,New York,NY,,Cup & Cup,15.0,E 31st St,New York,NY,
+311,Qdoba Mexican Grill,548.0,State St,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+312,Quaker Steak & Lube,2259.0,Deming Way,Middleton,WI,,Ruths Chris Steak House,2137.0,Deming Way,Middleton,WI,
+313,Quickly,2116.0,Irving St,San Francisco,CA,,Yummy Yummy,1015.0,Irving St,San Francisco,CA,
+314,Quivey's Grove,6261.0,Nesbitt Rd,Fitchburg,WI,,Nina O.'s review of Ten Pin Alle,6285.0,Nesbitt Rd,Fitchburg,WI,
+315,Ramen Hayatemaru,11678.0,W Olympic Blvd,Los Angeles,CA,,Gam Ja Gol,3003.0,W Olympic Blvd,Los Angeles,CA,
+316,Ramen Hayatemaru,11678.0,W Olympic Blvd,Los Angeles,CA,,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,Los Angeles,CA,
+317,Ramen Takeya,819.0,W. Fulton Market,Chicago,IL,,Ramen Takeya,819.0,W Fulton Market,Chicago,IL,
+318,Rin's,4301.0,24th St,San Francisco,CA,,Minas Brazilian Restaurant & Cachaaria,41.0,Franklin St,San Francisco,CA,
+319,Rio Grande,524.0,W Main St,Stoughton,WI,,El Rio Grande,524.0,W Main St,Stoughton,WI,
+320,Rio Grande,524.0,W Main St,Stoughton,WI,,Elsings 2nd Hand Shop,421.0,E Main St,Stoughton,WI,
+321,Rising Sons,617.0,State St,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+322,Roam Artisan Burgers,1785.0,Union St,San Francisco,CA,,Umami Burger,2184.0,Union St,San Francisco,CA,
+323,Roast Public House,529.0,State St,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+324,Roast Public House,529.0,State St,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+325,Roka Akor,456.0,N. Clark St,Chicago,IL,,Ora,5143.0,N Clark St,Chicago,IL,
+326,Rolling Pin Bake Shop,2935.0,S Fish Hatchery Rd,Fitchburg,WI,,Chang Jiang,2935.0,S Fish Hatchery Rd,Fitchburg,WI,
+327,Rosamunde Sausage Grill,545.0,Haight St,San Francisco,CA,,Cha Cha Cha,1801.0,Haight St,San Francisco,CA,
+328,Rosie's Main Tap Incorporated,121.0,S Main St,Oregon,WI,,Aces Main Tap,121.0,S Main St,Oregon,WI,
+329,Rosie's Main Tap Incorporated,121.0,S Main St,Oregon,WI,,Ming Moon,787.0,N Main St,Oregon,WI,
+330,RP Adler's Pub & Grill,8202.0,Watts Rd,Madison,WI,,RP Adlers,8202.0,Watts Rd,Madison,WI,
+331,Ruay Thai Restaurant,625.0,Second Ave,New York,NY,,Ruay Thai,625.0,2nd Ave,New York,NY,
+332,Ruth's Chris Steak House,2137.0,Deming Way,Middleton,WI,,Quaker Steak & Lube,2259.0,Deming Way,Middleton,WI,
+333,Ruth's Chris Steak House,2137.0,Deming Way,Middleton,WI,,Which Wich,2177.0,Deming Way,Middleton,WI,
+334,Sa Bai Thong,2840.0,University Ave,Madison,WI,,BJs Kolaches,975.0,University Ave,Madison,WI,
+335,Saigon Sandwich,560.0,Larkin St,San Francisco,CA,,Saigon Sandwich,560.0,Larkin St,San Francisco,CA,
+336,Samba Grill Cafe,735.0,E 12th St,Los Angeles,CA,,BAR Ama,118.0,W 4th St,Los Angeles,CA,
+337,Samba Grill Cafe,735.0,E 12th St,Los Angeles,CA,,Sun Nong Dan,3470.0,W 6th St,Los Angeles,CA,
+338,Samba Grill Cafe,735.0,E 12th St,Los Angeles,CA,,Yang San Bak,3601.0,W 6th St,Los Angeles,CA,
+339,Sardine,617.0,Williamson St,Madison,WI,,Ricks Olde Gold,1314.0,Williamson St Frnt,Madison,WI,
+340,Sardine,617.0,Williamson St,Madison,WI,,Sali C.'s review of Lao Laan,1146.0,Williamson St,Madison,WI,
+341,Sardine,617.0,Williamson St,Madison,WI,,Sardine,617.0,Williamson St,Madison,WI,
+342,Sarku Japan,111.0,W Towne Mall,Madison,WI,,Sarku Japan,111.0,W Towne Mall,Madison,WI,
+343,Sarku Japan,111.0,W Towne Mall,Madison,WI,,Sarku Japan,108.0,W Towne Mall,Madison,WI,
+344,Semiramis,4639.0,N. Kedzie Ave,Chicago,IL,,J J Fish,816.0,N Kedzie Ave,Chicago,IL,
+345,Shallots Bistro,7016.0,Carpenter Rd,Skokie,IL,,Shallots Bistro,7016.0,Carpenter Rd,Skokie,IL,
+346,Silly Yak Bakery,7866.0,Mineral Point Rd,Madison,WI,,North and South Seafood & Smokehouse,6604.0,Mineral Point Rd,Madison,WI,
+347,Slide Food Cart,711.0,State St,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+348,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Au Lac DTLA,710.0,W 1st St,Los Angeles,CA,
+349,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Barrel Down,525.0,W 7th St,Los Angeles,CA,
+350,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Chunju Han,3450.0,W 6th St,Los Angeles,CA,
+351,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Dan Sung Sa,3317.0,W 6th St,Los Angeles,CA,
+352,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,El Carmen,8138.0,W 3rd St,Los Angeles,CA,
+353,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Han Bat Sul Lung Tang,4163.0,W 5th St,Los Angeles,CA,
+354,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Jun Won Restaurant,3100.0,W 8th St,Los Angeles,CA,
+355,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Sixth St Tavern,630.0,W 6th St,Los Angeles,CA,
+356,Son of a Gun Restaurant,8370.0,W 3rd St,Los Angeles,CA,,Wood Spoon,107.0,W 9th St,Los Angeles,CA,
+357,Sotto Mare,552.0,Green St,San Francisco,CA,,Sotto Mare,552.0,Green St,San Francisco,CA,
+358,Spur Tree Lounge,74.0,Orchard St,New York,NY,,Black Tree,131.0,Orchard St,New York,NY,
+359,St. Mary's Pub,3845.0,Mission St,San Francisco,CA,,Club Puertorriqueno De San Francisco,3249.0,Mission St,San Francisco,CA,
+360,St. Vincent,1270.0,Valencia St,San Francisco,CA,,Pica Pica Arepa Kitchen,401.0,Valencia St,San Francisco,CA,
+361,State Street Brats,603.0,State St,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+362,State Street Brats,603.0,State St,Madison,WI,,Four Star Video Cooperative,449.0,State St,Madison,WI,
+363,State Street Brats,603.0,State St,Madison,WI,,Tutto Pasta State Street,305.0,State St,Madison,WI,
+364,Steak Escape,118.0,W Towne Mall,Madison,WI,,Steak Escape,118.0,W Towne Mall,Madison,WI,
+365,Stout Restaurant & Bar,133.0,W 33rd St,New York,NY,,Kopi Kopi NYC,68.0,W 3rd St,New York,NY,
+366,Subway,2850.0,University Ave,Madison,WI,,Don the Car Care Man,2008.0,University Ave,Madison,WI,
+367,Subway,2850.0,University Ave,Madison,WI,,Great Harvest Bread Company,3258.0,University Ave,Madison,WI,
+368,Subway,2850.0,University Ave,Madison,WI,,Subway,2850.0,University Ave,Madison,WI,
+369,Supply House,1647.0,2nd Ave,New York,NY,,Lan Larb,637.0,2nd Ave,New York,NY,
+370,Sushi Boat,389.0,Geary St,San Francisco,CA,,Hong Kong Lounge II,3300.0,Geary Blvd,San Francisco,CA,
+371,Sushi Boat,389.0,Geary St,San Francisco,CA,,San Dong Best,3741.0,Geary Blvd,San Francisco,CA,
+372,Sushi Express,610.0,University Ave,Madison,WI,,Don the Car Care Man,2008.0,University Ave,Madison,WI,
+373,Sushi Express,610.0,University Ave,Madison,WI,,Great Harvest Bread Company,3258.0,University Ave,Madison,WI,
+374,Sushi Komasa,351.0,E 2nd St,Los Angeles,CA,,Son of a Gun,8370.0,W 3rd St,Los Angeles,CA,
+375,Suwanasak Thai Cuisine,811.0,S. Gammon Rd.,Madison,WI,,Chang Jiang,646.0,S Gammon Rd,Madison,WI,
+376,Suwanasak Thai Cuisine,811.0,S. Gammon Rd.,Madison,WI,,Chang Jiang Chinese Restaurant,646.0,S Gammon Rd,Madison,WI,
+377,Swagat Restaurant,707.0,N High Point Rd,Madison,WI,,Swagat,707.0,N High Point Rd,Madison,WI,
+378,Swagat Restaurant,707.0,N High Point Rd,Madison,WI,,Swagat Indian Restaurant,707.0,N Highpoint Rd,Madison,WI,
+379,Sweet Maple,2101.0,Sutter St,San Francisco,CA,,Sweet Maple,2101.0,Sutter St,San Francisco,CA,
+380,Sweet Maple,2101.0,Sutter St,San Francisco,CA,,Sweet Maple,2101.0,Sutter St,San Francisco,CA,
+381,Taco Bell,4120.0,E Washington Ave,Madison,WI,,Ellas Deli,2902.0,E Washington Ave,Madison,WI,
+382,Taco in a Bag,4703.0,N. Lincoln Ave,Chicago,IL,,Via Lima,4024.0,N Lincoln Ave,Chicago,IL,
+383,Taqueria Los Comales,2148.0,N. Milwaukee Ave,Chicago,IL,,Pot Pan,1362.0,N Milwaukee Ave,Chicago,IL,
+384,Teddywedgers,101.0,State St,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+385,Teddywedgers,101.0,State St,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+386,Teddywedgers,101.0,State St,Madison,WI,,Pita Pit,449.0,State St,Madison,WI,
+387,Tehuitzingo,695.0,10th Ave,New York,NY,,Pio Pio,604.0,10th Ave,New York,NY,
+388,Teriyaki Sushi Express,3044.0,Fish Hatchery Rd,Fitchburg,WI,,Chang Jiang,2935.0,S Fish Hatchery Rd,Fitchburg,WI,
+389,Teriyaki Sushi Express,3044.0,Fish Hatchery Rd,Fitchburg,WI,,Teriyaki Sushi Express,3044.0,Fish Hatchery Rd,Fitchburg,WI,
+390,Thai Noodles,5957.0,Mckee Rd,Fitchburg,WI,,Thai Noodles,5957.0,Mckee Rd,Fitchburg,WI,
+391,The Briks,1111.0,S Hope St,Los Angeles,CA,,Beau Ideal House of Beauty,714.0,S Los Angeles St,Los Angeles,CA,
+392,The Buena Vista,2765.0,Hyde St,San Francisco,CA,,Buena Vista Cafe,2765.0,Hyde St,San Francisco,CA,
+393,The Counter,725.0,W 7th St,Los Angeles,CA,,Beau Ideal House of Beauty,714.0,S Los Angeles St,Los Angeles,CA,
+394,The Counter,725.0,W 7th St,Los Angeles,CA,,Spear Steak & Seafood House,800.0,W 6th St,Los Angeles,CA,
+395,The Cricketers Arms,57.0,Murray St,New York,NY,,Shake Shack,215.0,Murray St,New York,NY,
+396,The Edison,108.0,W 2nd St,Los Angeles,CA,,Son of a Gun,8370.0,W 3rd St,Los Angeles,CA,
+397,The Escondite,410.0,Boyd St,Los Angeles,CA,,Beau Ideal House of Beauty,714.0,S Los Angeles St,Los Angeles,CA,
+398,The Escondite,410.0,Boyd St,Los Angeles,CA,,Son of a Gun,8370.0,W 3rd St,Los Angeles,CA,
+399,The Green Owl Cafe,1970.0,Atwood Ave,Madison,WI,,Lao Laan,2098.0,Atwood Ave,Madison,WI,
+400,The Green Owl Cafe,1970.0,Atwood Ave,Madison,WI,,The Green Owl,1970.0,Atwood Ave,Madison,WI,
+401,The Little Door,8164.0,W 3rd St,Los Angeles,CA,,Jack N Jills Too,8738.0,W 3rd St,Los Angeles,CA,
+402,The Little Door,8164.0,W 3rd St,Los Angeles,CA,,Kang Ho Dong Baekjeong,3465.0,W 6th St,Los Angeles,CA,
+403,The Little Door,8164.0,W 3rd St,Los Angeles,CA,,Men Oh Tokushima Ramen,456.0,E 2nd St,Los Angeles,CA,
+404,The Little Door,8164.0,W 3rd St,Los Angeles,CA,,Spear Steak & Seafood House,800.0,W 6th St,Los Angeles,CA,
+405,The Little Door,8164.0,W 3rd St,Los Angeles,CA,,Sun Nong Dan,3470.0,W 6th St,Los Angeles,CA,
+406,The Little Door,8164.0,W 3rd St,Los Angeles,CA,,The Little Easy,216.0,W 5th St,Los Angeles,CA,
+407,The Little Owl,90.0,Bedford St,New York,NY,,The Little Owl,90.0,Bedford St,New York,NY,
+408,The Meatball Shop,1462.0,2nd Ave,New York,NY,,Lan Larb,637.0,2nd Ave,New York,NY,
+409,The Nitty Gritty,223.0,N Frances St,Madison,WI,,Dotty Dumplings Dowry,317.0,N Frances St,Madison,WI,
+410,The Old Fashioned,23.0,N Pinckney St,Madison,WI,,The Old Fashioned,23.0,N Pinckney St,Madison,WI,
+411,The Pastry Cupboard,1596.0,Market St,San Francisco,CA,,Pasta Moto,845.0,Market St,San Francisco,CA,
+412,The Pastry Cupboard,1596.0,Market St,San Francisco,CA,,Super Duper Burgers,2304.0,Market St,San Francisco,CA,
+413,The Publican,837.0,W. Fulton Market,Chicago,IL,,The Publican,837.0,W Fulton Market,Chicago,IL,
+414,The Taco Shop,604.0,University Ave,Madison,WI,,The Taco Bros,604.0,E University Ave,Madison,WI,
+415,The Victory Madison,2710.0,Atwood Ave,Madison,WI,,Lao Laan,2098.0,Atwood Ave,Madison,WI,
+416,The Victory Madison,2710.0,Atwood Ave,Madison,WI,,Lao Laan,2098.0,Atwood Ave,Madison,WI,
+417,Three Dots and a Dash,435.0,N. Clark St,Chicago,IL,,Bill D.'s review of Chez Delisay Cajun Cuisin,6621.0,N Clark St,Chicago,IL,
+418,Tinga,142.0,S La Brea,Los Angeles,CA,,Tinga,142.0,S La Brea Ave,Los Angeles,CA,
+419,Tokyo Express,617.0,State St,Madison,WI,,Tokyo Express,617.0,State St,Madison,WI,
+420,Tommy's Mexican,5929.0,Geary Blvd,San Francisco,CA,,Colibri Mexican Bistro,438.0,Geary St,San Francisco,CA,
+421,Tony Maroni's Famous Gourmet,11645.0,Wilshire Blvd,Los Angeles,CA,,BCD Tofu House,3575.0,Wilshire Blvd,Los Angeles,CA,
+422,Tous Les Jours,31.0,West 32nd St,New York,NY,,St. Thomas Church Fifth Avenue,1.0,West 53rd St,New York,NY,
+423,True Coffee Roasters,6250.0,Nesbitt Rd,Fitchburg,WI,,Ten Pin Alley,6285.0,Nesbitt Rd,Fitchburg,WI,
+424,Tuba,1007.0,Guerrero St,San Francisco,CA,,Tuba,1007.0,Guerrero St,San Francisco,CA,
+425,Tuba,1007.0,Guerrero St,San Francisco,CA,,Tuba,1007.0,Guerrero St,San Francisco,CA,
+426,Umami Food Cart,700.0,State St,Madison,WI,,Alan Koa Salon & Spa,202.0,State St,Madison,WI,
+427,Umami Food Cart,700.0,State St,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+428,Umami Ramen & Dumpling Bar,923.0,Williamson St.,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+429,Umami Ramen & Dumpling Bar,923.0,Williamson St.,Madison,WI,,Ricks Olde Gold,1314.0,Williamson St Frnt,Madison,WI,
+430,Vee Vee's,6232.0,N. Broadway St,Chicago,IL,,Ping Pong,3322.0,N Broadway St,Chicago,IL,
+431,Via Lima,4024.0,N. Lincoln Ave,Chicago,IL,,Big Bricks,3832.0,N Lincoln Ave,Chicago,IL,
+432,Vibe,721.0,S Western Ave,Los Angeles,CA,,The Vape Shop,125.0,N Western Ave,Los Angeles,CA,
+433,Villa Dolce,1828.0,Parmenter St,Middleton,WI,,Villa Dolce,1828.0,Parmenter St,Middleton,WI,
+434,Village Pizzeria,131.0,N Larchmont Blvd,Los Angeles,CA,,Larchmont Village Wine Spirits & Cheese,223.0,N Larchmont Blvd,Los Angeles,CA,
+435,Vinoteque on Melrose,7469.0,Melrose Ave,Los Angeles,CA,,Franco On Melrose,6919.0,Melrose Ave,Los Angeles,CA,
+436,Vinoteque on Melrose,7469.0,Melrose Ave,Los Angeles,CA,,Vinoteque On Melrose,7469.0,Melrose Ave,Los Angeles,CA,
+437,Wasabi Japanese Restaurant,449.0,State St Ste 2G,Madison,WI,,Casa de Lara,341.0,State St,Madison,WI,
+438,Wasabi Japanese Restaurant,449.0,State St Ste 2G,Madison,WI,,Naf Naf Grill,555.0,State St,Madison,WI,
+439,Watertower Chop House,109.0,W Main St,Sun Prairie,WI,,Chang Jiang,984.0,W Main St,Sun Prairie,WI,
+440,Waypoint Public House,320.0,W Broadway,Madison,WI,,Waypoint Public House,320.0,W Broadway,Monona,WI,
+441,Weary Traveler Freehouse,1201.0,Williamson St,Madison,WI,,Lao Laan,1146.0,Williamson St,Madison,WI,
+442,Weary Traveler Freehouse,1201.0,Williamson St,Madison,WI,,Ricks Olde Gold,1314.0,Williamson St Frnt,Madison,WI,
+443,Wildberry Pancakes & Cafe,130.0,E. Randolph St,Chicago,IL,,Wildberry Pancakes and Cafe,130.0,E Randolph St,Chicago,IL,
+444,Willalby's Cafe,1351.0,Williamson St,Madison,WI,,Sali C.'s review of Lao Laan,1146.0,Williamson St,Madison,WI,
+445,Wings Over Madison,2739.0,University Ave,Madison,WI,,Don the Car Care Man,2008.0,University Ave,Madison,WI,
+446,Wings Over Madison,2739.0,University Ave,Madison,WI,,Great Harvest Bread Company,3258.0,University Ave,Madison,WI,
+447,Winton Deli,2042.0,W Winton Ave,Hayward,CA,,Winton Deli Cafe,2042.0,W Winton Ave,Hayward,CA,
+448,Woodhouse Fish Company,2073.0,Market St,San Francisco,CA,,The Hot Spot,1414.0,Market St,San Francisco,CA,
+449,Yang Chow,819.0,N Broadway,Los Angeles,CA,,The Heights Deli & Bottle Shop,2927.0,N Broadway,Los Angeles,CA,
+450,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,Los Angeles,CA,,Gam Ja Gol,3003.0,W Olympic Blvd,Los Angeles,CA,
+451,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,Los Angeles,CA,,Yu Chun Chic Naeng Myun,3185.0,W Olympic Blvd,Los Angeles,CA,
+452,Yum Yum Bangkok,650.0,9th Ave,New York,NY,,At nine Restaurant & Bar,592.0,9th Ave,New York,NY,
+453,Yum Yum Bangkok,650.0,9th Ave,New York,NY,,Riposo 46,667.0,9th Ave,New York,NY,
+454,Zuzu Cafe,1336.0,Drake St,Madison,WI,,ZuZu Cafe & Market,1336.0,Drake St,Madison,WI,
 0,bogota latin bistro,141.0,5th Ave,,,,asian bistro,70.0,7th Ave,,,
 1,monsignors restaurant,679.0,5th Ave,,,,morning star restaurant,879.0,9th Ave,,,
 2,bo ky restaurant,80.0,Bayard St,,,,69 bayard restaurant corp,69.0,Bayard St,,,
@@ -467,7 +467,7 @@
 15,franco on melrose,6919.0,Melrose Ave,,,,the foundry on melrose,7465.0,Melrose Ave,,,
 16,andres italian restaurant,6332.0,W 3rd St,,,,eva's lechon & restaurant,4252.0,W 3rd St,,,
 17,suehiro cafe,337.0,E 1st St,,,,suehiro cafe inc,337.0,E 1st St,,,
-18,golden mongolian restaurant,3012.0,Wilshire Blvd,,,,el buen gusto restaurant family,3140.0,Glendale Blvd,,Los Angeles,CA
+18,golden mongolian restaurant,3012.0,Wilshire Blvd,,,,el buen gusto restaurant family,3140.0,Glendale Blvd,Los Angeles,CA,
 19,golden mongolian restaurant,3012.0,Wilshire Blvd,,,,kuishimbo restaurant,4001.0,Wilshire Blvd,,,
 20,wilde wine bar & restaurant,320.0,South La Brea,,,,little kitchen restaurant,1292.0,S La Brea Ave,,,
 21,the park,1400.0,Sunset Blvd,,,,the pikey,7617.0,W Sunset Blvd,,,
@@ -546,7 +546,7 @@
 94,carnitas uruapan restaurant,1725.0,W 18th St,,,,magic restauraunt,3335.0,W 111th St,,,
 95,la griglia restaurant,2002.0,West Gray,,,,njoy restaurant,212.0,Westheimer Rd,,,
 96,osaka japanese restaurant ii,4001.0,Bellaire Blvd Ste J,,,,east wall chinese restaurant,9889.0,Bellaire Blvd Ste 301,,,
-97,kona grill,5061.0,Westheimer Rd,Houston Galleria,,,the capital grille,840.0,W Sam Houston Pkwy N,,,
+97,kona grill,5061.0,Westheimer Rd,,,Houston Galleria,the capital grille,840.0,W Sam Houston Pkwy N,,,
 98,up restaurant,3995.0,Westheimer Rd Fl 3rd,,,,abesha bar and restaurant,9100.0,Westheimer Rd Ste 637,,,
 99,tan tan restaurant,8066.0,Westheimer Rd,,,,chuan's chinese restaurant,5901.0,Westheimer Rd,,,
 100,kim tai restaurant,2602.0,Fannin St,,,,kim tai restaurant,2602.0,Fannin St,,,
@@ -623,7 +623,7 @@
 171,islands restaurant,21001.0,N Tatum Blvd Ste 36-1160,,,,kampai japanese restaurant,2945.0,E Bell Rd Ste 102,,,
 172,canyon cafe,455.0,N 3rd St Ste 114,,,,cayon cafe,455.0,N 3rd St Ste 114,,,
 173,juans authentic mexican food,1516.0,E Thomas Rd,,,,la paloma mexican food,519.0,W Thomas Rd,,,
-174,paradise bakery & cafe,3.0,3400 E Sky Harbor Blvd,Phoenix Sky Harbor Int'l Airport Terminal,,,paradise bakery & cafe,3400.0,E Sky Harbor Blvd,,,
+174,paradise bakery & cafe,3.0,3400 E Sky Harbor Blvd,,,Phoenix Sky Harbor Int'l Airport Terminal,paradise bakery & cafe,3400.0,E Sky Harbor Blvd,,,
 175,maxim restaurant,3424.0,N 19th Ave,,,,wingstop restaurant,1515.0,N 7th Ave Ste 152,,,
 176,lunch time cafe,3330.0,N 35th Ave,,,,lunch time cafe,3330.0,N 35th Ave Ste 1,,,
 177,la oaxaquena mexican restaurant,10430.0,N 19th Ave Ste 7,,,,mi patio mexican restaurant,3347.0,N 7th Ave,,,
@@ -671,7 +671,7 @@
 219,zinburger,2502.0,East Camelback Rd Ste 127,,,,hamburger haven,507.0,W Thomas Rd Ste FRNT,,,
 220,the corner cityscape,50.0,W Jefferson St,,,,chloe's corner,50.0,W Jefferson St Ste 100,,,
 221,sabas mediterranean kitchen,4747.0,E Bell Rd,,,,saba's mediterranean cuisine,4747.0,E Bell Rd Ste 5,,,
-222,north italia,4925.0,N 40th St,North Arcadia,,,north arcadia,4925.0,N 40th St,,,
+222,north italia,4925.0,N 40th St,,,North Arcadia,north arcadia,4925.0,N 40th St,,,
 223,chanpen thai cuisine,2727.0,E Broadway Rd,,,,chanpen thai cuisine,2727.0,E Broadway Rd,,,
 224,new garden restaurant,823.0,S Central Ave,,,,new garden restaurant,823.0,S Central Ave,,,
 225,thai basil signature,114.0,W Adams St Ste 104,,,,thai basil,4221.0,E Chandler Blvd Ste 106,,,
@@ -767,7 +767,7 @@
 315,atomic pie,9660.0,Audelia Rd Ste 117,,,,atomic pie,9660.0,Audelia Rd #117,,,
 316,salum restaurant,4152.0,Cole Ave Ste 103,,,,wingstop restaurant,3400.0,Lombardy Ln Ste 107,,,
 317,grimaldis pizzeria,8060.0,Park Ln Ste 105,,,,carmine's pizzeria,5365.0,Spring Valley Rd Ste 138,,,
-318,kona grill,8687.0,N Central Exwy,Northpark center,,,kona grill,8687.0,N Central Expy Ste 1722,,,
+318,kona grill,8687.0,N Central Exwy,,,Northpark center,kona grill,8687.0,N Central Expy Ste 1722,,,
 319,dal dong ne,11445.0,Emerald St Ste 109,,,,dal dong nae korean restaurant,11445.0,Emerald St,,,
 320,momo italian kitchen,8989.0,Forest Ln Ste 130,,,,momo's italian specialties,9191.0,Forest Ln Ste A2,,,
 321,mangiamo italian restaurant,12835.0,Preston Rd Ste 220,,,,la libela restaurant,9191.0,Forest Ln Ste 2,,,
@@ -802,7 +802,7 @@
 350,gonzales mexican food restaurant,8121.0,Bruton Rd,,,,shang hai restaurant,12817.0,Preston Rd Ste 132,,,
 351,texas land & cattle,3130.0,Lemmon Ave.,,,,texas land & cattle,3130.0,Lemmon Ave,,,
 352,emilios cafe,2006.0,S. Ervay,,,,new tops cafe,418.0,S Ervay St,,,
-353,palomino restaurant & bar,500.0,Crescent Ct Ste 165,The Crescent Atrium,,,ams restaurants,5626.0,Preston Oaks Rd Ste 15,,,
+353,palomino restaurant & bar,500.0,Crescent Ct Ste 165,,,The Crescent Atrium,ams restaurants,5626.0,Preston Oaks Rd Ste 15,,,
 354,henderson tap house,2323.0,N Henderson Ave Ste 101-102,,,,j blacks dallas henderson ave,2409.0,N Henderson Ave,,,
 355,jennys kitchen,5175.0,Moorpark Ave Ste 5,,,,the charming kitchen,1053.0,Lincoln Ave Ste 100,,,
 356,thai elephant express,3005.0,Silver Creek Rd Ste 128,,,,panda express,4898.0,San Felipe Rd Ste 140,,,
@@ -829,8 +829,8 @@
 377,tandoori oven,150.0,S 1st St Ste 107,,,,tandoori bites,3730.0,N 1st St,,,
 378,evergreen coffee company,4075.0,Evergreen Village Sq Ste 150,,,,coffee chai,90.0,Skyport Dr Ste 130,,,
 379,miyabitei japanese restaurant,675.0,Saratoga Ave,,,,yas restaurant,1138.0,Saratoga Ave,,,
-380,mosaic restaurant,211.0,S 1st St,Four Points Sheraton,,,teske's germania restaurant,255.0,N 1st St,,,
-381,mosaic restaurant,211.0,S 1st St,Four Points Sheraton,,,la penita restaurant,601.0,S 1st St,,,
+380,mosaic restaurant,211.0,S 1st St,,,Four Points Sheraton,teske's germania restaurant,255.0,N 1st St,,,
+381,mosaic restaurant,211.0,S 1st St,,,Four Points Sheraton,la penita restaurant,601.0,S 1st St,,,
 382,red rose restaurant and catering,30.0,E Santa Clara St,,,,flames restaurant,7170.0,Santa Teresa Blvd,,,
 383,red rose restaurant and catering,30.0,E Santa Clara St,,,,seven seas sushi japanese restaurant,130.0,E. Santa Clara St,,,
 384,the fish market,1007.0,Blossom Hill Rd,,,,boston market,880.0,Blossom Hill Rd,,,

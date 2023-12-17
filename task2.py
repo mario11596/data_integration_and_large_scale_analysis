@@ -1,5 +1,5 @@
 from __future__ import annotations
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from enum import Enum
 import os
 import re
@@ -121,8 +121,8 @@ def separate_address(input_csv: os.PathLike) -> pd.DataFrame:
     #go through address
     # city, state, street, streetnumber + remaining id
     #print(newdf)
-    header = ['lname', 'lStreetNumber', 'lStreetAddress', 'lExtraInfo', 'lCity', 'lState', 
-              'rname', 'rStreetNumber', 'rStreetAddress', 'rExtraInfo', 'rCity', 'rState']
+    header = ['lname', 'lStreetNumber', 'lStreetAddress', 'lCity', 'lState', 'lExtraInfo',
+              'rname', 'rStreetNumber', 'rStreetAddress', 'rCity', 'rState', 'rExtraInfo']
     df = pd.DataFrame.from_dict(newdf, orient='index', columns=header)
     df = df.dropna(how='all', subset=['lname', 'rname', 'lStreetNumber', 'rStreetNumber'])
     drop_idx = df[df['lname'] == 'ltable.NAME'].index
