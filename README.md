@@ -1,6 +1,46 @@
 # data_integration_and_large_scale_analysis
 Project from course Data Integration and Large Scale Analysis on TU Graz
 
+## How to Run:
+**Windows**
+ - run_install_requirements.bat - will run pip install for all required libraries
+ - run_task_TASKNUMBER.bat will run the respective task.
+ - OPTIONAL: run_uninstall_requirements.bat - will run pip uninstall for all previously installed libraries
+
+**Linux**
+ - you might need to run "chmod u+x SCRIPTNAME" before calling "./SCRIPTNAME" for the following scripts 
+ - run_install_requirements.sh - will run pip install for all required libraries
+ - run_task_TASKNUMBER.sh will run the respective task.
+ - OPTIONAL: run_uninstall_requirements.sh - will run pip uninstall for all previously installed libraries
+
+## Task 1:
+ - Cleaning and Encoding
+     - The ADDRESS and PHONENUMBER Columns are separated into city, state and phone area code
+     - Missing values of city, state or phone area code are created using the other two if possible  
+         (e.g. missing state recontstructed from phone area code, etc.)
+     - Entries with still missing city, state or phone are code are dropped
+     - Delete records with only numbers in the name
+     - Remove all symbols from the name column
+     - Delete all records with an empty name
+     - Encode State and City strings
+ - Blocking and Deduplication
+     - Create Blocks using State strings, City strings, First word of the Name and phone area code numbers
+     - Find duplicates of each block using cosine similarity to compare names over a certain threshold
+     - Delete these duplicates
+     - Find duplicates between the same blocks of each respective csv file using same method as mentioned above
+ - Scoring
+     - Use list of duplicates from previous point and compare them to the labeled_data.csv
+     - Return Accuracy and additional information (e.g. true positive(tp), true negative(tn), etc.)
+     - Using strings rather than encoding gives better accuracy and is therefore preferred
+
+## Task 2:
+
+## Extra Output:
+ - **data folder**:
+     - TABLENAME\_loc\_cleaned.csv is the cleaned file of restaurants
+     - city_names.csv list of all unique city names with their states and phone area codes
+  
+<!--
 Address:
     Identify different Segments (separated by ",")
         If less than 3 reject
@@ -68,4 +108,4 @@ Address:
         find_duplicates(blocksM) -> idsM
         create_comparison(outputfile1, outputfile2, idsM) -> outputfileM
         evaluate(outputfileM, labeled_data) -> percentage, extra info, etc.
-
+-->

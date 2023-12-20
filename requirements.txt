@@ -1,4 +1,6 @@
 pandas
 phonenumbers
-sklearn.preprocessing
-category_encoders
+scikit-learn
+category-encoders
+configparser
+nltk
