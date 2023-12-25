@@ -1,4 +1,4 @@
 @ECHO OFF
 ECHO running task 2
-python task2.py
+python machine_learning.py
 PAUSE

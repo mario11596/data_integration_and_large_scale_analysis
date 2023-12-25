@@ -4,3 +4,4 @@ scikit-learn
 category-encoders
 configparser
 nltk
+numpy
