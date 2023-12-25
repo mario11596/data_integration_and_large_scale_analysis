@@ -6,7 +6,6 @@ import re
 import numpy as np
 import pandas as pd
 import configparser
-import category_encoders as ce
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import KFold, GridSearchCV
@@ -48,8 +47,6 @@ replace = {"street": " St",
 
 ignore = {'ste', 'suite'}
 
-#TODO how to handle numbers in streetnames (e.g 9th St, Suite 112, etc.)
-#TODO two entries are edgecases and cant be handled properly (187,188 in sep_address), maybe consider removing those two entries?
 
 def parse_address(address: str) -> AddressInfo:
     info = AddressInfo()
@@ -64,10 +61,8 @@ def parse_address(address: str) -> AddressInfo:
                         info.streetnumber = int(re.search(r'\d+', word).group(0))
                         current_state = AddressState.NAME.value
                     elif info.extra is None:
-                        #info.streetnumber = -1
                         info.extra = word
                     else:
-                        #info.streetnumber = -1
                         info.extra += ' '
                         info.extra += word
                 case AddressState.NAME:
@@ -122,10 +117,7 @@ def separate_address(input_csv: os.PathLike) -> pd.DataFrame:
         new_entry.extend(infor.as_list)
         newdf[idx] = new_entry
         idx += 1
-    #for row in inputdf.iterrows():
-    #go through address
-    # city, state, street, streetnumber + remaining id
-    #print(newdf)
+
     header = ['lname', 'lStreetNumber', 'lStreetAddress', 'lCity', 'lState', 'lExtraInfo',
               'rname', 'rStreetNumber', 'rStreetAddress', 'rCity', 'rState', 'rExtraInfo']
     df = pd.DataFrame.from_dict(newdf, orient='index', columns=header)
@@ -221,7 +213,7 @@ def main():
     separated_addresses1 = separate_address(input_file)
     separated_addresses2 = separate_address(pred_file)
 
-    #concat and export to csv file only for debugging purposes.
+    #concat and export to csv file only for debugging purposes
     frames = [separated_addresses1, separated_addresses2]
     concat_file = pd.concat(frames)
     concat_file.to_csv(out_file, ",")
