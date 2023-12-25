@@ -21,3 +21,6 @@ At the beginning of the task, we noticed that the "address" column contains the 
 The machine learning model we applied is Support Vector Machine. We decided on it because of the type of dataset, i.e. binary classification and the possibility of overfitting due to the imbalance between positive and negative classification.
 
 Hyperparametric search was done using the "GridSearchCV" method. A set of possible parameters was defined and tested, namely: C, gamma and kernel. Also, during the search for the best parameters, 3-fold cross-validation was used. After the search was done, the parameters with which the model achieved the best average accuracy were automatically taken. Furthermore, the training of the model in 3-fold cross-validation was again carried out with these parameters. The model was tested with predictX.csv dataset and achieved an accuracy of 74.25%.
+
+### Files
+Code for this task is in the file machine_learning.py
