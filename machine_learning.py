@@ -126,7 +126,6 @@ def separate_address(input_csv: os.PathLike) -> pd.DataFrame:
     df = df.drop(drop_idx, axis=0)
     return df
 
-
 def feature_encodig(dataset):
     dataset['lStreetAddress'] = dataset['lStreetAddress'].fillna('')
 
@@ -149,7 +148,7 @@ def machine_learning(dataset_train, dataset_predict):
 
     # edge case, problem with street number in these two records
     dataset_train = dataset_train.drop(labels=[190, 191], axis=0)
-    target = target.drop(labels=[188, 189], axis=0)
+    target = target.drop(labels=[190, 191], axis=0)
 
     model = SVC()
 
@@ -214,9 +213,9 @@ def main():
     separated_addresses2 = separate_address(pred_file)
 
     #concat and export to csv file only for debugging purposes
-    frames = [separated_addresses1, separated_addresses2]
-    concat_file = pd.concat(frames)
-    concat_file.to_csv(out_file, ",")
+    #frames = [separated_addresses1, separated_addresses2]
+    #concat_file = pd.concat(frames)
+    #concat_file.to_csv(out_file, ",")
 
     separated_addresses1 = data_correction(separated_addresses1)
     separated_addresses1 = feature_encodig(separated_addresses1)
