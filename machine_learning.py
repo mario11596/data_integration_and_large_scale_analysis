@@ -16,7 +16,6 @@ config.read('config.ini')
 config = config['default']
 input_file = os.path.join(config["filepath_data"], config['filename_comp'])
 pred_file = os.path.join(config["filepath_data"], config['filename_pred'])
-out_file = os.path.join(config["filepath_data"], config['filename_out3'])
 gold_file = os.path.join(config["filepath_data"], config['filename_gold'])
 
 
@@ -37,6 +36,7 @@ class AddressInfo:
     @property
     def as_list(self):
         return [self.streetnumber, self.street, self.city, self.state, self.extra]
+
 
 replace = {"street": " St",
            "avenue": " Ave",
@@ -126,6 +126,7 @@ def separate_address(input_csv: os.PathLike) -> pd.DataFrame:
     df = df.drop(drop_idx, axis=0)
     return df
 
+
 def feature_encodig(dataset):
     dataset['lStreetAddress'] = dataset['lStreetAddress'].fillna('')
 
@@ -148,16 +149,15 @@ def machine_learning(dataset_train, dataset_predict):
 
     # edge case, problem with street number in these two records
     dataset_train = dataset_train.drop(labels=[190, 191], axis=0)
-    target = target.drop(labels=[190, 191], axis=0)
+    target = target.drop(index=[188, 189], axis=0)
 
     model = SVC()
 
     print("Grid search is running!")
 
-    # hyperparameter Tuning with GridSearchCV
     param_options = {
-        'C': [0.01, 0.1, 0.5, 1, 10, 100, 300, 500, 1000],
-        'gamma': [1, 0.5, 0.1, 0.01, 0.001, 0.005, 0.0001],
+        'C': [0.1, 0.5, 1, 10, 100, 300, 500],
+        'gamma': [1, 0.5, 0.1, 0.01, 0.001, 0.005],
         'kernel': ['rbf', 'sigmoid'],
     }
 
@@ -173,7 +173,6 @@ def machine_learning(dataset_train, dataset_predict):
 
     print("Best Parameters: ", grid_search.best_params_)
 
-    # train model with best parameters found by GridSearchCV
     model = SVC(C= grid_search.best_params_['C'], gamma=grid_search.best_params_['gamma'], kernel=grid_search.best_params_['kernel'])
 
     three_fold_cv = KFold(n_splits=3, shuffle=True, random_state=42)
@@ -190,10 +189,10 @@ def machine_learning(dataset_train, dataset_predict):
         accuracy = accuracy_score(y_test, y_pred)
         cv_ml_scores.append(accuracy)
 
-        print(f"Accuracy for fold {i}: {accuracy:.4f}")
+        print(f"Accuracy for fold {i} is {accuracy:.4f}")
         i += 1
 
-    print("\nCross-Validation Scores:", cv_ml_scores)
+    print("\nCross-validation Scores for k=3 is", cv_ml_scores)
 
     prediction = model.predict(dataset_predict)
 
@@ -211,11 +210,6 @@ def data_correction(dataset):
 def main():
     separated_addresses1 = separate_address(input_file)
     separated_addresses2 = separate_address(pred_file)
-
-    #concat and export to csv file only for debugging purposes
-    #frames = [separated_addresses1, separated_addresses2]
-    #concat_file = pd.concat(frames)
-    #concat_file.to_csv(out_file, ",")
 
     separated_addresses1 = data_correction(separated_addresses1)
     separated_addresses1 = feature_encodig(separated_addresses1)
