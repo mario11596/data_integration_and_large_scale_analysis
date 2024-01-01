@@ -1,11 +1,20 @@
 from __future__ import annotations
-from dataclasses import dataclass
+from dataclasses import dataclass, field
+import os
 import re
 import pandas as pd
 import phonenumbers as phn
 from phonenumbers import geocoder
 from phonenumbers import PhoneNumber
+import configparser
 import category_encoders as ce
+from blocking_schema import (
+    blocking_schema,
+    find_duplicate_in_cluster,
+    find_duplicate_between_clusters 
+)
+from scoring import scoring
+from deleteDuplicates import delete_duplicates
 
 #TODO no address also dropped?, 
 #     first phone area good enought?
@@ -14,6 +23,16 @@ import category_encoders as ce
 #decide if New York == NY/Queens/Brooklyn/etc.? or stay with NY/Queens/Brooklyn
 #   e.g 243 W 38th Street, New York, NY, NY
 #       943 Coney Island Avenue, Brooklyn, NY, NY
+
+config = configparser.ConfigParser()
+config.read('config.ini')
+config = config['default']
+input_file1 = os.path.join(config["filepath_data"], config['filename_orig1'])
+input_file2 = os.path.join(config["filepath_data"], config['filename_orig2'])
+output_file1 = os.path.join(config["filepath_data"], config['filename_out1'])
+output_file2 = os.path.join(config["filepath_data"], config['filename_out2'])
+compare_file = os.path.join(config["filepath_data"], config['filename_comp'])
+threshold = float(config['threshold'])
 
 states = {
     'Alaska' : 'AK',
@@ -87,7 +106,7 @@ class LocationInfo:
     phone_area: list
     city: str
     state: str
-    phonenumber: PhoneNumber
+    phonenumber: PhoneNumber = field(repr=False)
 
 def parse_segments(address_segments: list(str)) -> tuple(str, str):
     city = None
@@ -159,7 +178,7 @@ def add_to_map(location: LocationInfo, region_map: dict):
         region_map[location.city].append(location)
     return
 
-def write_table(df_table: pd.DataFrame, region_map: dict, location_list: list(LocationInfo), output_name: str):
+def write_table(df_table: pd.DataFrame, location_list: list(LocationInfo), output_name: os.PathLike):
     df_table = df_table.drop("RATING", axis=1)
     df_table = df_table.drop("NO_OF_REVIEWS", axis=1)
     
@@ -167,19 +186,22 @@ def write_table(df_table: pd.DataFrame, region_map: dict, location_list: list(Lo
     df_table["STATE"] = [entry.state for entry in location_list]
     df_table["PHONEAREACODE"] = [''.join(entry.phone_area) for entry in location_list]
     
-    with open("data/" + output_name + ".csv", "w") as output_file:
-        df_table.to_csv(output_file, ",", index=False)
+    #with open(output_name, "w") as output_file:
+    df_table.to_csv(output_name, ",", index=False)
     return
 
-def write_debug(region_map: dict, output_name: str):
-    cities_list = pd.DataFrame(list(region_map.items()))
+def write_debug(region_map: dict, output_name: os.PathLike):
+    region_list = [(entry, set(ele.state for ele in region_map[entry]), 
+                           set(ele.phone_area[0] for ele in region_map[entry]),
+                           set(ele.phone_area[1] for ele in region_map[entry]))
+                    for entry in region_map]
+    cities_list = pd.DataFrame(region_list)
 
-    with open("data/" + output_name + ".csv", "w") as output_file:
-        cities_list.to_csv(output_file, ",", index=False)
-        pass
+    #with open(output_name, "w") as output_file:
+    cities_list.to_csv(output_name, ",", index=False, header = ["City", "State", "AreaCode1", "AreaCode2"])
     return
 
-def clean_address(csv_file, output_name: str):
+def clean_address(csv_file: os.PathLike, output_name: os.PathLike):
     df_table = pd.read_csv(csv_file)
     
     region_map = {}
@@ -220,12 +242,12 @@ def clean_address(csv_file, output_name: str):
     
     percentage = (rejected_records / total_records) * 100
     print(f'{rejected_records}/{total_records} ({percentage:.2f}%) rejected.')
-    write_table(df_table, region_map, location_list, output_name)
-    write_debug(region_map, "city_names")
+    write_table(df_table, location_list, output_name)
+    write_debug(region_map, os.path.join("data", "city_names.csv"))
     return
 
 
-def filter_columns_file(output):
+def filter_columns_file(output: os.PathLike):
     data_file = pd.read_csv(filepath_or_buffer=output, delimiter=',', low_memory=False)
 
     # delete records with only numbers in name
@@ -242,7 +264,7 @@ def filter_columns_file(output):
     data_file.to_csv(output, index=False, sep=',')
 
 
-def state_feature_encoding(output):
+def state_feature_encoding(output: os.PathLike):
     data_file = pd.read_csv(filepath_or_buffer=output, delimiter=',', low_memory=False)
 
     encoder = ce.BaseNEncoder(cols=['STATE'], return_df=True, base=8)
@@ -250,7 +272,7 @@ def state_feature_encoding(output):
     data_file.to_csv(output, index=False, sep=',')
 
 
-def city_feature_encoding(output):
+def city_feature_encoding(output: os.PathLike):
     data_file = pd.read_csv(filepath_or_buffer=output, delimiter=',', low_memory=False)
 
     encoder = ce.TargetEncoder(cols=['CITY'])
@@ -259,7 +281,7 @@ def city_feature_encoding(output):
     data_file.to_csv(output, index=False, sep=',')
 
 
-def cleaning_feature_encoding(output : str):
+def cleaning_feature_encoding(output: os.PathLike):
     filter_columns_file(output)
     state_feature_encoding(output)
     city_feature_encoding(output)
@@ -268,15 +290,29 @@ def cleaning_feature_encoding(output : str):
 
 
 def main():
-   with open("data/yelp.csv", "+r") as yelp_csv:
-        clean_address(yelp_csv, "yelp_loc_cleaned")
-   cleaning_feature_encoding("data/yelp_loc_cleaned.csv")
-        
-   with open("data/zomato.csv", "+r") as zomato_csv:
-        clean_address(zomato_csv, "zomato_loc_cleaned")
-   cleaning_feature_encoding("data/zomato_loc_cleaned.csv")
-        
-   return
+    #with open(input_file1, "+r") as yelp_csv:
+    clean_address(input_file1, output_file1)
+    #with open(output_file1, "r+") as csv_file:
+    cleaning_feature_encoding(output_file1)
+    blocks1 = blocking_schema(output_file1)
+    dup_list1 = find_duplicate_in_cluster(blocks1, threshold)
+    delete_duplicates(dup_list1, output_file1)
+
+    #with open(input_file2, "+r") as zomato_csv:
+    clean_address(input_file2, output_file2)
+    #with open(output_file2, "r+") as csv_file:
+    cleaning_feature_encoding(output_file2)
+    blocks2 = blocking_schema(output_file2)
+    dup_list2 = find_duplicate_in_cluster(blocks2, threshold)
+    delete_duplicates(dup_list2, output_file2)
+
+    dup_list_both = find_duplicate_between_clusters(blocks1, blocks2, threshold, idadjust2=-1)
+    #print(dup_list_both[0][:10])
+    accuracy = scoring(compare_file, dup_list_both)
+    #potential creation of output file
+    #print(accuracy)
+
+    return
 
 
 if __name__ == "__main__":
