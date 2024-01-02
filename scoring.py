@@ -78,6 +78,7 @@ def scoring(csv_file: os.PathLike, matching_restaurant: dict) -> float:
         elif (rtable not in data_file['rtable._id'].values) and gold == 1:
             cla.tp += 1
             cla.new_matches += 1
+            new_matches.append(("Yelp: " + str(rtable), "Zomato: " + str(ltable)))
 
         elif (rtable not in data_file['rtable._id'].values) and gold == 0:
             cla.tn += 1
@@ -95,8 +96,6 @@ def scoring(csv_file: os.PathLike, matching_restaurant: dict) -> float:
 
     print(f"The number of matches records which are also in labeld_data.csv file: {cla.same_matches}")
     print(f"The number of matches records which are NOT in labeld_data.csv file: {cla.new_matches}")
-    print(f"The additional matches records: {new_matches}")
-
-
-if __name__ == "__main__":
-    scoring()
+    print(f"The additional IDs of matches records:")
+    for record_tuple in new_matches:
+        print("\n", record_tuple)
