@@ -3,19 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="231547b1-4e49-4147-a192-c793669e51f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README_task1.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_task1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README_task2.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_task2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocking_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/blocking_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/city_names.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/city_names.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sep_address.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/yelp_loc_cleaned_old.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deleteDuplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/deleteDuplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoring.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoring.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
