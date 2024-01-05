@@ -78,7 +78,7 @@ def scoring(csv_file: os.PathLike, matching_restaurant: dict) -> float:
         elif (rtable not in data_file['rtable._id'].values) and gold == 1:
             cla.tp += 1
             cla.new_matches += 1
-            new_matches.append(("Yelp: " + str(rtable), "Zomato: " + str(ltable)))
+            new_matches.append(("Yelp: " + str(rtable + 1), "Zomato: " + str(ltable)))
 
         elif (rtable not in data_file['rtable._id'].values) and gold == 0:
             cla.tn += 1
