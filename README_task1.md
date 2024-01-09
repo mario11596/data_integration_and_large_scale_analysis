@@ -3,13 +3,13 @@
 ## How to Run:
 **Windows**
  - run_install_requirements.bat - will run pip install for all required libraries
- - run_task_1.bat will run the respective task.
+ - run_task1.bat will run the respective task.
  - OPTIONAL: run_uninstall_requirements.bat - will run pip uninstall for all previously installed libraries
 
 **Linux**
  - you might need to run "chmod u+x SCRIPTNAME" before calling "./SCRIPTNAME" for the following scripts 
  - run_install_requirements.sh - will run pip install for all required libraries
- - run_task_1.sh will run the respective task.
+ - run_task1.sh will run the respective task.
  - OPTIONAL: run_uninstall_requirements.sh - will run pip uninstall for all previously installed libraries
 
 ## Description

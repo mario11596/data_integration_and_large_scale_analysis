@@ -3,20 +3,20 @@
 ## How to Run:
 **Windows**
  - run_install_requirements.bat - will run pip install for all required libraries
- - run_task_2.bat will run the task.
+ - run_task2.bat will run the task.
 - In terminal it can be seen results of hyper-parametric search, accuracy for the 3-fold cross validation with best parameters, and the final accuracy with test dataset
  - OPTIONAL: run_uninstall_requirements.bat - will run pip uninstall for all previously installed libraries
 
 **Linux**
  - you might need to run "chmod u+x SCRIPTNAME" before calling "./SCRIPTNAME" for the following scripts 
  - run_install_requirements.sh - will run pip install for all required libraries
- - run_task_2.sh will run the task.
+ - run_task2.sh will run the task.
  - In terminal it can be seen results of hyper-parametric search, accuracy for the 3-fold cross validation with best parameters, and the final accuracy with test dataset
  - OPTIONAL: run_uninstall_requirements.sh - will run pip uninstall for all previously installed libraries
 
 
 ## Description
-First, we started by separating and manipulating the dataset to have a proper shape. It was noticed that the "address" (ltable.ADDRESS, rtable.ADDRESS) columns contain the following information: country (state), city, address name, address number. We separated all this data into separate columns, after we took the name of the restaurant, the name of the address and the number of the address for the purposes of training the model. We decided for this data since this features are also available in the test dataset and it is not possbile to train the model on more features than the test csv has. The next step was to transformed all strings into numbers. Method which has been used is called TfidfVectorizer, and it transformed dataset into TF-IDF features. Since this method gives vectors of different lengths for each record, we transformed the vectors by using the mean for the each vector. In this way, a number was obtained which replaces the string.
+First, we started by separating and manipulating the dataset to have a proper shape. It was noticed that the "address" (ltable.ADDRESS, rtable.ADDRESS) columns contain the following information: country (state), city, address name, address number. We separated all this data into separate columns, after we took the name of the restaurant, the name of the address and the number of the address for the purposes of training the model. We decided for this data since this features are also available in the test dataset and it is not possbile to train the model on more features than the test csv has. The next step was to transformed all strings into numbers. The method which we use for is called TfidfVectorizer which transformed dataset into TF-IDF features. Since this method gives vectors of different lengths for each record, we transformed the vectors by using the mean for the each vector. In this way, a number was obtained which replaces the string.
 
 The machine learning model which has been applied is Support Vector Machine. We decided on it because of the type of dataset, i.e. binary classification and the possibility of overfitting because of the imbalance between positive and negative classifications.
 
