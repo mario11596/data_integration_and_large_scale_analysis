@@ -84,10 +84,8 @@ def scoring(csv_file: os.PathLike, matching_restaurant: dict) -> float:
             cla.tn += 1
 
     acc = ((cla.tp + cla.tn) / (cla.tp + cla.tn + cla.fp + cla.fn)) * 100
-    dup_acc = ((cla.tp) / (cla.tp + cla.fp + cla.fn)) * 100
 
     print(f"Accuracy of pipeline is {acc}")
-    print(f"Duplicates accuracy of pipeline is {dup_acc}")
 
     print(f"TP is {cla.tp}")
     print(f"TN is {cla.tn}")
