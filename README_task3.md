@@ -19,7 +19,8 @@
 To clean the Yelp_error file we apply two main methods. 
 Firstly we look for missing Values in PHONENUMBER and replace them with a more sensable String. 
 Secondly we look at both NAME and ADDRESS and try and fix the existing Typos with the help of regex. 
-After applying these the resulting table is compared to the original Yelp.csv file and its accuracy and various other types of Information is reported.
+After applying these the resulting table is compared to the original Yelp.csv file and its accuracy of 93.57% is reported.
+In addition we also report the amount of corrupted and fixed instances: 6044 as well as the specific types of errors per entry, namely the amount of typos: 11737 and missing values: 162. 
 
 ## Files
 Code for this task is in the file error_cleaning.py
