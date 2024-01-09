@@ -12,26 +12,6 @@
  - run_task_1.sh will run the respective task.
  - OPTIONAL: run_uninstall_requirements.sh - will run pip uninstall for all previously installed libraries
 
-## Task 1:
- - Cleaning and Encoding
-     - The ADDRESS and PHONENUMBER Columns are separated into city, state and phone area code
-     - Missing values of city, state or phone area code are created using the other two if possible  
-         (e.g. missing state recontstructed from phone area code, etc.)
-     - Entries with still missing city, state or phone are code are dropped
-     - Delete records with only numbers in the name
-     - Remove all symbols from the name column
-     - Delete all records with an empty name
-     - Encode State and City strings
- - Blocking and Deduplication
-     - Create Blocks using State strings, City strings, First word of the Name and phone area code numbers
-     - Find duplicates of each block using cosine similarity to compare names over a certain threshold
-     - Delete these duplicates
-     - Find duplicates between the same blocks of each respective csv file using same method as mentioned above
- - Scoring
-     - Use list of duplicates from previous point and compare them to the labeled_data.csv
-     - Return Accuracy and additional information (e.g. true positive(tp), true negative(tn), etc.)
-     - Using strings rather than encoding gives better accuracy and is therefore preferred
-
 ## Description
 First, the columns "NO_OF_REVIEWS" and "RATING" are dropped from both csv files. Furthermore we separate both ADDRESS and PHONENUMBER columns into separate city, state and phone area code columns. Using the link between these three datapoints and a dictionary which saves the complete links between city, state and phone area code, it is possible to reconstruct missing info if at least two others are present (e.g. city and phone area code can give us info about the state, etc...). The remaining entries which are not able to achieve these three entries are dropped.
 By analyzing the data, it was noticed that we need to delete strange symbols, delete records that have only numbers or that contain null as a name. First, we delete records that contain only numbers as the name of the restaurant. We considered such records to be errors, so they do not need to be in the dataset. Furthermore, we deleted all characters from the column name that were not numbers or letters, or ordinary symbols. After applying this technique, some records become null in the restaurant name column, and therefore need to be deleted. After these methods, we applied feature encoding. We replaced the country names using the BaseNEncode method with base=8, while we apply the TargetEncoder method to the city names, where the target was "PHONEAREACODE". After calculating the accuracy at the end of the task, it was noticed that a better result was achieved by using strings instead of the encoding.
