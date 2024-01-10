@@ -107,13 +107,11 @@ def parse_segments(address_segments: list(str)) -> tuple(str, str):
         if segment is None or segment == "":
             continue
         if state is None:
-            #if any(char.isdigit() for char in segment):
             pattern = re.compile("[A-Z][A-Z]")
             found_match = re.search(pattern, segment)
             if found_match:
                 state = found_match.group(0)
                 continue
-                #print(state)
                 
         if city is None and any(char.isdigit() for char in segment) is False:
             pattern = re.compile("[A-Z][A-Z]")

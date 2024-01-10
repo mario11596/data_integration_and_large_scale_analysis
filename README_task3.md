@@ -4,14 +4,14 @@
 **Windows**
  - run_install_requirements.bat - will run pip install for all required libraries
  - run_task3.bat will run the task.
-- In terminal it can be seen results of hyper-parametric search, accuracy for the 3-fold cross validation with best parameters, and the final accuracy with test dataset
+- In terminal it can be seen results of the cleaning dataset
  - OPTIONAL: run_uninstall_requirements.bat - will run pip uninstall for all previously installed libraries
 
 **Linux**
  - you might need to run "chmod u+x SCRIPTNAME" before calling "./SCRIPTNAME" for the following scripts 
  - run_install_requirements.sh - will run pip install for all required libraries
  - run_task3.sh will run the task.
- - In terminal it can be seen results of hyper-parametric search, accuracy for the 3-fold cross validation with best parameters, and the final accuracy with test dataset
+ - In terminal it can be seen results of the cleaning dataset
  - OPTIONAL: run_uninstall_requirements.sh - will run pip uninstall for all previously installed libraries
 
 

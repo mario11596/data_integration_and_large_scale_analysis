@@ -22,13 +22,11 @@ def common_entries(*dcts) -> tuple[3]:
 
 
 def stringlist_to_vector(list):
-    #cnt = Counter()
     sentence = ""
     for string in list:
         sentence += string
     pattern = re.compile(r"\w+")
     words = pattern.findall(sentence)
-    #cnt.update(words)
     return Counter(words)
 
 
